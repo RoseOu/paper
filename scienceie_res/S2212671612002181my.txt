@@ -1,0 +1,10 @@
+number
+hidden
+algorithm
+nodes
+generalization
+optimal
+critical
+factor
+ELM
+Generally

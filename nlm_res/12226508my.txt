@@ -1,0 +1,10 @@
+CO2
+HCO3-
+transport
+light
+dark
+concentration
+CCM
+Ci
+activity
+O2

@@ -1,0 +1,9 @@
+chemical
+compound
+bacteria
+plants
+nature
+weapons
+drugs
+doctor
+professor

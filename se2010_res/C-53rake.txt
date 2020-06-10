@@ -1,0 +1,38 @@
+continuous distributed multiplayer games
+yi zhang1
+distributed multiplayer games adopt replicated
+architectures
+2t
+1t jtit
+2
+jtit
+2
+jtit
+2
+cooperative shared haptic virtual environment
+dead-reckoning based distributed multi-player games
+describe state transmission based
+methods
+suits state transmission
+based methods
+method named globally
+synchronized dr
+method named globally synchronized
+dr
+large
+typical network transmission delay
+client/server in-game protocol design
+remote site stores received
+state update
+al [8]
+proposed globally synchronized dr
+continuous distributed multiplayer games
+continuous distributed
+multiplayer games
+game session sreal = sp-remote = slate = sremote =
+typical network
+transmission delay
+typical network transmission
+delay
+typical network transmission delay
+make dr maintain high consistency

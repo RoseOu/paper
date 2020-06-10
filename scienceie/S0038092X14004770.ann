@@ -1,0 +1,10 @@
+T1	Process 1029 1056	effective shading sub-model
+T2	Material 707 729	system shown in Fig. 1
+T3	Process 405 423	shading algorithms
+T4	Process 275 291	shading analysis
+T6	Material 64 79	domestic system
+T8	Material 188 193	cells
+T9	Material 203 209	module
+T10	Material 214 221	modules
+T11	Material 232 247	installed array
+T12	Process 440 458	energy yield model

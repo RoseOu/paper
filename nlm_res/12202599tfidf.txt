@@ -1,0 +1,10 @@
+genomovar
+PCR
+BCC
+LMG
+B.
+recA
+sputum
+genomovars
+samples
+cepacia

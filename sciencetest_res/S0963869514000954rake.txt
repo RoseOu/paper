@@ -1,0 +1,10 @@
+mimics biological evolution processes
+genetic algorithm repeatedly modifies
+incorporating statistical information
+complicated objective functions
+multiple local minima/maxima
+decision variable domain
+global optimisation algorithms
+global optimisation technique
+genetic algorithm
+optimisation problem

@@ -1,0 +1,10 @@
+normal quark matter cores
+color neutral quark matter
+normal quark matter
+strange quark mass
+neutral 2sc matter
+parameter set rkh
+parameter set hk
+njl model studied
+favored quark phase
+2sc phase survives

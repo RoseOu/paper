@@ -1,0 +1,50 @@
+aberdeen
+aberdeen ab24 3ue
+united kingdom
+wvasconcelos@acm
+aberdeen
+aberdeen ab24 3ue
+united kingdom
+mkolling@csd
+aberdeen
+aberdeen ab24 3ue
+united kingdom
+tnorman@csd
+distributed artificial 
+intelligence-multi-agent systems
+general terms
+algorithms
+number
+external governor
+agents agents tuple space
+ag1
+£
+¢
+ 
+¡
+gov1 ⇐⇒
+norm-regulated virtual organizations
+wamberto vasconcelos
+dept
+agent ag1 
+adopting role buyer performed action
+uk
+abstract
+norm-governed virtual organizations define
+facilitate
+coordinated resource sharing
+facilitate coordinated resource 
+sharing
+predicate filter norms/4 collects
+virtual organizations
+virtual organizations [17]
+production rules generically depict
+explicitly encoding normative aspects
+agents
+support grid services
+global normative states complement
+norm-regulated software agents serving
+ground
+first-order atomic formula
+current global normative state ω
+holds iff τi · σ = τi · σ

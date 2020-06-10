@@ -1,0 +1,10 @@
+-aac ggt ccg ctc tct cac aca cca cca aga-3
+-aac gga ccg ctt aac tac aga cgc agg cac-3
+-aac ggt ccg gcc gaa gta tgt gat cag tc-3
+-aac gga ccg ctt atg tgc ctc caa tct cgc-3
+herpes simplex virus ul42 dna synthesis processivity factor
+alexa fluor 555-conjugated goat anti-rabbit immunoglobulin
+alexa fluor 488-conjugated goat anti-mouse immunoglobulin
+epithelial human embryonic kidney cell lines 293
+escherichia coli strain bl21 transformed
+alexa fluor 555-conjugated anti-rabbit immunoglobulin

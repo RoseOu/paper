@@ -1,0 +1,10 @@
+protein
+SOS2
+kinase
+kinases
+peptide
+phosphorylation
+|
+shown
+substrate
+activity

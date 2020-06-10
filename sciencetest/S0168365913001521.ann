@@ -1,0 +1,10 @@
+T1	Material 4 21	mesoporous silica
+T2	Material 180 203	tetraethylorthosilicate
+T3	Material 205 209	TEOS
+T4	Material 154 178	soluble silica precursor
+T5	Material 316 346	cetyltrimethylammonium bromide
+T6	Material 348 352	CTAB
+T7	Material 304 314	surfactant
+T8	Material 547 586	mesoporous structure-directing template
+T9	Material 687 700	atomizing gas
+T10	Process 732 740	atomizer

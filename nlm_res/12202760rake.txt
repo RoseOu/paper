@@ -1,0 +1,10 @@
+minor groove strongly affect dna --protein interactions
+disrupting specific transcription factor --dna interactions
+-texas red-modified 450-bp dna fragments puc18 f378*-827
+alkylating py --im triamide --cpi conjugates 7
+-texas red-labeled 450-bp dna fragment prepared
+py --im triamide --cpi conjugates impyimldu86
+-texas red-labeled 426-bp dna duplex
+-texas red-labeled 450-bp dna duplex
+thermo sequenase core sequencing kit
+py --im triamide --cpi conjugates

@@ -1,0 +1,10 @@
+matrix
+sentences
+aligning
+alignments
+sentence alignment model
+kemm
+morphology
+extensional
+experimental results
+error rate

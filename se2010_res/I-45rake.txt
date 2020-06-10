@@ -1,0 +1,38 @@
+implementing commitment-based interactions∗
+michael winikoff
+school
+abstract agent programminglanguage
+agent programming languages
+current agent oriented programming languages
+3apl agent oriented 
+programming language
+}
+endif
+endif
+endfor
+return
+conventional agent-oriented
+programming languages
+framework supports 
+modelling interactions
+applying event calculus planning
+single step
+yields s1
+transition s0 −→ s1 specifies
+distributed artificial 
+intelligencemultiagent systems
+sophisticated belief management methods
+providing programming language support
+interaction participants requires
+revisiting
+briefly review 
+commitment machines
+present
+agent-oriented programming languages
+alternating turn taking regime
+implementing
+goal-oriented agent interactions
+designing
+goal-oriented agent interactions
+designing commitment-based agent
+interactions

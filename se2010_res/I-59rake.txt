@@ -1,0 +1,44 @@
+scenario push day planning
+version npp pp npp pp
+profile size
+tu berlin
+franklinstrasse 28/29
+10587 berlin
+richard
+tu berlin
+franklinstrasse 28/29
+10587 berlin
+sahin
+distributed artificial 
+intelligence-multiagent systems
+general terms
+management
+monitoring critical
+interactions involving potentially private information
+privacy-preserving
+recommender systems
+richard cissée
+dai-labor
+surveys indicating major
+privacy concerns
+jiac iv offers
+components realizing management
+user 25/25 25/25
+provider 125/10
+agent-based context-aware entertainment planning
+system
+yenta multi-agent distributed matchmaking system
+direct content-based filtering
+technique similar
+direct content-based filtering technique based
+jiac iv integrates fundamental aspects
+non-privacy-preserving information 
+filtering process leading
+single information filtering process takes
+privacypreserving recommender system supporting users
+oﬄine
+database access 0
+architectures 
+generate personalized information based
+reject potentially critical
+queries

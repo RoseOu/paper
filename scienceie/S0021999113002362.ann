@@ -1,0 +1,10 @@
+T1	Task 25 69	modelling of plasmas of arbitrary degeneracy
+T2	Process 80 110	binary collision approximation
+T3	Process 122 145	numerical interpolation
+T4	Process 287 301	Pauli blocking
+T5	Process 196 220	Fermi–Dirac distribution
+T6	Task 374 387	plasma theory
+T7	Process 398 414	Monte Carlo code
+T8	Task 444 465	strong coupling limit
+T9	Material 559 578	collisional plasmas
+T10	Process 639 661	Monte Carlo techniques

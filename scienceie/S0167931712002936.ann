@@ -1,0 +1,10 @@
+T1	Task 128 184	model device operations during single electron detection
+T5	Material 563 572	target d1
+T7	Task 935 960	single electron detection
+T2	Process 2 59	3D finite element based (FEM) COMSOL capacitance analysis
+T8	Process 77 124	Monte Carlo single-electron circuit simulations
+T9	Process 159 184	single electron detection
+T3	Material 190 208	3D structural data
+T10	Material 226 244	nanoscale DQD pair
+T11	Material 249 273	multiple gate electrodes
+T12	Material 299 342	COMSOL’s FEM-based electrostatics simulator

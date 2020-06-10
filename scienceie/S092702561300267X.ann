@@ -1,0 +1,9 @@
+T1	Task 66 222	incorporate the thermodynamics of ternary alloys and liquid diffusion-governed solidification kinetics into a multiphase volume average solidification model
+T2	Material 100 114	ternary alloys
+T3	Material 119 168	liquid diffusion-governed solidification kinetics
+T4	Process 176 222	multiphase volume average solidification model
+T5	Process 232 246	Back diffusion
+T6	Material 284 302	thermodynamic data
+T7	Material 336 372	tabulation and interpolation program
+T8	Material 373 377	ISAT
+T9	Material 379 406	In Situ Adaptive Tabulation

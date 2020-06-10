@@ -1,0 +1,10 @@
+elm1
+wild-type
+seedlings
+phytochrome
+mutants
+mutant
+PPhiB
+BV
+maize
+IXalpha

@@ -1,0 +1,10 @@
+genomovars
+genomovar
+pcr
+b
+primers
+primer
+samples
+sample
+cf
+reca gene

@@ -1,0 +1,10 @@
+patients
+doctor
+patient talked
+informed doctors
+clinical
+sociodemographic
+seconds
+spontaneous talking
+clinic cohort study
+mean

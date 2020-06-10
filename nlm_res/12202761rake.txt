@@ -1,0 +1,10 @@
+genomic --est --mrna multiple sequence alignments
+alternative exon database  includes 379 human alternative splices
+complete regulatory machinery controlling tissue specificity
+theta1t + theta2t = 1 theta1similar + theta2similar = 1
+de novo alternative splice discovery databases
+manually curated library tissue classification database
+11 --12 kb band observed ubiquitously
+candidate intronic splice regulatory elements
+providing previously unknown alternative splice forms
+highly conserved n-terminal kinase domain

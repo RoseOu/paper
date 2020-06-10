@@ -1,0 +1,10 @@
+study
+authors
+methods
+numerical
+theoretical
+isogeometric
+analysis
+proposed
+performance
+solvers

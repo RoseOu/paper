@@ -1,0 +1,10 @@
+time-step
+vertical
+Ullrich
+Jablonowski
+Rosenbrock
+advection
+implicit
+Strang
+Runge–Kutta
+IMEX

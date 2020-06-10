@@ -1,0 +1,10 @@
+coordinate
+boundary
+momentum
+DEA
+suitable
+parametrise
+orthonormal
+approximation
+parametrised
+arc-length

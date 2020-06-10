@@ -1,0 +1,10 @@
+RNA
+p33
+proteins
+binding
+protein
+used
+p92
+1
+Fig
+region

@@ -1,0 +1,10 @@
+ELISA
+IgG
+CFT
+IFAT
+fever
+serum
+prevaccination
+burnetii
+PanBio
+=

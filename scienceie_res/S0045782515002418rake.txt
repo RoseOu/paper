@@ -1,0 +1,10 @@
+explicitly enforce inter-element solution continuity
+unlike nodal dg schemes
+nodal dg schemes
+fr schemes utilise
+unstructured high-order method
+fr schemes
+fr methods
+fr approach
+popular type
+computational aerodynamics

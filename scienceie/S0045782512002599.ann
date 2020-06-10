@@ -1,0 +1,10 @@
+T1	Process 0 42	Finite Element Tearing and Interconnecting
+T2	Task 95 154	solvers for large-scale problems in computational mechanics
+T3	Material 160 188	numerical simulation problem
+T4	Material 210 244	number of independent sub-problems
+T5	Material 374 392	complex geometries
+T6	Process 335 356	isogeometric analysis
+T7	Task 419 483	computational domain as a collection of several NURBS geometries
+T8	Process 577 592	NURBS-based IGA
+T9	Process 631 643	FETI methods
+T10	Process 672 712	IsogEometric Tearing and Interconnecting

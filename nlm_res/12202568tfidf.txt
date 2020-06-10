@@ -1,0 +1,10 @@
+VITEK
+oxacillin
+strains
+S.
+CoNS
+mug/ml
+mecA-negative
+mecA-positive
+methicillin
+MIC

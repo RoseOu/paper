@@ -1,0 +1,10 @@
+ahis3-delta1 leu2-3 leu2-112 ura3-52 trp1 --289 cpt1
+stable cho-k1 cell lines expressing t7-epitope --tagged cept1
+implying increased golgi diacylglycerol promotes golgi-derived vesicle transport
+cdp-choline pathway increases de novo phosphatidylcholine biosynthesis
+endoplasmic reticulum resident protein disulfide isomerase
+numbers denote cept1 amino acid residues
+golgi vesicle biogenesis factor protein kinase
+platelet activating factor [paf] precursor
+t7 epitope tag-specific mab coupled directly
+numbers denote amino acid residues

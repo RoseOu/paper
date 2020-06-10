@@ -1,0 +1,10 @@
+contact slip amplitude
+stiffer load path
+piezoelectric load cell
+friction included values
+generate fretting loops
+load cell
+average values
+fretting frequencies
+load sensors
+lateral force

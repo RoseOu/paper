@@ -1,0 +1,10 @@
+cDNA
+PCR
+=
+single-cell
+rtqPCR
+amplification
+kinetics
+precipitation
++-
+DNA

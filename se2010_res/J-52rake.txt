@@ -1,0 +1,17 @@
+multi-hop routing
+michal feldman1
+mfeldman@sims
+generalized mechanism handles strategic forwarding behavior
+2since transit nodes perform actions sequentially
+multiple agents making sequential hidden actions [17
+high-quality versus low-quality 
+forwarding model
+high-quality versus low-quality forwarding
+model
+john chuang1
+chuang@sims
+secure efficient
+distance vector routing
+proposed payment schemes sustain cooperation
+ion stoica2
+istoica@cs

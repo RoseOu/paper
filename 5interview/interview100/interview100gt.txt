@@ -1,0 +1,7 @@
+champion
+team
+frame
+ability
+relationship
+communication
+leader

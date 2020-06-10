@@ -1,0 +1,10 @@
+T1	Process 88 121	Scale-invariant feature transform
+T2	Process 126 130	SIFT
+T3	Process 157 183	Speeded up robust features
+T4	Process 188 192	SURF
+T5	Material 257 267	depth maps
+T6	Process 398 420	Support vector machine
+T7	Process 425 428	SVM
+T8	Task 16 73	comparison between two popular feature extraction methods
+T9	Process 332 355	Microsoft Kinect camera
+T23	Process 441 455	classification

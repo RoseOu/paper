@@ -1,0 +1,10 @@
+macroscopic
+Waals
+radius
+Hamaker
+atoms
+interaction
+semi-infinite
+substrate
+dispersion
+atomistically

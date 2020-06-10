@@ -1,0 +1,109 @@
+hotspot usage
+dim
+zone
+manager
+query
+router
+query
+processor
+event
+manager
+event
+router
+gpsr interface
+sensor networks∗
+xin li
+†
+young jin kim
+†
+ramesh govindan
+†
+wei hong
+‡
+abstract
+greedy
+forwarding
+perimeter
+forwarding
+beaconing
+neighbor
+list
+manager
+update
+bounded
+uniform query distribution
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+50 100 150 200 250 300
+averagecostperqueryinexponentialdistribution
+network size
+dim
+flooding
+ght-
+update
+useuse
+update
+gpsr
+upper interface
+0
+query size
+average#ofreceivedresponses
+perquery
+figure 17
+sixth
+annual acm/ieee international conference
+sixth annual acm/ieee international conference
+eighth annual acm/ieee
+international conference
+normal event 
+distribution generates 2-dimensional events
+distributed data structure 
+supporting efficient queries
+uniform event distribution
+generates 2-dimensional events
+0
+100
+200
+300
+400
+500
+600
+700
+50 100 150 200 250 300
+averagecostperqueryinboundedunifdistribution
+network size
+dim
+flooding
+ght-
+73
+0
+2000
+4000
+6000
+8000
+10000
+12000
+50 100 150 200 250 300
+maximumhotspotontracedataset
+network size
+dim
+flooding
+ght-
+larger storage
+space assert larger-sized zones
+embedded systems
+general terms
+embedded systems
+efficiently answering
+multi-dimensional range queries
+ghtrs incur high query cost
+scalably supports multi-dimensional range queries
+multi-key constant branching index structures

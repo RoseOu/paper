@@ -1,0 +1,65 @@
+ti = ri + incr
+vi = argminj{tj − rj + dij}
+bi = tvi − rvi
+simulation runs converged
+nodes
+n2
+n2
+n2
+n2
+n2 n2
+n2
+n2
+n2
+n2
+minimize
+èi
+èj
+¢αij xij +
+èk wij dikyijk
+£
+subject
+dynamic replica 
+placement algorithm exploiting underlying distributed hash tables [4]
+}{tj − rj + dij }
+costmin = min{cost1
+game-theoretic analysis
+byung-gon chun
+∗
+bgchun@cs
+averagenumberofreplicas
+alpha
+poa
+ratio
+opoa
+replica
+submodularity means decreasing
+marginal utility
+payoff functions neglect network latencies
+αij = k1i + k2i
+updatesizej
+objectsizej
+1
+stable
+solutions called nash equilibria
+payment game
+cost1 = α − ri
+cost2 = minj∈
+introduction
+wide-area peer-to-peer file systems [2
+nash equilibrium solutions place fewer
+replicas
+scalable wide-area web cache sharing protocol
+worst case nash equilibrium places
+replicas
+worst case nash equilibrium places replicas
+worst case nash equilibrium maximizes
+poa = 1
+24
+topology poa
+complete graph 1
+star ≤ 2
+line
+kamalika chaudhuri
+†
+kamalika@cs

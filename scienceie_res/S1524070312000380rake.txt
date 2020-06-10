@@ -1,0 +1,10 @@
+galerkin projection introduces finite-dimensional spaces
+singularly parameterized nurbs surfaces
+partial differential equations
+derive additional conditions
+discretized function space
+3-dimensional nurbs objects
+numerical simulation method
+nurbs basis functions
+resulting test functions
+required regularity properties

@@ -1,0 +1,10 @@
+capacitated vehicle routing benchmarks tested
+direct cooperation protocol based
+general agent-based distributed framework
+capacitated vehicle routing
+agent-based system aims
+modular flexible framework
+permutation flow-shop scheduling
+metaheuristic/local search combination
+agent continuously adapts
+benchmarks tested

@@ -1,0 +1,10 @@
+T1	Task 26 72	conceptual methodology to control liquid state
+T2	Material 76 88	Al-Si alloys
+T3	Process 92 123	melting and holding sub-process
+T4	Process 131 159	pressure die-casting process
+T5	Task 176 227	determine the characteristic of the holding furnace
+T7	Material 237 251	weight percent
+T10	Task 338 376	application of methodology of research
+T12	Process 464 478	real condition
+T13	Material 483 490	foundry
+T14	Material 501 532	horizontal cold chamber machine

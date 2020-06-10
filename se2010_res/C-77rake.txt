@@ -1,0 +1,99 @@
+normal distribution
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+1 10 100 1000 10000
+gaininnumberoftriples
+communication events number
+ipt1
+ipt2
+ipt3
+relevant events
+218
+0
+1000
+2000
+3000
+4000
+5000
+6000
+0 2000 4000 6000 8000 10000
+gaininnumberoftriples
+communication events number
+ipt1
+ipt2
+ipt3
+relevant events
+-5000
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+40000
+45000
+50000
+0 2000 4000 6000 8000 10000
+gaininnumberoftriples
+communication events number
+ipt1
+ipt2
+ipt3
+relevant events
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+100000
+0 2000 4000 6000 8000 10000
+gaininnumberoftriples
+communication events number
+ipt1
+ipt2
+ipt3
+relevant events
+family defines low cost ipt protocols
+adaptive
+causal ordering algorithm suited
+family defines message size-efficient ipt protocols
+distributed computations
+emmanuelle anceaume jean-michel
+boolean matrix-based evaluable 
+condition
+condition k2
+important causality-related distributed computing 
+problem
+important causality-related
+distributed computing problem
+efficient vector clock 
+implementation suited
+efficient vector
+clock implementation techniques
+11th australian
+computing conference
+campus beaulieu
+35042 rennes cedex
+span
+large geographic areas
+messages carry
+additional boolean vectors
+standard normal time distribution
+evaluable condition k2
+locally evaluated
+additional local data structures

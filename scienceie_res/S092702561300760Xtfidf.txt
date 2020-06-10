@@ -1,0 +1,10 @@
+particle
+impacting
+coating
+particles
+nonlinear
+unravelled
+macroscale
+simulation
+copper–copper
+recrystallization

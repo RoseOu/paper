@@ -1,0 +1,10 @@
+requires accurate molecular dynamics simulations
+experimental data requires calculations
+distorted hydrogen bonds
+inner-shell spectroscopic techniques
+x-ray absorption spectroscopy
+x-ray emission spectroscopy
+direct structural probe
+hydrogen bonding network
+observed spectral features
+molecular structure coupled

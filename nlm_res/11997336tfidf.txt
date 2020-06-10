@@ -1,0 +1,10 @@
+tengcongensis
+genome
+T.
+genes
+CDS
+sequenced
++
+genomes
+|
+DNA

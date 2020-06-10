@@ -1,0 +1,10 @@
+viscous
+polar
+continuum
+macroscopic
+uniaxial
+vectors
+polarization
+anisotropic
+equations
+gels

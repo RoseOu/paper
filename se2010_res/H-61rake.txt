@@ -1,0 +1,74 @@
+br
+edleno silva de moura
+computer science department
+federal university
+br
+marco cristo
+computer science department
+federal university
+content-targeted advertising
+berthier ribeiro-neto
+computer science department
+federal university
+d0 d1 dj dk
+t1 t2 t3 ti tm
+8 1
+precision
+recall
+aak_exp_h
+aak_exp
+aak_t
+aak_h
+aak
+8 1
+precision
+recall
+campaign idf
+advertiser idf
+ad idf
+figure 4
+methods hits 11-pt average
+#1 #2 #3 total score gain
+8 1
+precision
+recall
+aak
+andkw
+kw
+ad_kw
+ad
+figure 5
+19th annual international acm sigir
+conference
+17rd annual international acm sigir conference
+8 1
+precision
+recall
+aak_exp
+aak_t
+aak
+figure 6
+edleno silva de moura
+impedance coupling strategies
+table 2 shows top ranked terms
+8 1
+precision
+recall
+aak_exp_h
+aak_h
+aak
+non-intrusive technique called 
+keyword targeted marketing [16]
+term score term score
+1 argentina 0
+page 
+covering argentinean wines produced
+expansion
+terms keyword
+vocabulary impedance
+triggering
+page
+golgher
+akwan information technologies
+av
+operate keyword targeted advertising systems

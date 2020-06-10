@@ -1,0 +1,10 @@
+T1	Process 0 19	Anodizing processes
+T2	Task 40 67	protecting aluminium alloys
+T6	Process 310 338	extend from the film surface
+T7	Process 433 480	growth stopped in the early stages of anodizing
+T10	Task 678 693	ionic migration
+T11	Material 849 876	outward migrating Al3+ ions
+T12	Process 931 938	ejected
+T14	Process 1260 1310	growth of the barrier layer by continued oxidation
+T15	Process 1342 1408	thinning of the barrier layer by either field-assisted dissolution
+T16	Process 1449 1479	field-assisted flow of alumina

@@ -1,0 +1,10 @@
+EBCV
+RBCV
+serum
+0.0001
+L9-81
+<
+HAI
+cattle
+wild-type
+97TXSF-Lu15-2

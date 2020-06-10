@@ -1,0 +1,10 @@
+load
+voltage
+change
+whole
+beam
+pumping
+unit
+light
+changeable
+optimal

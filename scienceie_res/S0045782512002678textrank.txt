@@ -1,0 +1,10 @@
+study
+numerical
+isogeometric
+authors
+method
+problems
+et
+element methods
+solvers
+algebra

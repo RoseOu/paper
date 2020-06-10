@@ -1,0 +1,38 @@
+br
+2
+ecole nationale supérieure des mines de saint-etienne
+158
+jaime sichman1
+1
+laboratório de técnicas inteligentes
+open
+object-based distributed systems ifip transactions
+multiagent systems
+general terms
+design
+introduction
+open multiagent systems
+enhanced art
+common reputation model
+4th
+intl joint conference
+aforementioned general agent architecture
+globally
+shared reputation model
+1st intl joint conf
+art common reputation model
+open distributed systems
+cognitive reputation model
+ontology
+regret
+system reputation model
+11 [distributed artificial intelligence]
+heterogeneous
+agent reputation models
+reputation models interoperability based
+brazil
++55 11 3091 5397
+anarosabrandao@gmail
+slight semantic differences
+cnpq/brazil grant
+310087/2006-6

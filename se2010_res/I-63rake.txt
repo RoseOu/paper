@@ -1,0 +1,66 @@
+distributed artificial intelligence-multiagent systems
+general terms
+algorithms
+toyota technical center usa
+{ddolgov
+solving concisely expressed combinatorial
+auction problems
+τ = 50
+static
+dynamic
+50 100 150 200
+10
+−2
+10
+−1
+10
+0
+10
+1
+10
+2
+10
+3
+global time boundary τ
+cputime
+dynamic version yields higher reward
+chooses globally optimal resource assignments
+approximately efficient online mechanism design
+τ = 50
+static
+dynamic
+50 100 150 200
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+global time boundary τ
+robotics group
+technical research
+information privacy directly
+carry
+computing globally optimal resource
+assignments
+top row shows cpu time
+neural
+information processing systems
+meaning implication linear constraints
+tie
+algorithms produce optimal
+solutions
+computationally manageable combinational auctions
+loosely-coupled
+markov decision processes
+computed optimal
+resource-allocation schedules
+one-shot static
+resource-allocation problem
+computationally
+efficient combinatorial auctions

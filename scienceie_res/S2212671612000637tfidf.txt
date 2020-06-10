@@ -1,0 +1,10 @@
+relativistic
+oscillator
+amplitude-frequency
+harmonic
+Hamiltonian
+variational
+utilized
+amplitude
+nonlinear
+simplicity

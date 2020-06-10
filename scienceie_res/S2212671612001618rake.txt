@@ -1,0 +1,10 @@
+flight control simulation results prove
+obtain non-fragile state feedback controllers
+non-fragile controller design method based
+non-fragile state feedback controller
+additive controller gain variations
+system quadratic performance optimization
+paper presents
+sufficient conditions
+lmi problems
+method

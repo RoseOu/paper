@@ -1,0 +1,10 @@
+java source code snippet detection problem
+paper presents general results
+subgraph isomorphism detection
+constant static trees
+input sample dynamically
+solution offers
+scripthon language
+acceptable speed
+matching algorithm
+low number

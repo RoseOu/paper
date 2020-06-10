@@ -1,0 +1,20 @@
+agents
+agent
+task
+tasks
+networks
+network
+problem
+problems
+algorithms
+allocation
+allocating
+allocate
+allocated
+allocations
+r
+resources
+resource
+p
+algorithm based
+set

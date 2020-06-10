@@ -1,0 +1,10 @@
+diseases
+hosts
+curiosity
+color
+bacteria
+hawking
+favorite
+freely
+deadly
+stream

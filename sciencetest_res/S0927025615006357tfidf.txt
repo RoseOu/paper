@@ -1,0 +1,10 @@
+plasticity
+cyclic
+XFEM
+deformation
+UMAT
+crystal
+parameters
+calibrated
+objective
+nickel-based

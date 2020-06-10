@@ -1,0 +1,10 @@
+ribotyping
+pseudomallei
+isolates
+EcoRI
+ribotype
+B.
+macrorestriction
+automated
+DNA
+Bionumerics

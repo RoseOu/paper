@@ -1,0 +1,10 @@
+cycle
+hear
+group
+sweep
+languages
+french
+ready
+multiple
+good
+exactly

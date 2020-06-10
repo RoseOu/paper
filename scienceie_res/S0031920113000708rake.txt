@@ -1,0 +1,10 @@
+highly variable background noise
+poorly understood phenomena
+separate linear trends
+linear sv segments
+geomagnetic secular variation
+magnitude step change
+main magnetic field
+observatory time series
+fit sa change
+shape sv definition

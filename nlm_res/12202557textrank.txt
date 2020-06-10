@@ -1,0 +1,10 @@
+pcr
+primers
+primer
+sequencing
+sequenced
+sequences
+sequence
+streptococcus
+organisms
+bacterial

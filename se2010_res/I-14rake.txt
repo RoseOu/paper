@@ -1,0 +1,49 @@
+a4 a5 a6 a7
+a2
+a3
+a9
+nei
+hierarchical peer-to-peer information
+retrieval systems
+haizheng zhang
+college
+agents schedule local
+activities including local searching
+large scale distributed agent network
+based organizations
+incoming queries
+tsla-921
+ssna-921
+ssla-921
+tsna-921
+figure 5
+agent organization profiles including topological
+connections
+technology
+pennsylvania state university
+university park
+local search queue lsi stores search sessions
+learning
+query number tsna-random tsla-random tsna-source tsla-source
+500 25
+multi-agent based network based information retrieval
+testbed
+multi-agent based
+peer-to-peer information retrieval systems
+6
+0 500 1000 1500 2000 2500 3000
+arss
+query number
+arss versus query number
+reinforcement learning based distributed search
+algorithm
+dynamically formed
+hierarchical agent organization
+dominant existing routing strategies employed
+partial observation includes non-local information
+non-learning algorithms increases largely linearly
+hierarchical p2p ir 
+system illustrated
+addressing distributed content 
+sharing problems
+p2p based content sharing systems

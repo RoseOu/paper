@@ -1,0 +1,63 @@
+tr kxx kxzn+1 kzn+1x +
+λ1kxxlkxx + λ2kxx
+−1
+kxx
+tr kxx kxzkzx + λ1kxxlkxx
+λ2kxx
+−1
+kxx
+= kxx kxzkzx + λ1kxxlkxx + λ2kxx
+−1
+kxx
+= xt
+xx−1
+zzt
++ λ1xlxt
++ λ2i
+−1
+= kxzn kznx + λ1kxxlkxx + λ2kxx
+kernel laplacian optimal design
+canonical experimental design approaches
+kxzn+1 kzn+1x = kxzn kznx + kxzn+1 kzn+1x
+kun zhou
+microsoft research asia
+beijing
+− 2wt
+zy + wt
+zzt
++ λxlxt
+tr xt
+zzt
++ λ1xlxt
++ λ2i
+−1
+classical experimental design 
+approaches include a-optimal design
+∂w2
+= zzt
++ λ1xlxt
++ λ2i
+h0 =
+∂2
+j0
+∂w2
+= zzt
++ λxlxt
+xt
+zzt
++ λ1xlxt
++ λ2i
+−1
+zn+1 = arg min
+zn+1
+tr kxx
+active learning algorithm called laplacian optimal
+design
+current relevance feedback driven cbir
+systems
+1 low-level image representation
+low-level image representation
+relevance feedback driven content-based image retrieval
+− 2wt
+zy + wt
+zzt

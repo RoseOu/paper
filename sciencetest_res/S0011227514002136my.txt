@@ -1,0 +1,10 @@
+temperature
+time
+control
+CPA
+pill
+hold
+within
+maintained
+servo
+program

@@ -1,0 +1,10 @@
+T1	Process 0 30	Global optimisation algorithms
+T2	Task 57 87	solve the optimisation problem
+T3	Material 231 250	local minima/maxima
+T4	Process 256 273	genetic algorithm
+T5	Process 275 277	GA
+T6	Process 289 318	global optimisation technique
+T7	Material 470 494	decision variable domain
+T9	Material 633 643	population
+T10	Material 645 651	parent
+T12	Process 125 162	incorporating statistical information

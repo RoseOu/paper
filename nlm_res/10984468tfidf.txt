@@ -1,0 +1,10 @@
+guideline
+``
+GEM
+''
+XML
+guidelines
+e.g.
+|
+concepts
+constructs

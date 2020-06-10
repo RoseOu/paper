@@ -1,0 +1,10 @@
+patients
+outpatient
+Spontaneous
+``
+sociodemographic
+consultation
+clinic
+spontaneous
+seconds
+doctors

@@ -1,0 +1,10 @@
+propagation
+thickness
+ultrasound
+shear
+waves
+speed
+wave
+anti-symmetric
+11,12
+measurement

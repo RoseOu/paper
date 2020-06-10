@@ -1,0 +1,10 @@
+Phrap
+contigs
+repeats
+contig
+scaffolds
+data
+clone-insert
+4x
+shotgun
+20mer

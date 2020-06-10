@@ -1,0 +1,10 @@
+dimensional thermal phase field model
+dimensional thermal-solutal phase field model
+forms involving variational derivatives
+free energy reduces monotonically
+model involves time derivatives
+phase field model
+free energy functional
+stable numerical schemes
+natural relaxational phenomena
+relaxational aspect

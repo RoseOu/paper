@@ -1,0 +1,10 @@
+quantum
+adiabatic
+evolution
+search
+algorithm
+paper
+three
+different
+approaches
+implementing

@@ -1,0 +1,10 @@
+strychnine
+ingestion
+mg/l
+elimination
+kinetics
+Strychnine
+serum
+half-life
+concentrations
+poisoning

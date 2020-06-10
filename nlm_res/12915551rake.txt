@@ -1,0 +1,10 @@
+error bars represent means +- standard errors
+error bars represent means +- se
+sodium dodecyl sulfate-10% polyacrylamide electrophoresis gels
+2x sodium dodecyl sulfate loading buffer
+error bars represent means 6 se
+ebv-positive cell line exhibiting low levels
+bovine serum albumin [bsa]/mul
+essentially reconstitute normal lmp1 levels
+ebv-negative human bl cell line
+histogram quantifying lmp1 mrna signals

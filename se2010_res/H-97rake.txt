@@ -1,0 +1,50 @@
+document winner sentence winner
+knn ngram ngram
+na¨ıve bayes unigram ngram
+svm ngram†
+ngram
+voted perceptron ngram†
+ngram
+table 4
+f1 winner accuracy winner
+knn sentence sentence
+na¨ıve bayes sentence sentence
+svm sentence sentence
+voted perceptron sentence document
+table 5
+classifiers document unigram document ngram sentence unigram sentence ngram
+f1
+knn 0
+accuracy f1
+unigram ngram unigram ngram
+knn 0
+bennett
+computer science department
+carnegie mellon university
+pittsburgh
+standard multinomial na¨ıve bayes classifier [16]
+document unigram
+sentence ngram
+figure 3
+na¨ıve bayes poor performance
+carnegie mellon university
+pittsburgh
+defense 
+advanced research projects agency
+defense advanced
+research projects agency
+jaime carbonell
+language technologies institute
+22nd annual
+international acm conference
+denoted document ngram
+15th annual international acm
+conference
+recall = correct positives
+actual positives
+precision = correct positives
+predicted positives
+punish overly long true 
+predictions
+making large-scale svm learning practical
+na¨ıve bayes

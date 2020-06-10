@@ -1,0 +1,10 @@
+protein
+CoA
+Y87G2A.14
+elegans
+|
+1
+fusion
+peroxisomal
+Nudix
+Trx-Y87G2A.14

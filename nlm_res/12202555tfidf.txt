@@ -1,0 +1,10 @@
+HEV
+isolates
+genotype
+hepatitis
+anti-HEV
+swine
+IgM
+ORF2
+patients
+nucleotide

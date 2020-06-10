@@ -1,0 +1,10 @@
+gene
+strains
+strain
+c
+toxin
+toxins
+tcdc
+difficile
+b genes
+different

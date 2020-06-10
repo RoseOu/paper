@@ -1,0 +1,10 @@
+Hfq
+protein
+Sm
+residues
+E.coli
+structure
+shown
+sequence
+proteins
+RNA

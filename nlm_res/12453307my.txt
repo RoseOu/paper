@@ -1,0 +1,10 @@
+calmodulin
+Myo1c
+IQ
+Ca2+
+binding
+1
+Alexa-calmodulin
+using
+peptides
+|

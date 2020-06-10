@@ -1,0 +1,10 @@
+garments
+clothing
+fire
+north
+spaghetti
+global
+check
+possible
+around
+able

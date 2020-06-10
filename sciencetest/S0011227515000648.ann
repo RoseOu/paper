@@ -1,0 +1,10 @@
+T1	Material 27 40	batches #1/#2
+T2	Process 129 154	110-nm process technology
+T3	Material 180 183	LNT
+T4	Material 403 416	batches #3/#4
+T5	Material 421 426	#5/#6
+T6	Process 447 465	process technology
+T7	Process 813 834	transistor parameters
+T8	Process 843 864	transconductance/gain
+T9	Process 866 883	threshold voltage
+T10	Process 889 904	threshold slope

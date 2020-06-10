@@ -1,0 +1,10 @@
+armas
+thirty
+sun
+mercury
+speed
+rocket
+crash
+solar
+audio
+earth

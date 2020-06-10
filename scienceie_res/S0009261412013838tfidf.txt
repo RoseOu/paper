@@ -1,0 +1,10 @@
+graphene
+AC-TEM
+fullerene
+flake
+self-assembly
+e-beam
+top-down
+vacancy
+observations
+vacancies

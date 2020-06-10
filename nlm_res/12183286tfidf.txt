@@ -1,0 +1,10 @@
+gyrA
+isolates
+parC
+mutations
+QRDR
+enterica
+nalidixic
+>
+resistance
+resistant

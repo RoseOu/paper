@@ -1,0 +1,10 @@
+SMS
+SMCR
+genes
+mouse
+genomic
+syntenic
+deletion
+|
+region
+protein

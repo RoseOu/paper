@@ -1,0 +1,10 @@
+dell dimension xps d300 running windows nt server 4
+perform successive identical ad hoc queries
+windows nt operating system performs
+microsoft access 97 database engine running
+windows nt provide system measurements
+highly complex ad hoc queries
+eav/cr schemas gave comparable execution times
+underlying schema requires frequent modification
+conceivably affect specific performance runs
+windows nt performance monitor

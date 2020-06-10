@@ -1,0 +1,10 @@
+cell
+mutants
+cells
+roots
+root
+cytokinesis
+|
+nuclei
+PLE
+1

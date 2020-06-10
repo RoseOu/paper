@@ -1,0 +1,40 @@
+30
+valuation family upper bound reference lower bound reference
+general min
+iterative auctions
+demand auctions
+item-price
+auctions
+anonymous
+price auctions
+ascending
+auctions
+1
+2
+3
+4
+5
+6
+97
+8
+10
+figure 1
+iterative auctions∗
+[extended abstract]
+liad blumrosen
+school
+incentive
+compatible multi unit combinatorial auctions
+anonymous bundle-price
+ascending auctions achieve poor results
+29
+non-anonymous bundle-price economically efficient
+ascending auctions
+-trajectory 
+non-deterministic non-anonymous item-price ascending auctions
+nonanonymous bundle-price ascending auctions differs 
+significantly
+behavioral sciences-economics
+general terms
+algorithms
+iterative combinatorial auction mechanisms rely

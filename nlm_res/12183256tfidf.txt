@@ -1,0 +1,10 @@
+plasmid
+Typhimurium
+serotype
+virulence
+genes
+isolates
+resistance
+plasmids
+pUO-StVR2
+integron

@@ -1,0 +1,10 @@
+Σ
+=
+executed
+Lemma
+orders
+execution
+≤
+Theorem
+≥
+sequence

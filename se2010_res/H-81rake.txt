@@ -1,0 +1,169 @@
+008
+q8
+mp7
+p6
+mp7
+q4
+mp7
+p6
+mp7
+p6
+mp7
+p6
+mp7
+p6
+mp7
+p7
+q2
+color
+layout
+color
+structure
+dominant
+color
+edge
+histogram
+homog
+020
+p6
+mp7
+q8
+q1
+q4
+q2
+p2
+p4
+q6
+q3
+q7
+p1
+q5
+p3
+p5
+p7
+figure 3
+11 18 dark objects / light unsegmented shield
+arms
+12 14 major charges
+jkik
+kk
+jkik
+xx
+mswheresdtruem
+xx
+xx
+swheresatruem
+xx
+black + dark grey + light grey=µ+σ
+co-occurrences
+p3 cb + hamming distance
+p4
+jjkiik
+xx
+xx
+22
+µµ
+µµ correlation
+coefficient
+q6
+
+
+
+
+
+
+−+
+
+
+
+
+
+−−
+
+
+
+
+
+
++−−
+∑∑∑
+∑ ∑∑
+corel
+8 27 large coloured flowers
+9 12 bavarian communal arms
+10 10
+chequered patterns
+2 38 dark white noise
+3 33 moon-
+open mpeg-7 based visual information
+retrieval framework vizir [4]
+texture
+region
+shape
+scalable
+color
+texture
+browsing
+figure 2
+mpeg-7-based retrieval
+horst eidenberger
+vienna university
+jkik
+jkik
+xx
+xx canberra metric
+jkik
+xx
+xx
+22
+angular distance
+2
+2
+1
+minmax
+maxmin
++
+∈
+−
+=
+
+
+
+
+≥
+
+
+
+
+
+−
+=
+=
+
+
+
+
+≥
+
+
+
+
+
+−
+=
+−=
+∈=
+∑ ∑
+∑ ∑
+rp
+ki
+black + dark grey=µ
+jkiki xxw
+city block
+distance
+mp7
+austrian scientific research fund fwf
++
+kulczvnski 1927 [14]
+p6
+2

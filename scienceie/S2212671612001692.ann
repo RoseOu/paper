@@ -1,0 +1,10 @@
+T3	Task 67 95	efficiency of robot dynamics
+T4	Material 146 152	Screws
+T5	Task 165 190	describe dynamic problems
+T6	Material 213 233	O(N) recursive robot
+T7	Process 213 259	O(N) recursive robot forward dynamic algorithm
+T8	Process 307 359	tree topology, closed loop and spatial robot systems
+T9	Task 390 404	robot dynamics
+T10	Process 457 487	dynamics described with screws
+T12	Process 503 537	high efficient dynamics modelling
+T13	Process 542 563	dynamical expressions

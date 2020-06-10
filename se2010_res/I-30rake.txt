@@ -1,0 +1,101 @@
+95
+1
+2 4 6 8 10 12 14 16
+rewardrelativetooptimal
+degree
+skewed small-world
+skewed random
+skewed scale-free
+uniform small-world
+uniform random
+uniform scale-free
+figure 6
+6
+rewardrelativetooptimal
+resource ratio
+skewed small-world
+skewed random
+skewed scale-free
+uniform small-world
+uniform random
+uniform scale-free
+0
+social networks
+mathijs de weerdt
+delft technical university
+delft
+95
+1
+relative reward
+small-world
+average degree
+resource ratio
+relative reward
+figure 5
+e4}
+e1
+e2
+e4
+e3
+v1 v2
+v4v3
+figure 1
+nl
+yingqian zhang
+delft technical university
+delft
+= {e4}
+av4
+ae2
+av2
+ae4
+ae1
+rsc
+0
+5
+10
+15
+20
+25
+30
+0 2 4 6 8 10 12 14 16 18
+numberofagents
+degree
+small-world
+random
+scale-free
+figure 3
+95
+1
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+rewardrelativetoupperbound
+agents
+small-world
+random
+scale-free
+figure 8
+maximal clique based
+distributed coalition formation
+skewed task benefit distribution 
+related
+resulting minimum cost flow represents
+6
+rewardrelativetooptimal
+resource ratio
+small-world
+generating random small-world
+networks proposed
+skewed task benefit
+distribution
+nm + nm +
+nm
+scaling minimum cost
+flow algorithm [9]
+4
+2 4 6 8 10 12 14 16
+rewardrelativetooptimal
+degree
+small-world
+minimum cost flow network problem
+agent-based
+computational transaction cost economics

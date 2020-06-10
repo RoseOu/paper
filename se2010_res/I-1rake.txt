@@ -1,0 +1,37 @@
+distributed artificial
+intelligence-intelligent agents
+general terms
+design
+defense advanced
+research projects agency
+james harland
+rmit university
+melbourne
+single
+step yields configuration s1
+fhc
+explicitly maintains data structures
+neil yorke-smith
+artificial intelligence center
+default failure handling mechanism
+typically found
+enable robust
+open multi-agent systems
+multi-agent exception handling includes aoex
+introduction
+intelligent agents generally work
+domain-independent exception handling services
+usual reflexive
+transitive closure
+transition s0 −→ s1 specifies
+final rule
+gr restarts
+dedicated agent failure handling 
+component
+single transition conclusion
+derivable
+prevent infinitely cascading clean-
+distributed exception handling agents [5]
+sri international
+menlo park
+agent-based exception handling framework

@@ -1,0 +1,10 @@
+EAV/CR
+``
+''
+schema
+query
+database
+queries
+data
+|
+conventional

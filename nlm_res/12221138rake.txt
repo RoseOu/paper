@@ -1,0 +1,10 @@
+075-mm pepmap c18 capillary column coupled
+truncated n-terminus lacking similar60 amino acids
+affinity-purified antibody inhibits fresh rat brain cytosol
+bovine brain cytosol partially restores secretory responsiveness
+donkey anti-rabbit hrp secondary antibody visualized
+6 mg/ml freshly prepared rat brain cytosol
+donkey anti-rabbit hrp-linked secondary antibody
+lc packings ultima hplc system
+freshly prepared rat brain cytosol
+tigr bovine gene index database

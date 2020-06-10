@@ -1,0 +1,10 @@
+11the abbreviated notation δt=δtn
+partition 0=t0<t1<⋯<tn=
+length δtn=tn−tn−1
+time slabs sn=defω×
+=s1∪s2⋯∪sn
+finite time intervals
+current time step
+considered time domain
+time domain
+spatial domain ω

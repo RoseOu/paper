@@ -1,0 +1,69 @@
+∏ ∏∈ ∈
++−=
+=
+domd dt
+dtc
+cdom
+domdom
+tptp
+domp
+dom
+dom
+em
+term initial final change term initial final change
+air 0
+modèles de langue appliqués à la
+recherche
+unsupervised word sense disambiguation
+rivaling supervised methods
+kj
+kj
+kj
+tptp
+ttp
+ttmi =
+•
+∏∈
++−=
+dt
+dtc
+cdomdom tptpdp
+von
+der modellierung zu anwendung
+politics
+query 1-50
+query 51-150
+figure 1
+trec collection statistics
+collection document size
+tptptttp
+ttptttptp
+kj
+kj
+θθ
+θθ
+∑
+∑
+∈
+∈
+=
+=
+219 1-50
+disks 1-3 disks 1-3 3
+recommender systems digital
+libraries
+knowledge models
+co-occurrence knowledge model
+coll
+avoid
+introducing inappropriate expansion terms
+augmenting naive
+bayes classifiers
+final document ranking combines
+dq
+vt
+dq kltptpdqscore θθθθ
+155 351-400
+trec8 disks 4-5 1
+typical solutions include expanding
+logical consequences including contradictions

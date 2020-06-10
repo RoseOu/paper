@@ -1,0 +1,10 @@
+model
+objective
+cyclic
+crystal
+plasticity
+finite
+element
+calibrated
+deformation
+UMAT

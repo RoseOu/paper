@@ -1,0 +1,10 @@
+T4	Process 228 237	SAFT-γ SW
+T6	Process 377 396	non-polar compounds
+T1	Material 164 193	Mixtures of n-alkanes and H2O
+T2	Process 75 97	pure-component systems
+T3	Material 356 371	mixtures of H2O
+T5	Task 759 796	description of the alkane-rich phases
+T7	Material 981 997	aqueous mixtures
+T9	Material 1322 1334	alkyl groups
+T10	Material 1336 1347	CH3 and CH2
+T11	Process 1289 1334	interactions between H2O and the alkyl groups

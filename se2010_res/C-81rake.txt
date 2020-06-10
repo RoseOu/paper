@@ -1,0 +1,48 @@
+harvested energy
+tracking
+energy consumption
+model
+energy storage model
+
+harvestingaware power
+mangement
+energy generation
+model
+load
+figure 1
+picoradio supports ad-hoc ultra-low power wireless
+networking
+vijay raghunathan
+nec labs america
+princeton
+computer
+communication networks-distributed systems
+general terms
+algorithms
+mani srivastava
+electrical engineering department
+university
+adaptive
+duty cycle algorithm performs extremely close
+maximum achievable
+performance assuming perfect knowledge
+theoretical optimal calculated assuming complete knowledge
+slot-by-slot continual duty cycle adaptiation
+low power devices typically provide
+solar energy harvesting wireless embedded
+systems
+environment aware
+decisions improve performance compared
+make
+meaningful performance scaling decisions
+tracks past energy input profiles
+perpetual environmentally
+powered sensor networks
+designing
+battery-powered wireless sensor networks
+adaptive duty cycling algorithm
+prior methods
+harvesting
+aware duty cycle adaptation
+predict future energy opportunities based
+harvesting-aware power management strategy consists

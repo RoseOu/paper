@@ -1,0 +1,10 @@
+defined phase space dividing surfaces attached
+defined phase space geometrical objects
+periodic orbit dividing surfaces
+phase space description
+chesnavich model hamiltonian [37]
+chesnavich model hamiltonian
+realistic molecular pes
+recent developments
+barrierless systems
+molecule reactions

@@ -1,0 +1,10 @@
+SGI1
+DT104
+strains
+ST22
+ST2
+resistance
+integrons
+PCR
+Typhimurium
+serovar

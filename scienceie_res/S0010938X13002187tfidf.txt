@@ -1,0 +1,10 @@
+oxidation
+furnaces
+batch
+Table
+intervals
+temperature
+matrix
+100h
+650°C
+thermogravimetric

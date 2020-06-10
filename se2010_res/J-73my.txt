@@ -1,0 +1,10 @@
+price
+shares
+order
+algorithm
+VWAP
+trading
+market
+1
+volume
+limit

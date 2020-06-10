@@ -1,0 +1,10 @@
+CB-18
+specimens
+protocol
+smear
+sensitivity
+=
+tuberculosis
+respiratory
+NALC-NaOH
+samples

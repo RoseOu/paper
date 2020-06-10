@@ -1,0 +1,10 @@
+orthologues
+homologues
+alignment
+transcription
+elongation
+eukaryotic
+domain
+domains
+amino
+Spt6p

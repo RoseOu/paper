@@ -1,0 +1,10 @@
+isolates
+phenotype
+pneumoniae
+mef
+erythromycin
+PCR
+MLSB
+clone
+S.
+Tn1207.1

@@ -1,0 +1,10 @@
+MapReduce
+workflows
+Hadoop
+Pig
+SQL
+Java
+commonly
+Apache
+acyclic
+DAGs

@@ -1,0 +1,10 @@
+SPS
+17
+powder
+sintering
+holding
+heating
+mould
+electrically
+conductive
+graphite

@@ -1,0 +1,10 @@
+T1	Task 30 142	experimental observations on how solvents can vary the TPA and TPF properties of fluorescent rhodamine (Rh) dyes
+T2	Process 85 88	TPA
+T3	Process 93 96	TPF
+T5	Material 143 147	Rh6G
+T6	Material 149 152	RhB
+T7	Material 157 162	Rh101
+T8	Material 190 204	xanthenes dyes
+T9	Process 275 300	single-molecule detection
+T10	Process 307 333	DNA-sequence determination
+T11	Process 340 362	fluorescence labelling

@@ -1,0 +1,10 @@
+sql commonly
+udfs
+user functions
+pig
+operations
+written
+declarative
+standard
+workflow
+mapreduce workflows

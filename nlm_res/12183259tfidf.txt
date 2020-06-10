@@ -1,0 +1,10 @@
+tetracycline
+pylori
+rRNA
+16S
+Tetr
+26695
+H.
+genes
+181
+transformants

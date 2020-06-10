@@ -1,0 +1,10 @@
+galaxies
+galaxy
+light
+rare
+central body
+ring
+types
+type
+new
+time

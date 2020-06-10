@@ -1,0 +1,10 @@
+T1	Process 41 57	numerical scheme
+T2	Process 71 101	Galerkin finite element method
+T3	Task 108 153	multi-term time fractional diffusion equation
+T4	Process 169 215	multiple Caputo fractional derivatives in time
+T6	Process 545 566	fully discrete scheme
+T7	Process 578 647	finite difference discretization of the Caputo fractional derivatives
+T8	Process 781 802	numerical experiments
+T9	Process 806 828	one- and two-dimension
+T10	Material 875 902	empirical convergence rates
+T11	Material 439 461	new regularity results

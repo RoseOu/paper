@@ -1,0 +1,10 @@
+strains
+influenzae
+resistance
+azithromycin
+L22
+L4
+H.
+MICs
+clarithromycin
+|

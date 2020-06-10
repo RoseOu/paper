@@ -1,0 +1,10 @@
+continuum hydrodynamic description modeling active polar viscous gels
+resulting partial differential equations governing
+energy-consuming uniaxial polar agents constituting
+active polar viscous gels
+uniaxial active agents
+viscous bulk medium
+cortical cytoskeleton flows [46
+small local volume
+general analytically intractable
+polar agents

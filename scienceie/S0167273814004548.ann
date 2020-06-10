@@ -1,0 +1,10 @@
+T1	Material 14 35	micro-contact set-ups
+T2	Material 70 110	asymmetrically heated measurement set-up
+T3	Material 152 161	electrode
+T4	Process 131 161	change the contacted electrode
+T5	Task 192 220	gain statistical information
+T6	Material 254 269	microelectrodes
+T7	Task 341 370	monitoring of optical changes
+T8	Process 421 441	asymmetrical heating
+T9	Process 467 480	local cooling
+T10	Process 577 598	temperature gradients

@@ -1,0 +1,10 @@
+BR
+Arabidopsis
+genes
+CYP90
+CYP85
+levels
+biosynthesis
+BL
+expression
+roots

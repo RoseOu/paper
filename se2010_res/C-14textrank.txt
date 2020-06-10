@@ -1,0 +1,20 @@
+sensor
+traversal sensors
+target
+targets
+detection
+detect
+detecting
+detected
+n
+path exposure
+distributed
+distribution
+distributions
+distribute
+deployment
+deployed
+deploying
+deployments
+deploy
+paths

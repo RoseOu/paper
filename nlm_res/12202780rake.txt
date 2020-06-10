@@ -1,0 +1,10 @@
+pure spectra st matrices optimally fitting experimental data matrix
+uv absorption spectra showed spectral features explaining experimental spectra
+powerful multivariate approach eliminates base line problems
+molar oligomer fraction versus temperature curves
+--5 +- 1 kj /mol matches
+recently proposed multivariate curve resolution method based
+multivariate curve resolution alternating least-squares method
+eventually removing totally rotational ambiguities
+--65 +- 10 kj /mol obtained
+analyze uv molecular absorption data [dm

@@ -1,0 +1,23 @@
+il
+abstract
+algorithmic mechanism design focuses
+giant decentralized systems
+involves aspects
+mobile wireless communication ad-hoc 
+networks
+average low price pl = ls+lb
+2
+sequential mechanisms avoid 
+simultaneous moves
+standard
+model assumes rational agents
+incentive
+compatible multi-unit combinatorial auctions
+tomas sj¨ostr¨om
+bob pays pb = vb
+va+vb
+·
+alice pays pa =
+va
+va+vb
+·

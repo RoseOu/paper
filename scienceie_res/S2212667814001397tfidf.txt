@@ -1,0 +1,10 @@
+Score
+Influence
+journals
+Journal
+SCImago
+regression
+scholarly
+scientific
+weighted
+feasible

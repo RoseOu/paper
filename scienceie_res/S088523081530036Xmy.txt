@@ -1,0 +1,10 @@
+frames
+frame
+posterior
+language
+corresponding
+class
+probability
+score
+test
+utterance

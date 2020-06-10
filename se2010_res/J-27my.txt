@@ -1,0 +1,10 @@
+function
+1
+set
+demand
+=
+utility
+functions
+observations
+''
+sample

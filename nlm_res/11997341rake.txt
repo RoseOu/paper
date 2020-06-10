@@ -1,0 +1,10 @@
+identify noncoding conserved sequences representing candidate transcriptional regulatory elements
+ubiquitously expressed zinc finger transcription factor belonging
+vista global alignment plot displaying sequence similarity
+vista global alignment plots displaying sequence similarity
+vista global alignment plots displaying similarity
+mouse wnt1 regulatory elements revealed consistent differences
+pufferfish scl locus exhibits considerable genomic compression
+pufferfish sequences revealed conserved noncoding sequences missed
+mouse/human alignments showed high sequence similarity
+detect individual conserved transcription factor binding sites

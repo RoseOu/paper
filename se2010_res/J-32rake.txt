@@ -1,0 +1,26 @@
+v1
+v2
+v3
+v4
+v5
+v6
+v7
+-breakpoints w0 = 0 <
+w1 < w2 < · · · < wt−1 < wt = 1
+form
+x1 ∪ y1 ∪ · · · ∪ ym−1 ∪ xm
+behavioral sciences-economics
+general terms
+algorithms
+trees revisited ∗
+edith elkind
+university
+neural
+information processing systems
+neural information processing systems
+solving r-player
+normal-form games
+inductively compute valid 
+breakpoint policies
+leslie ann goldberg
+university

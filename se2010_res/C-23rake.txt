@@ -1,0 +1,125 @@
+0
+100
+200
+300
+400
+500
+600
+pu1
+dl1
+hit1
+bru3
+his3
+con3
+rec3
+pu1
+dl1
+hit1
+bru3
+his3
+con3
+rec3
+pu1
+dl1
+hit1
+bru3
+his3
+con3
+rec3
+pu1
+dl1
+hit1
+bru3
+his3
+con3
+rec3
+500 1000 1500 2000
+file size
+pu1 dl1 rec2 rec3_1 rec3_2 rec4
+0
+10
+20
+30
+40
+50
+60
+70
+rec3_2
+rec4
+rec3_2
+rec4
+rec3_2
+rec4
+rec3_2
+rec4
+rec3_2
+rec4
+rec3_2
+rec4
+rec3_2
+rec4
+10 50 100 500 1000 1500 2000
+file size
+data grid environments
+chao-tung yang i-hsien yang chun-hsiang chen shih-yu wang
+high-performance computing laboratory
+department
+cases
+case servers
+pu1 pu
+dl1 dl
+rec2 pu
+athlon mp 2000 mhz *2
+1 gb ram
+60 gb hd
+pentium 4 1
+hitceleron 900 mhz
+256 mb ram
+60 gb hd
+amd athlon
+8 ghz
+512 mb ram
+80 gb hd
+pu
+da-li high
+school
+xp 2400+
+1024 mb ram
+120 gb hd
+pentium 4 2
+8 ghz
+128 mb ram
+40 gb hd
+pentium 4 2
+conservative load balancing dynamic co-allocation
+strategy divides requested datasets
+5 ghz
+512 mb ram
+80 gb hd
+figure 4
+co-allocation grid data transfer architecture called 
+recursiveadjustment co-allocation scheme
+brute3 history3 conservative3 recursive3
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+500 1000 1500 2000
+file size
+data grid infrastructure integrates data storage devices
+significant factor directly
+influencing data transfer times
+recursiveadjustment co-allocation scheme achieved significant
+performance improvements
+aggressive load balancing dynamic
+co-allocation strategy presented
+statuses slightly affect data transfer performance
+network variations greatly degrade transfer rates
+total idle time faster servers spent waiting

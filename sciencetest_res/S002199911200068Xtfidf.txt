@@ -1,0 +1,10 @@
+FEM
+monodomain
+PDEs
+geometries
+DOF
+simulation
+polynomial
+Myocardial
+bidomain
+approximations

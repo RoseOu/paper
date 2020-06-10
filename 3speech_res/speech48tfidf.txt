@@ -1,0 +1,10 @@
+data
+``
+graphics
+diagram
+Nightingale
+coxcomb
+dots
+Graphicacy
+chart
+Scrabble

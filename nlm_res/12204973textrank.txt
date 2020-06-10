@@ -1,0 +1,10 @@
+dna
+pcr
+sequences
+sequence
+sequenced
+sequencing
+sequencer
+e
+lanes
+lane

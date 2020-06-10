@@ -1,0 +1,10 @@
+=
+1
+mechanism
+agent
+allocation
+cost
+output
+truthful
+agents
+function

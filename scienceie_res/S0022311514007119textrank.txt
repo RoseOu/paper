@@ -1,0 +1,10 @@
+energy
+vacancy
+vacancies
+mc
+iteratively
+iterative
+carlo algorithm
+fe lattice
+periodic boundary
+gradient

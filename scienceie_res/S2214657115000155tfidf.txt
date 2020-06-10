@@ -1,0 +1,10 @@
+porosity
+microCT
+beam
+MicroCT
+visualization
+0.1–0.5
+pores
+raster
+<
+9,10

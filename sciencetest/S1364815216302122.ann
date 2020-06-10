@@ -1,0 +1,10 @@
+T1	Process 47 75	multi-objective optimization
+T2	Process 259 276	scaling procedure
+T5	Process 882 920	Strength Pareto Evolutionary Algorithm
+T6	Process 922 926	SPEA
+T9	Task 1094 1118	evolutionary computation
+T11	Process 1272 1293	Pareto optimal models
+T12	Process 1295 1312	downscaling rules
+T13	Process 469 479	regression
+T14	Process 969 1019	using a single (weighted) fitness or cost function
+T15	Process 1132 1151	fitness calculation

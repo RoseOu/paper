@@ -1,0 +1,10 @@
+hydrogen
+catalysts
+water-gas
+WGSR
+kinetics
+calcite
+unburned
+olivine
+gasification
+900oC

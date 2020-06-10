@@ -1,0 +1,10 @@
+particle
+modelled
+translational
+rotational
+Particle
+Asmar
+particles
+contacts
+Discrete
+granular

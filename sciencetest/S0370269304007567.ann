@@ -1,0 +1,9 @@
+T1	Material 29 43	drift chambers
+T2	Material 94 127	flash analog-to-digital converter
+T3	Material 288 320	drift chamber simulation package
+T4	Material 322 330	GARFIELD
+T5	Material 343 374	gas property simulation package
+T6	Material 376 384	MAGBOLTZ
+T7	Process 894 908	magnetic field
+T8	Process 975 996	chamber manufacturing
+T10	Process 720 732	x–t relation

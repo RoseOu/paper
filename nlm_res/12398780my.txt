@@ -1,0 +1,10 @@
+patients
+ICU
+survivors
+care
+may
+life
+intensive
+illness
+follow-up
+patient

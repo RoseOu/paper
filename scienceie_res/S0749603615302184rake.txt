@@ -1,0 +1,10 @@
+gan layer width smoothly increases
+aln layer thickness decreases
+uniform defect density
+cross-sectional stem data
+measured layer thicknesses
+dbr layer thicknesses
+layer thicknesses
+layer thickness
+stem measurements
+measured reflectivity

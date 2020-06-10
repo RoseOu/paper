@@ -1,0 +1,10 @@
+world
+soil
+get
+acid
+nutrition
+animals
+today
+Kate
+first
+minute

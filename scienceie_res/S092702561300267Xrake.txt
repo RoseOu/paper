@@ -1,0 +1,10 @@
+incorporated full diffusion-governed solidification kinetics
+multiphase volume average solidification model [23
+liquid diffusion-governed solidification kinetics
+perform casting process simulations
+discretized volume elements
+present authors proposed
+linearized phase diagram
+reasonable computation cost
+interpolation program isat
+situ adaptive tabulation

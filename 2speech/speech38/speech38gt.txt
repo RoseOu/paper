@@ -1,0 +1,9 @@
+touch
+haptic
+posture
+movement
+language
+device
+blind
+insight
+design

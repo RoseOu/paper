@@ -1,0 +1,10 @@
+nb unknown discrete lagrange multipliers
+nx unknown nodal coordinates
+tangent stiffness matrix relative
+tangent stiffness matrix
+unconstrained pseudo-solid problem
+off-diagonal blocks cxl
+clx=cxlt arise
+dirichlet boundary conditions
+symmetric positive definite
+lagrange multipliers

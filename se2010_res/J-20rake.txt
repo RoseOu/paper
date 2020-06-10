@@ -1,0 +1,57 @@
+items
+agents
+v1 v2 v3 v4 v5
+e1 e3 e8
+e2
+v1 v2 v3 v4 v5
+e7e6
+e5
+e4
+figure 3
+v1 v2 v3 v4
+v5
+e1 e3 e5
+c1 c2 c3
+e8
+e7
+e6e4e2
+c4
+figure 1
+avrim blum
+computer science
+department
+carnegie mellon university
+avrim@cs
+tuomas sandholm
+computer science
+department
+carnegie mellon university
+sandholm@cs
+abraham
+computer science
+department
+carnegie mellon university
+dabraham@cs
+= v1 = v2 = v3 = v4 = 1
+min v1 +v2 +v3 +v4
+kidney transplant surgeon michael rees
+generate realistic kidney
+exchange market data
+enabling nationwide kidney exchanges
+david
+[23] united states renal data system
+constraint
+ep1 + ep2 +
+3ghz intel pentium 4 
+processor
+primal heuristic rounding & cplex tree search
+actual real-world population data
+expected life years
+added based
+extensive nationwide
+data maintained
+upcoming national
+kidney exchange market
+adding positive price edges one-by-
+short cycle involves distinct 
+vertices

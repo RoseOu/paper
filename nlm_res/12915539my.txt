@@ -1,0 +1,10 @@
+sgRNA
+sgRNAs
+'
+CTV
+RNA
++1
+nucleotide
+5
+nucleotides
+CP

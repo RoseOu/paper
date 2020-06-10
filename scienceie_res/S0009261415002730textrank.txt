@@ -1,0 +1,10 @@
+chains
+chain
+figure
+single crystal phase
+rotation
+rotated
+conformation
+linear
+terthiophene
+calculations

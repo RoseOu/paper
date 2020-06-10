@@ -1,0 +1,26 @@
+multi-attribute coalitional games∗
+samuel ieong
+†
+computer science department
+stanford university
+stanford
+yoav shoham
+computer science department
+stanford university
+stanford
+concluding remarks
+multi-attribute coalitional games constitute
+simple brute-force
+approach takes time polynomial
+maxi
+ˆφi/φi
+• total variation
+maxi φi/ˆφi
+• maximum overestimate
+multi-variate hypergeometric random
+variables
+space 
+requirement compares favorably
+marginal contribution
+nets requires
+model diverse economic interactions

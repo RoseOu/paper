@@ -1,0 +1,10 @@
+T1	Process 0 33	Myocardial electrical propagation
+T2	Material 61 88	monodomain or bidomain PDEs
+T3	Material 137 147	geometries
+T4	Process 203 224	finite element method
+T5	Process 226 229	FEM
+T6	Material 249 253	PDEs
+T7	Process 606 639	high-end supercomputing resources
+T9	Task 766 781	preconditioning
+T10	Task 783 798	parallelisation
+T11	Task 803 831	adaptivity in space and time

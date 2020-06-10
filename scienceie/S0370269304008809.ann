@@ -1,0 +1,10 @@
+T1	Task 52 135	detecting the location of, say, one missing level on an otherwise complete sequence
+T2	Process 173 200	information theory concepts
+T3	Process 217 243	correlations in a sequence
+T4	Task 292 333	error correcting codes can be constructed
+T5	Task 462 489	detecting one missing level
+T6	Process 356 411	no correlations and therefore no redundancy are present
+T7	Process 413 432	Poissonian sequence
+T8	Task 515 548	sequence of equally spaced levels
+T9	Task 550 562	picket fence
+T10	Task 601 665	missed level can be obviously detected as a hole in the spectrum

@@ -1,0 +1,10 @@
+imipenem
+resistance
+aeruginosa
+ceftazidime
+isolates
+P.
+piperacillin-tazobactam
+<
+consumption
+|

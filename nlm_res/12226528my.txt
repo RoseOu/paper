@@ -1,0 +1,10 @@
+plants
+tomato
+spider
+mite
+def-1
+using
+Def-1
+used
+JA
+octadecanoid

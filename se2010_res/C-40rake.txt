@@ -1,0 +1,58 @@
+5% range query
+6% range query
+7% range query
+8% range query
+9% range query
+10% range query
+11% range query
+12% range query
+13% range query
+14% range query
+optimality
+0 0
+10x10 20x20 50x50 100x100 200x200 500x500 1kx1k rq−op
+0
+0
+−table edge indexing
+incremental edge indexing
+full edge indexing
+incremental node indexing
+figure 6
+highly dynamic virtual
+environments∗
+beomjoo seo
+bseo@usc
+ca 90089
+abstract
+newly emerging game-based application systems
+indexing update time evaluation time total
+single-tablef ull
+3
+incremental
+edge indexing method outperforms full update edge indexing
+−measure
+optimality
+rq−op
+rq−
+massively multiplayer online role
+playing game
+existing grid
+partitioning-based indexing methods node indexing
+indexing method expected elapsed time
+node indexing ts ·
+standardized 
+singlevalued query evaluation metric
+supports highly scalable real-time visibility determination
+outperform single-table full update
+edge indexing
+indexing method user entities object entities
+node indexing
+edge indexing methods outperform
+node indexing
+client-server based grid subspace
+division
+2 cell evaluation cost
+node indexing scans
+full update based single-table edge 
+indexing
+simulation program populated 100k object entities

@@ -1,0 +1,10 @@
+T1	Process 0 10	Ultrasound
+T2	Process 12 14	US
+T3	Task 85 104	inertial cavitation
+T4	Material 55 64	liposomes
+T6	Process 613 635	intratumoral injection
+T7	Material 186 196	gas bubble
+T8	Material 476 487	gas bubbles
+T13	Material 1105 1123	US contrast agents
+T14	Material 1203 1220	oncolytic viruses
+T15	Process 1319 1340	US-induced cavitation

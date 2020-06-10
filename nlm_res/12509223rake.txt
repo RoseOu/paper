@@ -1,0 +1,10 @@
+porcine aortic endothelial cell lines stably overexpressing flt-1
+contained full-length wild type human c-src cdna
+porcine aortic endothelial cells stably overexpressing flt-1
+vegfr-overexpressing porcine aortic endothelial cell lines
+src family sh3 domains preferentially bind proline-rich motifs
+gst-src unique sh3 sh2 domain fusion protein
+gst-src sh3 src sh2 domain fusion protein
+gst-src sh3 sh2 domain fusion protein
+mechanisms involving src family tyrosine kinase
+33 mul src kinase reaction hot mix

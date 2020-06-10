@@ -1,0 +1,10 @@
+=
+−
+nodes
+node
++
+equilibrium
+LCP
+xG
+utility
+behavior

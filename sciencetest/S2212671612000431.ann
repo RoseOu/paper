@@ -1,0 +1,7 @@
+T1	Material 38 41	LBP
+T2	Material 43 63	local binary pattern
+T3	Task 271 336	eye location geometric normalization illumination normalization
+T4	Process 403 405	ER
+T5	Process 407 421	Eyeball Search
+T6	Process 377 396	eye location method
+T15	Task 490 501	recognition

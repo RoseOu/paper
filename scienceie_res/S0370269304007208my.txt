@@ -1,0 +1,10 @@
+part
+theory
+confining
+well
+known
+solutions
+effective
+obtained
+equation
+Lagrangian

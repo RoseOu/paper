@@ -1,0 +1,10 @@
+c-22 steroid side chain hydroxylase cyp90b1 acting immediately upstream
+cpd promoter-driven gus reporter fusion showed activity
+semiquantitative reverse transcriptase-polymerase chain reaction analyses show
+sharing approximately 35% amino acid sequence identity
+br biosynthesis genes affects active hormone levels
+encode non-p450-type enzymes  acting upstream
+bri1 leu-rich repeat receptor kinase
+encoding enzymes acting farther upstream
+clustalw multiple alignment program  shows
+sharing 82% amino acid sequence identity

@@ -1,0 +1,10 @@
+SMS-REP
+proximal
+SMS-REPs
+distal
+genomic
+chromosome
+RP11
+clones
+BAC
+|

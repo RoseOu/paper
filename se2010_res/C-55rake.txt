@@ -1,0 +1,40 @@
+implemented sensors
+sensor accuracy coverage administration
+rfid < 10 cm poor easy
+wlan 1-4
+johannes kepler universität linz
+altenbergerstraße 69
+stefan oppl
+institut für pervasive computing
+sensor 
+encapsulationattributes asynchronously transmit sensor-dependent position
+information
+proximity sensor abstraction-attributes
+collect physical proximity information
+attribute bluetooth sensor abstraction
+detects congruence
+desk@room2@department1@1stfloor@building 1@campus
+organisational
+innovation system integrates aspects
+existing open source instant
+messenger
+single
+sensor detects multiple tags
+2 proximity sensor fusion
+proximity sensor fusion
+5 context-aware availability management
+instant messengers
+icq2
+-compliant simple instant messenger
+attribute location sensor fusion receives
+wirelessly connected mobile
+devices
+group interaction support
+alois ferscha
+commercial wlan
+positioning system
+location sensor
+abstraction-attributes collect
+ieee computer society press
+ieee computer society
+press

@@ -1,0 +1,10 @@
+hydrates
+semiclathrate
+clathrate
+conductivity
+thermal
+hydrate
+ionic
+thermophysical
+21–30
+tetrabutylammonium

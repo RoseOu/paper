@@ -1,0 +1,10 @@
+solar
+radiation
+temperature
+inlet
+simulations
+800W/m2
+ambient
+simulation
+Simulation
+intensities

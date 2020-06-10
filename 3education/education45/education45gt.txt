@@ -1,0 +1,5 @@
+bees
+colour
+pattern
+sting
+protection

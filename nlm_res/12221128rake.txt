@@ -1,0 +1,15 @@
+spb  = spindle pole body
+turc  = gamma-tubulin ring complex
+gamma-tubulin complex protein
+pericentriolar material
+protein kinase
+spindle pole body component spc110p
+cdna fragments encoding amino acids 1 --744
+cdna fragments encoding amino acids 744 --909
+anchoring gamma-tubulin ring complex
+microtubule assembly
+spindle pole body
+kazusa dna research institute foundation
+green fluorescent protein --tagged calmodulin
+rho-activated protein kinase pkn
+cdna fragment encoding cg-nap3510 --3828

@@ -1,0 +1,10 @@
+nuclear
+chaotic
+levels
+1f
+fluctuations
+discrete
+time
+series
+systems
+energy

@@ -1,0 +1,57 @@
+pk
+ij =
+hj ≥ pk +1
+ij ≥ · · · ≥ pk
+ij = lj
+cycle monotonicity
+ron lavi
+industrial engineering
+xk+1
+ij
+`
+pk
+ij − pk+1
+ij
+´
+≥ 0
+=1 xk+1
+ij
+`
+pk
+ij − pk+1
+ij
+´
+≥ 0
+weak monotonicity characterizes
+deterministic dominant-strategy implementation
+introduction
+mechanism design studies algorithmic constructions
+pk
+ij = hj > pk−1
+ij = lj
+xk+1
+ij pk
+ij
+˜
+≥ 0
+mechanism design studies strategic settings
+pk
+ij − pk+1
+ij
+characterizing dominant
+strategy mechanisms
+il
+chaitanya swamy
+combinatorics
+fast monotone 3-approximation algorithm
+additionally
+desired normalization property
+fractional algorithm satisfies cycle 
+monotonicity
+optimal schedule assigns jobs 1-5
+necessarily yield
+efficiently-computable prices
+approximately efficient combinatorial auctions
+immediately implies cycle 
+monotonicity
+deterministic 2-approximation truthful mechanism

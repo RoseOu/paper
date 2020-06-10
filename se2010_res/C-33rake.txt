@@ -1,0 +1,50 @@
+proceeds
+manage context
+provide context
+getreputation
+getreputation
+update reputation information
+providing context
+information
+bing shi
+state key laboratory
+cn
+xianping tao
+state key laboratory
+cn
+jian lu
+state key laboratory
+distributed 
+applicationsproviding context information
+general terms
+context
+1
+software technology
+nanjing university
+nanjing
+10th european software engineering
+conference
+query context services 
+allowing clients
+realizing dynamic context consistency management
+context-aware applications exploit 
+context information
+wa
+c1 + wa
+c2 = 1
+framework supports inconsistency detection based
+current
+application requires context manager
+context-aware applications utilize context information
+directly impact future encounters
+wa
+1 + wa
+2 + wa
+3 =1
++ wa
+c2 · ua
+rep
+acm sigmobile mobile computing
+context information satisfying qoc requirements
+provide conflictive context
+information

@@ -1,0 +1,10 @@
+popular feature extraction methods
+scale-invariant feature transform
+ten defined gestures
+microsoft kinect camera
+support vector machine
+robust features
+depth maps
+left hand
+classification method
+svm prediction

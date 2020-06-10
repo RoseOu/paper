@@ -1,0 +1,37 @@
+jp
+katsumi inoue
+national institute
+communication sciences
+wakayama university
+sakaedani
+multiagent systems
+general terms
+theory
+1
+existing answer set solvers
+section 5 discusses related
+works
+single u-minimal answer set
+agent ag1 accumulates integrity 
+constraints
+u-minimal answer sets exist
+employ abductive logic programming
+abductive logic
+programming architecture
+computing knowledge base updates
+cooperating knowledge based systems
+answer set satisfying
+g4
+conditional neighborhood proposal reduces
+extended abduction introduces/removes
+hypotheses
+supporting information 
+representing conditions
+abductive logic programming [9] introduces
+preliminaries
+logic programs considered
+making counter-proposals
+involves generating
+conditional 
+neighborhood proposal
+g4

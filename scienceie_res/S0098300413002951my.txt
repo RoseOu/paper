@@ -1,0 +1,10 @@
+mass
+virtual
+orientation
+ammonoid
+occurrence
+method
+depositional
+used
+fossil
+interior

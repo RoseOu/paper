@@ -1,0 +1,10 @@
+ci
+artifacts
+artifact
+recording
+mode
+eeg
+growth
+potentials
+potentially
+pulse trains

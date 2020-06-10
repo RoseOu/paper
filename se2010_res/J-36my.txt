@@ -1,0 +1,10 @@
+games
+game
+Socratic
+1
+''
+players
+information
+Nash
+query
+Player

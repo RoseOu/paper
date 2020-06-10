@@ -1,0 +1,10 @@
+U6
+snRNA
+'
+3
+U4
+localization
+nucleoli
+nucleolar
+RNA
+end

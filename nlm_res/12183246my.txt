@@ -1,0 +1,10 @@
+isolates
+B.
+resistance
+fragilis
+species
+anaerobes
+susceptibility
+cefoxitin
+agents
+clindamycin

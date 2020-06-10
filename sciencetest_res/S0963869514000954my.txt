@@ -1,0 +1,10 @@
+algorithm
+optimisation
+used
+study
+GA
+population
+genetic
+Global
+algorithms
+solve

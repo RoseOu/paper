@@ -1,0 +1,10 @@
+cefotaxime
+mutations
+mutant
+TEM-1
+substitutions
+mug/ml
+allele
+Stemmer
+resistance
+beta-lactamase

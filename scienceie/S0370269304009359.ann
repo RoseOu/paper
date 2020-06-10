@@ -1,0 +1,10 @@
+T2	Process 25 33	B decays
+T3	Process 59 70	decay pairs
+T8	Material 177 183	mesons
+T13	Task 411 434	find the decay vertices
+T20	Material 602 612	quark pair
+T22	Material 681 682	η	
+T32	Material 848 850	SM
+T5	Material 442 457	final particles
+T6	Material 538 553	pairs of decays
+T35	Material 925 937	vector meson

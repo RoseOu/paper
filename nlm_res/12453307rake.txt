@@ -1,0 +1,10 @@
+actin activated basal mg2+-atpase activity ~15-fold
+calmodulin light chains exhibited actin-activated atpase activity
+25-ml superdex 200 hr 10/30 column run
+bmg labtechnologies fluorostar 403 microplate fluorometer
+25-ml superdex 200 hr 10/30 column
+sodium dodecyl sulfate gel electrophoresis
+quenching correction introduced substantial scatter
+purified myo1c apparently includes 2 --3 calmodulins
+including essential light chain isoforms
+ca2+ increases myo1c atpase activity

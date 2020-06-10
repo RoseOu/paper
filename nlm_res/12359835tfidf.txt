@@ -1,0 +1,10 @@
+msec
+stimuli
+=
+subjects
+``
+MMF
+''
+deviant
+duration
+Japanese

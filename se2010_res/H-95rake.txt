@@ -1,0 +1,41 @@
+ana paula afonso
+faculdade de ciências da universidade de lisboa
+1749-016 lisboa
+5
+geoclef06 en 32 28 19 msec msec
+geoclef06 pt 25 23 11
+imgclef06 en 24 16 18
+table 2
+query
+queries ml tgn ml tgn
+geoclef05 en 25 19 20
+geoclef05 pt 25 20 18 288
+recognizing geographical references
+presents additional challenges [9]
+tgn concepts ml concepts
+vegetable exporters
+3rd
+latin american web congress
+related work
+search engine performance depends
+clef 2005 cross-language geographic
+information retrieval track
+web queries pose additional challenges
+exploiting geographic scopes previously
+assigned
+exploiting geographic scopes 
+previously assigned
+exploiting geographic scopes previously assigned
+exploiting geographic scopes
+previously assigned
+ml include global 
+geographical information
+europe vegetable exporters contained-
+search engine queries
+bruno martins
+instance pt includes street names
+5th ieee international conference
+geographical scopes previously
+inferred
+language-independent named
+entity recognition

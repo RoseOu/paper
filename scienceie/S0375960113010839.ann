@@ -1,0 +1,10 @@
+T1	Process 16 27	glued trees
+T3	Task 47 61	quantum search
+T4	Material 127 135	GT graph
+T5	Task 268 287	quantum walk search
+T6	Task 328 356	classical random walk search
+T7	Material 394 403	GT graphs
+T8	Material 373 388	class of graphs
+T9	Task 416 438	classical random walks
+T11	Process 1055 1067	gluing stage
+T13	Process 791 831	increasing degree of phase damping noise

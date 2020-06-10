@@ -1,0 +1,10 @@
+method
+grid
+numerical methods
+distance
+distances
+set
+values
+value
+propagation
+difference scheme

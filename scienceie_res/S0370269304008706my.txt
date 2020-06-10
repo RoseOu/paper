@@ -1,0 +1,10 @@
+deuteron
+data
+GeV/c
+within
+good
+parameter
+agreement
+calculations
+wave
+function

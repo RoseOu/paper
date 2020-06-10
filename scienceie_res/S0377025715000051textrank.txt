@@ -1,0 +1,10 @@
+frequencies
+frequency
+g
+waveforms
+waveform
+strain
+shear
+relaxation
+reported
+fourier

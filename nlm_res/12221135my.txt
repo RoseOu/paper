@@ -1,0 +1,10 @@
+proteins
+fusion
+sec22Delta
+SNARE
+Sec22p
+transport
+Ykt6p
+protein
+membranes
+cells

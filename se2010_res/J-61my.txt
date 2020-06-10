@@ -1,0 +1,10 @@
+trade
+1
+exchange
+bidders
+trades
+prices
+rule
+value
+=
+bidder

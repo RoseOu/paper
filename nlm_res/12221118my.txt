@@ -1,0 +1,10 @@
+inversin
+protein
+cells
+|
+proteins
+antibody
+cell
+beta-catenin
+2
+N-cadherin

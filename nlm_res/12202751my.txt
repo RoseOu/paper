@@ -1,0 +1,10 @@
+CBF-A
+DNA
+tetraplex
+2
+'
+CGG
+protein
+G
+qTBP42
+structures

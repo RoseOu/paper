@@ -1,0 +1,32 @@
+js1
+s2 b1
+s3 b2
+b3s4
+s5 b4
+s6 b5
+s8 b7
+s7 b6
+linear programming
+helps solving large multi-unit combinatorial
+auctions
+il
+pierfrancesco la mura
+leipzig graduate school
+electronic 
+commerce-payment schemes
+general terms
+algorithms
+truthful efficient markets
+yair bartal
+∗
+school
+incentive
+compatible multi-unit combinatorial auctions
+single-unit heterogeneous bilateral
+trade negotiation-range mechanism
+single-unit
+heterogeneous mechanism bypasses myerson
+il
+rica gonen
+school
+weighted bipartite graph connecting buyers

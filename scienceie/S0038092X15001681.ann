@@ -1,0 +1,9 @@
+T1	Material 127 151	standard silicon modules
+T2	Material 177 200	high efficiency modules
+T3	Process 8 32	reverse current analysis
+T5	Material 465 500	10 strings of 18 modules per string
+T6	Material 527 537	Voc of 873
+T7	Material 539 542	VDC
+T8	Material 275 281	system
+T9	Material 382 404	high efficiency system
+T11	Material 356 366	Voc of 864

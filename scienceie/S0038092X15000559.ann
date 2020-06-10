@@ -1,0 +1,10 @@
+T1	Process 0 26	Progressive photon mapping
+T2	Process 79 136	iterative extension of the standard static photon mapping
+T3	Process 168 186	Radiance extension
+T4	Process 387 409	Monte Carlo raytracing
+T5	Process 355 374	mitigates the noise
+T6	Process 413 455	combining successive results and averaging
+T7	Process 484 520	density estimate bandwidth1Bandwidth
+T8	Process 535 577	support, or area of influence, of a filter
+T9	Task 887 972	describe either the radius or the number of nearest neighbours for a density estimate
+T10	Process 1070 1083	mitigate bias

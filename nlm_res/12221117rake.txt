@@ -1,0 +1,21 @@
+arf-binding protein
+glutathione s-transferase
+mannose 6-phosphate receptor
+prevacuolar compartment
+red fluorescent protein
+trans-golgi network
+domain present
+arf  = adp-ribosylation factor
+gal4 activation domain
+gal4 binding domain
+gga
+current evidence strongly favors gga --arf interaction
+mannose 6-phosphate receptor
+lipid modifying enzymes act upstream
+tom1
+green fluorescent protein
+localized  = gga
+mutant yeast gga proteins retain golgi localization
+genes disrupts distinct post-golgi trafficking events
+unique site elimination mutagenesis kit
+gtp-bound arf recruits mammalian gga proteins

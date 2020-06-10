@@ -1,0 +1,10 @@
+cnb
+mutant
+figure
+figures
+protein
+proteins
+c
+ca
+defective
+defect

@@ -1,0 +1,10 @@
+isolates
+pneumoniae
+DHA-1
+beta-lactamases
+inducible
+K.
+clavulanic
+|
+cefotaxime
+AmpC

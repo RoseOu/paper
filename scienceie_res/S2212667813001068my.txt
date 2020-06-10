@@ -1,0 +1,10 @@
+core
+models
+permeability
+tight
+classification
+scale
+method
+porosity
+sandstones
+relationship

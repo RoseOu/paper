@@ -1,0 +1,10 @@
+multi-term time fractional diffusion equation
+involves multiple caputo fractional derivatives
+space semidiscrete galerkin scheme
+galerkin finite element method
+simple numerical scheme based
+empirical convergence rates agree
+fully discrete scheme based
+caputo fractional derivatives
+fully discrete scheme
+finite difference discretization

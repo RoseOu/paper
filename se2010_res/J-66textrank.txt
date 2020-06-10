@@ -1,0 +1,10 @@
+bidding
+bids
+bid
+charities
+charity
+donations
+donating
+donation
+donate
+donator

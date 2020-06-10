@@ -1,0 +1,6 @@
+species
+economy
+trees
+resources
+diversity
+value

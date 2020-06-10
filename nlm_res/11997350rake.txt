@@ -1,0 +1,11 @@
+functional transcription factor binding sites
+identifying transcriptional regulatory elements represents
+analyzing similar925 kb noncoding human sequence independent
+functional transcriptional regulatory sequences controlling gene expression
+efficiently prioritize functionally relevant noncoding sequences
+rvista analysis algorithm identifies experimentally characterized tfbs
+open bars represent predicted gata-3 sites
+ap-1 synergistically form stable complexes
+static dna window perfectly centered
+final data processing step includes
+biologically active gene regulatory elements

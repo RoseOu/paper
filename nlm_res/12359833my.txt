@@ -1,0 +1,10 @@
+associative
+memory
+patients
+single-item
+hippocampal
+amnesic
+region
+items
+two
+test

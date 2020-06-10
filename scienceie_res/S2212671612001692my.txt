@@ -1,0 +1,10 @@
+robot
+dynamics
+efficiency
+screws
+high
+N
+control
+key
+point
+optimal

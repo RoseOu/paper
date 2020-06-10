@@ -1,0 +1,10 @@
+sequential monte carlo sampling
+cost function consisting
+gaussian-blurred intensity values
+projected model points”
+cost function gradient”
+genetic algorithm optimizer
+genetic population
+stochastic approaches
+global optima
+evolutionary algorithms

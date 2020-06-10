@@ -1,0 +1,10 @@
+tetracycline
+pylori
+H.
+resistance
+strain
+16S
+26695
+181
+rRNA
+Tetr

@@ -1,0 +1,10 @@
+isolates
+penciclovir
+acyclovir
+antiviral
+mug/ml
+HSV-1
+IC50
+prevalence
+HSV
+resistant

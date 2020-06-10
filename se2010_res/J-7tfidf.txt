@@ -1,0 +1,10 @@
+−
+=
++
+>
+payoff
+epidemic
+technologies
+zA
+nodes
+AB

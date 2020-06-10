@@ -1,0 +1,10 @@
+F
+tobacco
+500
+TMV
+leaf
+resistance
+plants
+PR-1
+tissue
+|

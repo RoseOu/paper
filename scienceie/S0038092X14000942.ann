@@ -1,0 +1,6 @@
+T1	Task 0 39	Thermal performance of the smart window
+T2	Process 75 95	simulated parameters
+T3	Process 104 136	direct solar radiation intensity
+T4	Process 138 157	ambient temperature
+T5	Process 159 182	water inlet temperature
+T6	Process 188 203	water flow rate

@@ -1,0 +1,10 @@
+lattice
+Fe
+bubble
+bubbles
+bcc
+mechanisms
+temperature
+induced
+strain
+steels

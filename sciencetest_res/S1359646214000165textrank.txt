@@ -1,0 +1,10 @@
+ti
+wave
+electron
+electronic
+pseudopotential
+pseudopotentials
+correlation
+covalent
+polarization
+calculations

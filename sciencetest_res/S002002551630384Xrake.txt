@@ -1,0 +1,10 @@
+techniques visualize grouping information
+support visualizing set overlaps
+single visualization relied
+technique removes edges
+encode multiple categories
+involve finding relations
+well-formed euler diagrams
+represent restricted kinds
+grouped network data [8]
+arbitrary overlapping sets

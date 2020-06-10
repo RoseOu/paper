@@ -1,0 +1,10 @@
+max-algebraic matrix powers
+optimal walks
+growing length
+growing exponents
+eventually periodic
+strongly connected
+critical node
+periodicity depends
+study sequences
+weighted digraphs

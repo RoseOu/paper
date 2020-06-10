@@ -1,0 +1,10 @@
+scenarios
+Fe2O3
+simulated
+LOI
+25×25×12meter3
+12meter
+phosphorous
+silica
+aluminum
+quantify

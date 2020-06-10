@@ -1,0 +1,10 @@
+responses
+|
+respondents
+physicians
+questionnaire
+analysis
+surveys
+survey
+response
+sample

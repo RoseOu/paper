@@ -1,0 +1,10 @@
+pcr
+dna
+atcc
+periodontal
+periodontitis
+samples
+sampling
+sample
+probes
+probing

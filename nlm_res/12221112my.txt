@@ -1,0 +1,10 @@
+Ypk1
+cells
+Ykr2
+cell
+protein
+ykr2Delta
+|
+2
+growth
+3

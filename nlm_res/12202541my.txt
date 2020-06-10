@@ -1,0 +1,10 @@
+isolates
+pneumoniae
+DHA-1
+K.
+|
+beta-lactamases
+inducible
+resistance
+acid
+cefotaxime

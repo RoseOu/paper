@@ -1,0 +1,10 @@
+coupled rte model describes light propagation accurately
+boundary conditions describing fresnel reflection
+piece-wise constant refractive index
+neglecting internal refractive index
+constant refractive index
+internal refractive index
+erroneous boundary measurements
+resulting coupled system
+radiative transport equation
+monte carlo method

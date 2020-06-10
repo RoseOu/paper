@@ -1,0 +1,10 @@
+lighting
+mutant
+plants
+plant
+planting
+seedlings
+mm
+elm
+phytochrome
+phytochromes

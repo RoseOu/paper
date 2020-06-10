@@ -1,0 +1,56 @@
+classes
+cstr 476 4
+webkb4 4199 4
+reuters 2900 10
+webace 2340 20
+newsgroup4 3970 4
+cstr
+methods
+cstr webkb4 reuters webace news4
+km 0
+computer science
+florida international university
+miami
+combining locally regularized linear label predictors jl
+unlike traditional globally 
+regularized clustering methods
+traditional purely
+document vector based methods
+changshui zhang
+state key lab
+twelfth acm sigkdd
+international conference
+minimized
+ji =
+1
+ni
+xj ∈ni
+wt
+np hard integer 
+programming problem
+= ut
+wi = ut
+xi xt
+locally linear regularized label
+predictors
+xi + λiniii
+−1
+qi − qi
+2
+= pq −
+learning-concept learning
+general terms
+algorithms
+1
+reuters-21578 text categorization test
+collection
+local regularized linear label predictor
+traditional
+document retrieval engines tend
+normalized mutual information comparison
+results
+xj − qj
+2
++ λi wi
+2
+university computer science departments

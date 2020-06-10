@@ -1,0 +1,10 @@
+plastic
+crystal plasticity
+material
+crack
+model
+high
+finite element
+stress
+cyclic deformation
+umat

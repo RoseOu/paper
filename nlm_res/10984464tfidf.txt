@@ -1,0 +1,10 @@
+technologies
+memory
+communication
+synchronous
+``
+''
+cognitive
+tasks
+behaviors
+asynchronous

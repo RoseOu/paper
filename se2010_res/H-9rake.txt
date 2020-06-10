@@ -1,0 +1,47 @@
+cluster/baseline 53/55 50/64
+log/baseline 55/44 60/45
+log/cluster 68/47 69/44
+table 3
+conducting
+id query url time
+1 win zip http
+search engine logs
+search engine logs record
+msn search log
+data set released
+search
+result organization based past search engine logs
+organize search results
+xuanhui wang
+department
+southwestern college jaguar softball team
+@5
+cluster optimized log optimized log tuned
+@5
+#queries retrieved
+test set 1
+test set 2
+figure 5
+/winzip xxxx
+2 time zones http
+sigma
+cluster-based 1
+log-based 1
+cluster-based 2
+log-based 2
+figure 4
+comparison test set 1 test set 2
+impr
+microsoft live
+labs research grant
+commercial search engine log data
+hierarchical monothetic
+document clustering algorithm
+xxxx
+1 win zip http
+method test set 1 test set 2
+mmr
+nsf
+career grant iis-0347933
+describe search engine log data
+oﬄine batch manner

@@ -1,0 +1,23 @@
+common voting rules∗
+vincent conitzer
+carnegie mellon university
+5000 forbes avenue
+pittsburgh
+tuomas sandholm
+carnegie mellon university
+5000 forbes avenue
+pittsburgh
+single transferable
+vote resists strategic voting
+approval voting rule introduces strategic voting
+behavioral sciences-economics
+general terms
+algorithms
+efficient ascending price bundle
+auction
+candidates rm lm
+rm −1 lm −1
+candidates rm lm rm −1 lm −1
+ranking c1
+c2 c3 c4
+ranking c1 c3 c2 c4

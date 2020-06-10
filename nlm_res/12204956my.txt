@@ -1,0 +1,10 @@
+coccidioidomycosis
+T27K
+study
+patients
+coccidioidal
+CD69
+expression
+response
+antigen
+assay

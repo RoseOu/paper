@@ -1,0 +1,10 @@
+latency
+simulation
+co-simulation
+communication
+simulators
+distributed
+summarizes
+impacts
+thermo-electric
+synthetically

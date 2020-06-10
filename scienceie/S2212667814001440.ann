@@ -1,0 +1,10 @@
+T1	Process 28 61	tele-operated mobile robot system
+T2	Task 66 86	old age surveillance
+T3	Process 110 125	autonomous mode
+T4	Process 146 174	navigates in the environment
+T5	Process 179 207	search for unusual situation
+T6	Material 211 225	elderly people
+T7	Process 243 261	lying on the floor
+T8	Material 232 239	patient
+T9	Process 273 289	informs the user
+T10	Process 300 357	switches the control mode from autonomous to haptic based

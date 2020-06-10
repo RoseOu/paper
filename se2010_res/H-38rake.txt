@@ -1,0 +1,160 @@
+0 50 100
+0
+10
+20
+30
+40
+50
+rankofthemanipulatdnode−1
+diffusionrank−trust 4
+pagerank
+trustranl−trust 4
+0 50 100
+0
+10
+20
+30
+40
+50
+rankofthemanipulatdnode−2
+diffusionrank−trust 4
+pagerank
+trustranl−trust 4
+0 50 100
+0
+10
+20
+30
+40
+50
+rankofthemanipulatdnode−3
+diffusionrank−trust 4
+pagerank
+trustranl−trust 4
+0 50 100
+0
+10
+20
+30
+40
+50
+number
+added points
+rankofthemanipulatdnode
+pagerank
+diffusionrank−uniform
+diffusionrank0
+diffusionrank1
+diffusionrank2
+diffusionrank3
+trustrank0
+trustrank1
+trustrank2
+trustrank3
+2000 4000 6000 8000 10000
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+number
+added points
+pairwiseorderdifference
+pagerank
+diffusionrank−gamma=1
+diffusionrank−gamma=2
+diffusionrank−gamma=3
+diffusionrank−gamma=4
+diffusionrank−gamma=5
+diffusionrank−gamma=15
+trustrank
+0 5 10 15 20
+0
+0
+2
+5
+6 3
+4
+1
+2 5
+6 3 4
+0 1 2 3 4 5 6
+0
+2
+4
+6
+8
+10
+12
+gamma
+valuedifference
+trust set={1}
+trust set={2}
+trust set={3}
+trust set={4}
+trust set={5}
+trust set={6}
+added nodes
+rankofthemanipulatdnode−4
+diffusionrank−trust 3
+pagerank
+trustranl−trust 3
+0 50 100
+0
+10
+20
+30
+40
+50
+number
+added nodes
+rankofthemanipulatdnode−5
+diffusionrank−trust 4
+pagerank
+trustranl−trust 4
+0 50 100
+0
+10
+20
+30
+40
+50
+number
+added nodes
+rankofthemanipulatdnode−6
+diffusionrank−trust 4
+pagerank
+trustranl−trust 4
+figure 3
+added points
+rankofthemanipulatdnode
+pagerank
+diffusionrank
+trustrank
+diffusionrank−uniform
+10
+5
+gamma
+pairwiseorderdifference
+diffusionrank
+29th annual international acm
+sigir conference
+29th annual
+international acm sigir conference
+trust set selection algorithm proposed
+stanford
+digital library technologies project
+hong kong special
+administrative region
+13th world wide web
+conference
+trust scores trough
+successfully apply machine learning methods
+nix dual intel xeon 2
+newly added nodes increases
+newly added points

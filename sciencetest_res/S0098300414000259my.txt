@@ -1,0 +1,10 @@
+Pig
+MapReduce
+Hadoop
+workflows
+jobs
+Java
+SQL
+commonly
+Apache
+platform

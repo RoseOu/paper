@@ -1,0 +1,34 @@
+es
+sergio saugar
+university rey juan carlos
+distributed artificial 
+intelligence-multi-agent systems
+general terms
+languages
+∈ apartin ⇔ a1 ∈ imem ∧ a1 ∈ aroles
+act
+serrano
+university rey juan carlos
+technical report daimi fn-19
+finish function returns true afterwards10
+iini = nil ⇔ icontext = nil
+act
+2 interaction state update
+input port activity
+enumeration type sact enum {emp
+leverage multi-agent 
+middlewares built
+essential structure underlying multi-agent interactions
+general features commonly
+ascribed
+agentcities / opennet testbed
+jade project home page
+fipa
+interaction protocol library specification
+function field finish returns true
+raw acl-based interaction mechanism
+[14]
+madkit agent
+platform architecture
+mandatory feature creator represents
+social interactions put forward

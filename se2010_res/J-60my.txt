@@ -1,0 +1,10 @@
+mechanism
+agent
+1
+players
+''
+goal
+mechanisms
+information
+strategy
+player

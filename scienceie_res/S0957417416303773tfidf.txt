@@ -1,0 +1,10 @@
+vectors
+variance
+orthogonal
+KPIs
+N-dimensional
+N^
+PCA
+vector
+synthetic
+samples

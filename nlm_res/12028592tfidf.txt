@@ -1,0 +1,10 @@
+protein
+activation
+alphaCD3
+alphaCD28
+eIF2B
+eIF4E
+phosphorylation
+cells
+synthesis
+kinase

@@ -1,0 +1,10 @@
+half step leap-frog verlet numerical integration scheme
+explicit time stepping approach
+discrete element method applied
+code developed in-house
+next-door neighbour zones
+moderate contact damping
+potential contacting particles
+particle wall contacts
+particle elastic stiffness
+update particle positions

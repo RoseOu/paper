@@ -1,0 +1,30 @@
+stock date volume average
+rel abs rel abs
+amzn-
+0005%
+stock date close lastbid
+rel abs rel abs
+amzn-
+arrivng buy order
+arriving buy order
+arriving buy order
+arriving sell order
+¯ab
+ab
+¯
+absolute trader model enjoys 
+provably strong stability properties
+limit order dynamics
+eyal even-dar ∗
+sham
+absolute model enjoys provably strong stability
+kakade †
+michael kearns ‡
+yishay mansour §
+abstract
+employed order-book 
+reconstruction code operating
+common 
+findings predict negative price impacts
+individual 
+stockevery arriving limit order

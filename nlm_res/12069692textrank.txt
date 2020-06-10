@@ -1,0 +1,10 @@
+cells
+genes
+receptors
+activators
+activator
+activity
+activate
+activation
+activated
+active

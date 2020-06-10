@@ -1,0 +1,10 @@
+T1	Material 24 28	BEBC
+T2	Material 38 43	NOMAD
+T3	Material 126 132	JETSET
+T5	Task 49 71	observed a discrepancy
+T7	Process 162 191	retune some of the parameters
+T8	Process 283 304	events were simulated
+T10	Process 348 373	setting proposed by NOMAD
+T12	Process 400 430	taking an average between them
+T13	Process 447 486	half a difference as a systematic error
+T15	Process 543 553	resonances

@@ -1,0 +1,10 @@
+virus
+center
+preliminary
+Rock
+bodies
+3000
+21.2
+Meaning
+2.7
+13.9

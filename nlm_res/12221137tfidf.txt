@@ -1,0 +1,10 @@
+TRAPP
+Ypt32p
+Ypt1p
+beads
+GDP
+GTPgammaS
+buffer
+cytosol
+incubated
+Uso1p

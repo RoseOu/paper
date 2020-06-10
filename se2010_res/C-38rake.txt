@@ -1,0 +1,62 @@
+local image
+44
+p1
+p3
+p0
+l0
+l1
+l3
+overlay connection
+network path
+p2
+l2
+p1
+p3
+p0
+l0
+l1
+l3 p2
+l2
+initial overlay reshaped overlay
+figure 2
+parent
+criteriafor
+peerdiscovery
+update
+localimage
+oftheoverlay
+unknown peers
+architecting peer-to-peer overlays called peer-to-peer 
+receiverdriven overlay
+architecting peer-to-peer receiver-driven
+overlays
+reza rejaie
+department
+architecting peer-to-pee overlay structures called
+pro
+image maintenance mechanism evicts
+extra records
+receiver p3 selects
+p1
+link l0
+pi
+outbwi outgoing access link bw
+end-to-end rate-based congestion control mechanism
+inbwi incoming access link bw
+higher bandwidth including p3
+multiple parent peers accommodates bandwidth 
+heterogeneity
+gracefully accommodate high churn rate [5]
+receiver peer
+receiver
+peer
+figure 1
+min nop determines minimum
+degree
+architecting
+peer-to-peer receiver-driven overlay
+peer-to-peer file system
+sharing
+link l1
+image
+maintenance scheme integrates

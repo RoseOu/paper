@@ -1,0 +1,10 @@
+multi-axis nc tool-path generation
+tool path generation
+cutter location surface
+inversely converted method
+deformed surface
+subdivision surface
+subdivision surfaces
+model building
+deformation vector
+cl points

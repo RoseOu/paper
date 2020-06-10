@@ -1,0 +1,10 @@
+diffusion
+Xe
+energies
+eV
+Activation
+UO2
+potentials
+defects
+vacancy
+defect

@@ -1,0 +1,10 @@
+trajectories
+transitions
+adiabatic
+symmetry
+vibrational
+PESs
+verify
+non-adiabatic
+trajectory
+nonadiabatic

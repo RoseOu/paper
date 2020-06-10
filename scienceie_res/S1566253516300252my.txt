@@ -1,0 +1,10 @@
+data
+local
+distance
+compared
+values
+given
+notion
+locality
+Methods
+anomaly

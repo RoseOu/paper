@@ -1,0 +1,10 @@
+describe optimisation problems
+multiprocessor interactive systems
+finding real solutions
+two-sided max-linear systems
+finding integer solutions
+integer solutions
+max-linear programs
+generic class
+polynomial time
+existing methods

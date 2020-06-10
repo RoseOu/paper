@@ -1,0 +1,8 @@
+paper presents
+controllers
+control simulation results
+non controller design method
+quadratic performance
+optimization
+state feedback
+gain

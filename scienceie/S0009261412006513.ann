@@ -1,0 +1,10 @@
+T2	Material 180 185	water
+T3	Material 241 265	distorted hydrogen bonds
+T4	Process 383 419	inner-shell spectroscopic techniques
+T5	Process 429 458	X-ray absorption spectroscopy
+T6	Process 469 496	X-ray emission spectroscopy
+T8	Process 945 948	XAS
+T9	Process 952 955	XES
+T10	Task 676 700	hydrogen bonding network
+T11	Process 1024 1063	accurate molecular dynamics simulations
+T12	Task 1104 1123	molecular structure

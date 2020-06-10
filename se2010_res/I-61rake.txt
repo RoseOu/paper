@@ -1,0 +1,41 @@
+distributed agent-based air traffic flow management
+kagan tumer
+oregon state university
+204 rogers hall
+corvallis
+nasa ames research center
+mailstop 269-3
+moffett field
+gov
+abstract
+air traffic flow management
+distributed adaptive air traffic flow management algorithm
+distributed adaptive air traffic flow management
+algorithm
+airport conditions
+leading potentially minor local delays
+artificial 
+intelligencemultiagent systems
+general terms
+algorithms
+future atm concepts evaluation tool
+future atm
+concepts evaluation tool
+free flight air traffic conflict
+resolution
+central east pacific flight
+routing
+facet screenshot displaying traffic
+routes
+pre-determined centralized solution severely suboptimal
+agent based
+air traffic optimization method
+current air
+traffic flow management
+current air flow management structure
+current air traffic
+routing procedures
+air traffic flow simulator
+developed
+facet simulates air traffic based
+air traffic congestion domain modeled

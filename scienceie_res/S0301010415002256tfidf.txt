@@ -1,0 +1,10 @@
+vibronic
+diabatisation
+non-adiabatic
+Hamiltonian
+coupling
+surfaces
+symmetric
+polynomial
+diabatic
+coefficients

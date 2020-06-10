@@ -1,0 +1,10 @@
+explicit java mapreduce jobs
+directed acyclic graphs
+conceptually higher level
+providing syntax similar
+relational database systems
+standard sql operations
+ad hoc workflow
+generalized dag processing
+declarative sql commonly
+creating mapreduce workflows

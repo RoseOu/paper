@@ -1,0 +1,49 @@
+combined
+location person date organization money percentage nn jj cd
+elections 0
+cn
+li juan zi
+tsinghua university
+beijing
+* * * *det miss miss target fa fa nontargetc
+χ =
++ + + −
++ + + +
+system1 topic weighted curve
+system1 min norm
+system2 topic weighted curve
+system2 min norm
+system3 topic weighted curve
+system3 min norm
+system5 topic weighted curve
+system5 min norm
+named entity
+zhang kuo
+tsinghua university
+beijing
+cn
+wu gang
+tsinghua university
+beijing
+system4 topic weighted curve
+system4 min norm
+det
+det
+miss target fa nontarget
+∈
++ + +
+=
++ + +∑
+26th annual
+international acm sigir conference
+24th annual international acm sigir
+conference
+27th
+annual international acm sigir conference
+doremi
+research group combined semantic similarities
+statistical analysis shows topic-level discriminative
+terms types
+umass [13] research group split document representation
+8th
+acm sigkdd international conference

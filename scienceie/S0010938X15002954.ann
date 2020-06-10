@@ -1,0 +1,10 @@
+T1	Material 110 122	video images
+T2	Material 140 147	2D pits
+T3	Material 208 222	anodic current
+T6	Material 285 293	Al alloy
+T7	Material 303 324	Ni–Fe [35] thin films
+T9	Material 421 429	2D disks
+T10	Material 433 459	stainless steel thin films
+T11	Material 477 485	pit edge
+T12	Process 554 564	pit growth
+T14	Task 604 622	2D pit propagation

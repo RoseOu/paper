@@ -1,0 +1,72 @@
+8
+content manager
+centralized content
+management station
+content
+informationuser interface
+policy manager
+storage manager
+storage
+fetcher
+edge portal
+server
+policy manager
+storage manager
+storage
+fetcher
+edge portal
+server
+distributed content
+5
+content manager
+policy manager
+storage manager
+content manager content manager content manager
+policy manager policy manager
+policy manager
+storage manager
+storage manager
+storage manager
+remote invocation
+figure 1
+remote
+7
+content manager
+policy manager
+storage manager
+storage
+fetcher
+program
+listings
+graphical user
+interface
+network enabled dvr
+program information
+content
+dvr application
+figure 2
+dvr 
+application obtains program listings
+kentucky ‡
+university college cork
+florham park
+streaming media server cluster architecture
+centralized content management station
+initial computing 
+applications include text formatters
+network enabled dvr
+node
+graphical user interface
+storage manager
+supports storing content
+network enabled dvr
+network enabled digital video recording [3]
+spectrum policy manager implementation
+accomplishes
+sophisticated time specification
+enable storage
+storage manager level content
+centralized station
+storage manager stores content
+remote storage manager
+server resources

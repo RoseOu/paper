@@ -1,0 +1,10 @@
+algorithm
+includes
+computational complexity
+computed
+nc
+tool
+path
+points
+cl
+better shape

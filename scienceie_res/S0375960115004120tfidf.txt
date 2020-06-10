@@ -1,0 +1,10 @@
+vacuum
+particle
+interacts
+photon
+quantum
+coil
+magnetic
+circuit
+unaltered
+|ψI〉=|ψIII〉=|k0〉

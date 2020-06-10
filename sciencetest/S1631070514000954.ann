@@ -1,0 +1,10 @@
+T1	Process 0 17	Superconductivity
+T2	Material 21 30	actinides
+T3	Task 0 30	Superconductivity in actinides
+T4	Material 53 66	thorium metal
+T6	Material 126 143	uranium compounds
+T7	Material 172 195	uranium superconductors
+T8	Material 240 277	uranium heavy fermion superconductors
+T9	Material 361 390	ferromagnetic superconductors
+T11	Material 465 474	plutonium
+T12	Process 444 461	superconductivity

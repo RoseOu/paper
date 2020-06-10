@@ -1,0 +1,10 @@
+organizations
+organization
+predictors
+satisfaction
+QWL
+SJHS
+|
+variables
+analyses
+``

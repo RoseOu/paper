@@ -1,0 +1,10 @@
+T1	Material 9 60	Electrically evoked auditory steady-state responses
+T2	Material 62 68	EASSRs
+T3	Material 74 91	neural potentials
+T4	Process 108 128	electroencephalogram
+T5	Process 130 133	EEG
+T6	Process 206 222	cochlear implant
+T8	Material 229 235	EASSRs
+T9	Process 276 286	CI fitting
+T10	Process 297 308	EEG signals
+T11	Process 342 354	CI artifacts

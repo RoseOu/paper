@@ -1,0 +1,10 @@
+coordinate
+momentum
+suitable
+basis
+DEA
+boundary
+space
+problems
+may
+work

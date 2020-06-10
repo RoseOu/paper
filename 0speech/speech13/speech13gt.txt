@@ -1,0 +1,4 @@
+climb
+stairs stair
+step
+magical

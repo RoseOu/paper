@@ -1,0 +1,32 @@
+xi +¯xi +ai +bi ≥ xi +¯xi +ai ≥ 1
+form xi + ¯xi + ai + bi contributes
+xi + ¯xi + ai + bi = 1 =
+δ +δ +2 min{1−δ
+form xi1 + · · · + xik + dj ≤ 1
+xi1 + · · · + xik + dj = 1
+xi + ¯xi + ai + bi
+xi + ¯xi + ai + bi = 1
+form bi1 + · · · + bit ≤
+vertex cover
+∗
+edith elkind
+hebrew university
+form bxi+1 + · · · + byi
+≤
+maximise bab + bbc + bcd
+minimise bab + bbc + bcd
+behavioral sciences-economics
+general terms
+algorithms
+yi implies
+bx + byi = czi = 1
+minimise bab +
+bbc +bcd
+liverpool
+liverpool l69 3bx
+13th annual acm-siam symposium
+12th annual
+acm-siam symposium
+46th
+annual ieee symposium
+18th annual acm-siam symposium

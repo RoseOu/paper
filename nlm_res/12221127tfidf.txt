@@ -1,0 +1,10 @@
+IFN-gamma
+TNF-alpha
+non-CF
+CF
+TJ
+ICAM-1
+cultures
+cytokines
+Papp
+H7

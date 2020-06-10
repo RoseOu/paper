@@ -1,0 +1,53 @@
+explicit rf/hc
+explicit rf/mc
+explicit rf/lc
+implicit rf/hc
+implicit rf/mc
+implicit rf/lc
+figure 2
+explicit rf implicit rf
+differential
+hc mc lc hc mc lc
+easy 2
+explicit rf implicit rf
+differential
+hc mc lc hc mc lc
+relevant 2
+explicit rf implicit rf
+measure
+hc mc lc hc mc lc
+proportion
+feedback
+2
+terms hc mc lc hc mc lc
+accepted 65
+explicit rf implicit rf
+differential
+inexp
+024
+explicit rf implicit rf
+differential
+inexp
+terms start middle end start middle end
+accepted 66
+17th annual acm sigir conference
+single rf method/task complexity
+pairing
+task complexity falls search behaviour shifts
+white
+human-computer interaction laboratory
+institute
+explicit rf implicit rfproportion
+ir systems
+automatically detect task complexity
+erf subjects provide explicit relevance assessments
+implicit rf systems made
+recommendations
+uk
+abstract
+implicit relevance feedback
+table 3 presents
+average responses grouped
+time initially interpreting search results
+search
+system unobtrusively gathers evidence

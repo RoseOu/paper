@@ -1,0 +1,10 @@
+flex
+rubber
+x
+prevent
+create
+go
+Destroy
+seal
+sleep
+eyes

@@ -1,0 +1,10 @@
+S.
+groES
+groEL
+species
+Streptococcus
+groESL
+spacer
+mitis
+isolates
+sequences

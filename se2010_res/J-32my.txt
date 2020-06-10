@@ -1,0 +1,10 @@
+1
+0
+V
+=
+Nash
+algorithm
+2
+policy
+breakpoint
+B

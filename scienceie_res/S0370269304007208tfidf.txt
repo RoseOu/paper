@@ -1,0 +1,10 @@
+Lagrangian
+equation
+confining
+physics
+confinement
+potentials
+symmetry
+invariance
+scale-invariant
+L=14w2−12w−FμνaFaμν

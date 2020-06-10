@@ -1,0 +1,100 @@
+items
+cachedpausebid
+3 3 3 3 3 3
+3 3
+3
+3
+pausebid
++ + + + +
++ + +
++
++
+figure 6
+items
+cachedpausebid
+3
+3
+3 3
+3 3 3 3 3
+3
+pausebid
++ +
++ +
++
++ + +
++
++
+figure 7
+items
+cachedpausebid
+3
+3
+3
+3
+3
+3
+3
+3
+3
+pausebid
++
++
++
++
++
++
++
++
++
++
+figure 8
+items
+cachedpausebid
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+pausebid
++
++
++
++
++
++
++
++
++
++
+figure 9
+progressive adaptive user selection 
+environment
+simultaneous ascending price open-cry 
+auctions
+distributed combinatorial auction
+benito mendoza
+∗
+9 bids ← my-bids + their-bids
+10
+complex coordination constraints supported
+7200 rmp 60 gb hard drive
+their-bids ← their-bids +
+my-bids ← my-bids
++
+my-bids ← my-bids +
+computationally manageable combinational auctions
+sixteenth
+international joint conference
+endogenously determined allowable combinations
++ my-payment ·bvalue
+−
++
+my-payment ·bvalue
+−
+general-purpose winner determination algorithm
+existing winner determination algorithms

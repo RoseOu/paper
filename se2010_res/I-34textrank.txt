@@ -1,0 +1,20 @@
+agents
+norm
+norms
+ω
+agent x
+conflict
+conflicts
+conflicting
+action
+actions
+σ
+set
+sets
+states
+state
+stating
+roles
+role
+τ
+prohibited

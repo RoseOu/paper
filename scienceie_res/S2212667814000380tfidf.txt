@@ -1,0 +1,10 @@
+behavior
+beam
+cellular
+analysis
+loads
+5950
+parametric
+ANSYS
+serviceability
+elastic

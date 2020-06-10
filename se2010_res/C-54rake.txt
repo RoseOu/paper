@@ -1,0 +1,34 @@
+large spatial databases ∗
+egemen tanin
+frantiˇsek brabec
+hanan samet
+computer science department
+center
+6th international world
+wide web conference
+remotely accessible spatial database server
+built
+solve large
+scale computational problems
+helps internet users transfer large volumes
+visually manipulate spatial data remotely
+pure 
+peer-topeer collaborative web cache
+data server manages vast databases
+support large online data transfers
+locally-installed internet-enabled database 
+management system
+continuously
+access large spatial data
+work blends raster
+data management
+sample sand internet browser scenario
+instantly retrieve spatial data provided
+developing advanced peer selection schemes
+late breaking hot topics
+abandoned toxic waste dump
+advanced computer studies
+university
+enables ordinary 
+citizens access
+indirectly delivered data sets

@@ -1,0 +1,10 @@
+Pop2p
+Pop1p
+Rum1p
+F-box
+complexes
+proteins
+SCF
+SCFPop1p-Pop2p
+ubiquitin
+subunits

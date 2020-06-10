@@ -1,0 +1,10 @@
+strategy
+1
+strategies
+player
+players
+game
+optimal
+commit
+games
+leader

@@ -1,0 +1,10 @@
+single vacancy formation energy evac
+bcc fe lattice parameter
+calculations periodic boundary conditions
+30a0×30a0×30a0
+monte carlo algorithm
+conjugate gradient algorithm
+lowest energy configuration
+highest potential energy
+low energy configurations
+metropolis mc scheme [29]

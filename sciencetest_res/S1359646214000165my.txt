@@ -1,0 +1,10 @@
+using
+lattice
+phase
+Ti
+ferromagnetism
+ground
+state
+alloy
+calculations
+calculated

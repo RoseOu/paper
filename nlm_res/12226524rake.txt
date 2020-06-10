@@ -1,0 +1,10 @@
+-cgt cta gaa cta ata tgg cat cat cag cat c-3
+-gcg tcg aca tgt cag gct cta ggc cga c-3
+-gcc ccg gga tgg ttt ccg gag tcg gg-3
+-cgc ccg ggc tac ttg ttt gct gca gcg-3
+-aat ttt gag atc att tag ctt cg-3
+-gaa tac cac atg gat tca acg-3
+phya-v631m protein retains typical phya r-fr reversibility
+phya-v631m possesses normal light triggered degradation kinetics
+light wavelengths displayed normal de-etiolated phenotypes
+core region defines protein-protein interactive surfaces

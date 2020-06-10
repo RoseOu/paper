@@ -1,0 +1,10 @@
+drug
+care
+physician
+primary
+Anthony
+states
+right
+president
+doctor
+evidence

@@ -1,0 +1,10 @@
+face
+recognition
+symbian
+platform
+LBP
+eye
+location
+paper
+implementation
+local

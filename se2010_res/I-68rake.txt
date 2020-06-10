@@ -1,0 +1,36 @@
+milind tambe
+computer science department
+university
+literature include decentralized markov decision processes
+fixed time points constitute good 
+examples
+dotted 
+arrows represent implicit precedence constraints
+solving
+constrained decentralized markov decision processes
+distributed artificial 
+intelligencemulti-agent systems
+general terms
+algorithms
+abstract
+decentralized markov decision processes
+transition-independent decentralized markov decision processes
+conclusions
+decentralized markov decision process
+solving decentralized
+markov decision processes
+partially observable markov decision
+processes
+general fire fighting procedures involve
+decentralized markov decision processes
+agent ak receives reward rj
+multiple disjoint time window constraints
+probability function
+propagation phase starts
+opportunity cost overestimation problem leading
+probability function
+propagation phase terminates
+high 
+temperature gases escape
+oc- 
+decmdp algorithm runs slow

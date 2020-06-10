@@ -1,0 +1,33 @@
+complex resource allocation problems
+exhibit similar hidden actions
+national science foundation grant number ani-0331659
+combinatorial agency
+[extended abstract]
+∗
+moshe babaioff
+school
+∗ · t0
+= 1 +
+tn−1
+t0
+−
+tn−1
+tn
+2
+3
+tn−t0
+· tn
+tn−tn−1
+pou = 1 +
+tn−1
+t0
+−
+tn−1
+tn
+distributed systems
+general terms
+design
+exist finite positive values v1 < v2 <
+lady davis fellowship trust
+complex scenarios involving multiple
+agents

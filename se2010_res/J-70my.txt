@@ -1,0 +1,10 @@
+mechanism
+agents
+''
+design
+preferences
+outcome
+agent
+1
+designer
+type

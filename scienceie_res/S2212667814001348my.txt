@@ -1,0 +1,10 @@
+technique
+ETD
+nonlinear
+wave
+equations
+difficult
+investigate
+mathematically
+general
+analytical

@@ -1,0 +1,10 @@
+optimization
+objectives
+SPEA
+downscaling
+multi-objective
+Pareto
+fitness
+scaling
+calculation
+Minimizing

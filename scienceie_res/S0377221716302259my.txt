@@ -1,0 +1,10 @@
+weighted
+additive
+distance
+function
+model
+points
+point
+view
+productivity
+time

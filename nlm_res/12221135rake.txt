@@ -1,0 +1,11 @@
+snare protein function
+membrane-bound soluble n-ethylmaleimide-sensitive factor attachment protein receptor
+proteins termed soluble n-ethylmaleimide-sensitive factor attachment protein receptors
+556-base pair polymerase chain reaction fragment carrying sec22
+mata his3 leu2 lys2 ura3 trp1 sec22delta
+matalpha his3 leu2 lys2 ura3 trp1
+matalpha his3 leu2 lys2 ura3 sec22delta
+matalpha his3 leu2 ura3 trp1 ykt6
+matalpha his3 leu2 ura3 trp1 ykt6delta
+matalpha his3 leu2 lys2 ura3
+purified copii proteins generates freely diffusible vesicles

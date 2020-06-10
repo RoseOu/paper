@@ -1,0 +1,10 @@
+strychnine
+hours
+ingestion
+patient
+concentrations
+blood
+Strychnine
+reported
+1
+muscular

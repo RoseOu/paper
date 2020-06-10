@@ -1,0 +1,10 @@
+principal component analysis method
+n-dimensional vector space basis
+n-dimensional vector space
+original kpis constitute
+^ synthetic kpis represent
+synthetic orthogonal kpis
+orthogonal vectors sorted
+orthogonal vectors
+recent years
+dimensionality reduction

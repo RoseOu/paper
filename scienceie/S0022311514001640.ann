@@ -1,0 +1,7 @@
+T1	Task 776 801	vapour pressure of carbon
+T2	Material 4 16	vapour phase
+T3	Material 31 56	number of different gases
+T4	Material 644 672	data taken from JANAF tables
+T5	Material 536 552	partial pressure
+T9	Material 241 248	silicon
+T14	Material 352 362	SiC grains

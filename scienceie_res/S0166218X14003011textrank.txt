@@ -1,0 +1,10 @@
+study sequences
+equivalently
+digraphs
+digraph
+optimal walks
+periodic
+periodicity
+connected
+strongly
+unweighted

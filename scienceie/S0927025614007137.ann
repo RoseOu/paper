@@ -1,0 +1,10 @@
+T1	Material 0 20	Structural adhesives
+T2	Material 47 65	bonding components
+T3	Material 73 117	critical load bearing engineering structures
+T4	Material 126 135	aerospace
+T5	Material 140 151	automotives
+T6	Material 169 178	adhesives
+T7	Material 192 206	epoxy polymers
+T8	Material 208 215	Epoxies
+T9	Material 264 278	microstructure
+T10	Process 371 389	fracture toughness

@@ -1,0 +1,10 @@
+sigma similar 10 --3 --10 --4 bp --2
+present results support qualitatively similar premelting mechanisms
+typical raman melting curve exhibits variable slope
+liquid-nitrogen cooled charge-coupled device detector
+idealized temperature-dependent raman band exhibiting hypochromic behavior
+tract exhibits highly propeller-twisted base pairs
+recent independent determination employing uvrr spectroscopy
+conventional watson --crick hydrogen bonds
+po2 -- symmetric stretching mode
+current data tabulations rely primarily

@@ -1,0 +1,10 @@
+gene
+adherence
+h
+strains
+epec
+o
+bfpa genes
+eaec virulence markers
+asta
+cells

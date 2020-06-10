@@ -1,0 +1,10 @@
+auctions
+ascending
+queries
+valuations
+polynomial
+item-price
+optimal
+=
+query
+bundles

@@ -1,0 +1,10 @@
+mug/ml
+strains
+=
+>
+aeruginosa
+ceftazidime
+beta-lactamase
+MICs
+primers
+ampC

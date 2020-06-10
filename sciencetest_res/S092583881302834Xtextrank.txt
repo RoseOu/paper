@@ -1,0 +1,10 @@
+mgs
+anelasticity
+anelastic deformation
+sample
+samples
+mg
+stress
+stresses
+shear
+torsion

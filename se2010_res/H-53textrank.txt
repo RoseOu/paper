@@ -1,0 +1,20 @@
+query
+queries
+stemming
+stemmed
+stem
+stems
+stemmings
+transforming words
+modeling
+model
+models
+word pluralization handling
+match
+matched
+matches
+perform
+performs
+performance
+performing
+improves

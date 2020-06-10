@@ -1,0 +1,10 @@
+cells
+class
+proteins
+US2
+II
+HCMV
+cell
+MHC
+alpha
+degradation

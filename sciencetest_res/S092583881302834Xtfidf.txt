@@ -1,0 +1,10 @@
+MGs
+deformation
+anelasticity
+torsion
+τy
+MG
+shear
+Plastically
+deformed
+inhomogeneity

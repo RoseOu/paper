@@ -1,0 +1,10 @@
+DW286
+mug/ml
+=
+gemifloxacin
+vitro
+ciprofloxacin
+trovafloxacin
+aureus
+pneumoniae
+S.

@@ -1,0 +1,10 @@
+carbon
+pressure
+temperature
+SiC
+vapour
+partial
+range
+phase
+silicon
+higher

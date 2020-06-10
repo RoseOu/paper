@@ -1,0 +1,10 @@
+patients
+samples
+positive
+PPFP
+FC-ALTA
+disease
+treatment
+negative
+10
+values

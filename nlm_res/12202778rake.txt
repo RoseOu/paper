@@ -1,0 +1,10 @@
+-acc gga att ccc gga cat aac ttc gta taa tgt atg cta tac gaa cgg
+-gcc gaa gct tct cgt gat aac ttc gat tag cat aca tta tac gaa cgg
+-acc gga att ccc gga cta ccg ttc gta taa tgt atg ct
+-aac tcg agt tga tat caa aga gca cta agc aaa caa gct
+-gcc gaa gct tct cgt gta ccg ttc gta tag cat aca
+-ggt cca gct ggc aaa cta aat gat ggg ctc tca
+-tag ctg tct cca gac act cca gaa
+-aaa gac act tgc cag cac acc ctt
+* aaa ata caa aaa ga
+*ga ttt tct ctg ct

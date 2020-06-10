@@ -1,0 +1,45 @@
+path cost
+dcpop improvement
+ag mtg vars const iw cd md pc
+10 4 12 13
+outlow density high density
+algorithm cd md pc cd md pc
+dpop 7
+20 node problems
+low density high density
+algorithm cd md pc cd md pc
+dpop 33
+% = dp op −dcp op
+dcp op
+∗ 100
+distributed artificial 
+intelligence-multiagent systems
+general terms
+algorithms
+1
+non-traditional pseudotree arrangements∗
+james atlas
+computer
+solid line edges 
+represent parent-child relationships
+solid line edges represent
+parent-child relationships
+dynamic programming based propagation phase 
+continues
+dynamic programming based algorithms include dpop
+high density problems
+consist
+elected leader initiates pseudotree creation
+4
+dynamic distributed constraint satisfaction approach
+low density cases consist
+cross-edged 
+pseudotrees provide shorter depths
+utility functions
+represent soft constraints
+include 
+adapting existing dpop extensions [5
+high density problems
+low density problems
+merged branch information structure
+accumulates

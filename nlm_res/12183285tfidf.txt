@@ -1,0 +1,10 @@
+pneumoniae
+influenzae
+resistance
+H.
+S.
+SXT
+isolates
+sites
+antibiotic
+NCCLS

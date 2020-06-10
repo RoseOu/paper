@@ -1,0 +1,9 @@
+industry
+farmer
+market
+local
+food
+farm
+consumer
+supply chain
+communities

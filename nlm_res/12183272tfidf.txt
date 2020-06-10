@@ -1,0 +1,10 @@
+Q-D
+vancomycin
+mug/ml
+strains
+bactericidal
+HM1054
+HM1054R
+quinupristin
+aureus
+log10

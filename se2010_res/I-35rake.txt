@@ -1,0 +1,61 @@
+payment
+delivery
+contract
+normative level
+exit
+registration
+payment
+delivery
+negotiation
+coordination level
+contract
+nt
+figure 2
+marexit
+registration
+payment
+delivery
+negotiation
+coordination model
+contract
+figure 1
+}
+27 end
+28 end case
+29 return δ
+end
+figure 4
+regulated
+multi-agent systems ∗
+dorian gaertner
+dept
+offer
+color utt = record
+illp
+int
+color np = record
+mode
+united kingdom
+dg00@doc
+united kingdom
+wvasconcelos@acm
+es
+wamberto vasconcelos
+dept
+normative structure relates normative scenes
+labelled bi-partite graph
+ns = nodes
+illocutionary speech acts
+exchanged
+predetermined exit
+protocol
+normative transition nt 
+linking
+payment normative scene collects
+normative structure maintains consistency
+manage 
+normative states distributedly
+contract activity
+hierarchical norm authorities
+based
+existing normative structure yielding

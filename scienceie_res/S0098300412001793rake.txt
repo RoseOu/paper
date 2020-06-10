@@ -1,0 +1,10 @@
+mineral formula recalculations combined
+performing mineral formula recalculations
+formula unit cations
+experience operating matlab®
+mineral error analysis
+matlab® based program
+multiple common minerals
+perform uncertainty propagation
+recalculate wt% data
+uncertainty propagation calculations

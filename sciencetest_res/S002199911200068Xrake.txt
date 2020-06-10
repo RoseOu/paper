@@ -1,0 +1,10 @@
+realistic cardiac geometry meshes
+developing efficient solution techniques
+significantly improving simulation efficiency
+piecewise-linear fem approach commonly
+myocardial electrical propagation
+represent complex geometries
+finite element method
+human heart geometries
+extremely computationally demanding
+presenting taxing problems

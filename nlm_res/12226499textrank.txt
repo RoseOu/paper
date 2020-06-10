@@ -1,0 +1,10 @@
+gbssi
+barley
+barleys
+cultivars
+cultivar
+sequence
+sequences
+sequencing
+sequenced
+sequencer

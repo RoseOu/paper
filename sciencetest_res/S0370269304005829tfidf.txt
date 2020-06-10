@@ -1,0 +1,10 @@
+keV
+MeV
+magnetic
+beta-beam
+neutrino
+5×10−11μB
+1015
+intensity
+tritium
+beta-beams

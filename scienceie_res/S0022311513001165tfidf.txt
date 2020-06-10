@@ -1,0 +1,10 @@
+divertor
+ionization
+plasma
+redeposition
+Larmor
+radius
+erosion
+plates
+simulations
+simulation

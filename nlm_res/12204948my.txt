@@ -1,0 +1,10 @@
+tuberculosis
+patients
+antibody
+antigen
+sensitivity
+test
+specificity
+control
+samples
+antibodies

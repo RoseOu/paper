@@ -1,0 +1,10 @@
+combines multiple smaller photon maps
+standard static photon mapping approach
+accumulated density estimates converge
+density estimate bandwidth1bandwidth describes
+progressive photon mapping
+furthest photon found
+monte carlo raytracing
+combining successive results
+nearest neighbour lookup
+photon density

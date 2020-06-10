@@ -1,0 +1,10 @@
+binding
+matrix
+HNF1
+sites
+half-site
+|
+DNA
+oligonucleotides
+protein
+analysis

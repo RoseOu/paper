@@ -1,0 +1,89 @@
+flash memory
+interval
+skip graph
+query
+forwarding
+summaries
+start index
+end index
+linear
+traversal
+query
+response
+cache-miss
+triggered
+query forwarding
+summaries
+figure 1
+sensor storage systems
+system data index reads writes order preserving
+centralized store centralized centralized index handled
+assuming
+energy energy/byte
+mote flash
+read 256 byte page 58µj* /
+136µj* total
+0
+distributed index structures
+range query support interval representation re-balancing resilience small networks large networks
+dht
+query
+response
+cache
+query forwarding
+proxy
+remote
+sensors
+local data archive
+8µj 15nj
+erase 16k byte sector 60µj 3
+23µj*
+write 256 byte page 926µj* /
+1042µj* total
+3
+low power sensor platforms featuring
+gigabyte scale storage
+timestamp
+calibration
+parameters
+opaque datadata/event attributes size
+figure 6
+james reserve data exhibit
+significant spatial correlations
+6µj*
+nand flash
+read 512 byte page 2
+9µj
+mote avr processor
+in-memory search
+order preserving scalable distributed data structures
+sparse
+skip graphs require fewer pointer updates
+two-tier sensor testbed comprising 
+stargatebased proxies
+42
+7 9 13 17 21 25 311
+level 0
+level 1
+level 2
+key
+single skip graph element
+proxies
+skipgraph insert
+sparse skipgraph insert
+initial lookup
+interval skip graphs combine interval trees [5]
+ght/dcs [24] fully distributed in-network index hash
+james reserve data
+0
+10
+20
+30
+40
+50
+60
+70
+80
+512 1024 2048 4096
+numberofmessages
+index size

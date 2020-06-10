@@ -1,0 +1,10 @@
+flash-evaporated tpgda monomer vapour
+measured dielectric constant varying
+define rectangular areas separated
+gold source/drain metallisation layer
+125μm thick polyethylene naphthalate
+aluminium gate electrodes
+inter-layer metallic connections
+cooled web-coater drum
+1μm thick
+drum rotating

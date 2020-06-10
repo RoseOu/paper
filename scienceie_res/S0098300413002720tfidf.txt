@@ -1,0 +1,10 @@
+inputs
+Rojas
+nodes
+primitive
+1996
+Artificial
+Neural
+Τa
+configurations
+Hastie

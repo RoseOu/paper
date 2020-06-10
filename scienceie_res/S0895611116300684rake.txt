@@ -1,0 +1,10 @@
+includes curvature-dependent polygonization
+methods including mc
+model-based methods
+work referred
+local curvature
+vessel modeling
+suitable method
+surgery planning
+methods evaluated
+high curvature

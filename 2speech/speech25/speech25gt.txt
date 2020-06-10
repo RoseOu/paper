@@ -1,0 +1,9 @@
+police
+officer officers
+fitness
+exam
+recruit
+women
+policewomen
+policing
+law-enforcement

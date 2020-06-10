@@ -1,0 +1,20 @@
+query
+term
+terms
+documents
+document
+pp
+user queries
+collections
+collection
+retrieving
+retrieve
+retrieved
+information retrieval
+informative
+search
+searching
+searched
+evaluating
+evaluated
+evaluations

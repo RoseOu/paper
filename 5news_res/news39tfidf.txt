@@ -1,0 +1,10 @@
+regions
+coronavirus
+Lieb
+FDA
+54300
+100000
+367
+Georgia
+Beginning
+manufacturing

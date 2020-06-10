@@ -1,0 +1,71 @@
+9 1
+recall
+precison
+monolingual
+mt
+dt
+clqs
+mt dt mt+prf dt+prf
+clqs 0
+fe
+qfreq
+qqfreq
+qfreq
+qqfreq
+effe
+efcodc
+klij
+klij
+klijklij
+tptp
+ttp
+ttpttmi =
+query la pollution causée par
+9 1
+recall
+precison
+monolingual
+mt
+dt
+clqs
+officially provided 25 short french-english queries
+pairs
+query cl12 la culture
+écologique
+term-term cohesion ∑≠
+=
+kiki
+klijqdict ttmits
+qpsimilarity
+qpsimilarityqpsimilarity
+throughclick
+content
+−
++=
+β
+α
+french query
+terrorisme international
+international terrorism
+ca
+abstract
+query suggestion aims
+ttc
+ttp
+klij
+klij ==
+provide up-to-date query similarity
+measure
+query formulation
+general terms
+algorithms
+clqs system generates organic
+farm
+query translation
+tool outperforms clir based
+clqs exploits up-to-date query logs
+resulting clqs system significantly outperforms
+existing
+commercial machine translation systems
+learning cross-lingual
+query similarity measure

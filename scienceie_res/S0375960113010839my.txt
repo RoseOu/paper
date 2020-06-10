@@ -1,0 +1,10 @@
+algorithm
+GT
+goal
+graphs
+walk
+thus
+vertex
+target
+quantum
+search

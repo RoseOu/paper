@@ -1,0 +1,10 @@
+simulations
+direction
+anisotropic
+3D
+lattice
+zirconium
+allows
+properties
+material
+Table

@@ -1,0 +1,10 @@
+GPRM
+motifs
+segment
+motif
+RNA
+correlation
+data
+sequences
+|
+complementary

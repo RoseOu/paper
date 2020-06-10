@@ -1,0 +1,10 @@
+PFGE
+isolates
+cepacia
+typing
+BOX-PCR
+RAPD
+using
+B.
+1
+methods

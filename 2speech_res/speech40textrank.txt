@@ -1,0 +1,10 @@
+people
+health
+costs
+cost
+away
+huge
+dollars
+pricing
+prices
+price

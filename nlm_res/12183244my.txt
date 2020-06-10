@@ -1,0 +1,10 @@
+patients
+ertapenem
+treatment
+therapy
+ceftriaxone
+study
+group
+evaluable
+agent
+>

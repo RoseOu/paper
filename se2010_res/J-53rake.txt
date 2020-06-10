@@ -1,0 +1,39 @@
+129
+m1 m2
+u1 α 1 − α
+u2 α 1 − α
+m1 m2
+u1 α 1 − α
+u2 1 − α α
+distributed shared clusters
+michal feldman∗
+mfeldman@sims
+rij =
+sij
+sij + sj
+=
+sj/
+pn
+nash equilibrium
+weight proportional
+social optimum
+figure 2
+local greedy
+adjustment method stabilizes
+nash equilibrium
+weight proportional
+social optimum
+0
+0
+games possessing
+pure-strategy nash equilibria
+local search algorithm stops quickly
+8
+1
+0 20 40 60 80 100
+efficiency
+iteration number
+best-response
+greedy
+figure 3
+local adjustment algorithm performs similarly

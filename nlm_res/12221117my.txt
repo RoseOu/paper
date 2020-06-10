@@ -1,0 +1,10 @@
+proteins
+yeast
+Gga2p
+|
+GGA
+domain
+Gga1p
+cells
+Figure
+Golgi

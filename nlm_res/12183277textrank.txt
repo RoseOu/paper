@@ -1,0 +1,10 @@
+cells
+tc
+culture
+cultures
+htlv
+concentration
+cell irradiator
+infection
+infected
+weeks

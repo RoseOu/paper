@@ -1,0 +1,10 @@
+strain
+strains
+pib
+resistance
+porin
+porins
+sequence
+sequencing
+sequences
+sequenced

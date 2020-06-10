@@ -1,0 +1,85 @@
+ib
+phb
+ib
+ib
+phb
+ib
+ib
+ib
+ib shb
+shb
+ibib
+ib
+ib
+ib
+ib
+ib
+ibib
+ib
+ib
+ib
+ib
+metropolitan police
+domain
+congestion charge
+service domain
+pito domain
+detective
+smith
+camera 1
+camera 2
+billing
+office statistics
+office
+event type
+108
+phb
+ibib
+ib shb
+rn ib
+shb
+figure 2
+subscriber shb subscriber
+hosting broker
+pub publisher phb publisher
+hosting broker
+event type
+ib ib shbphbp
+type owner ib intermediate
+broker
+key
+figure 1
+complex cases involve on-line checks back
+distributed systems-distributed applications
+general terms
+security
+passing cached plaintext content alongside encrypted
+content
+valid
+actual join time actual leave time
+subscription groups
+attribute encryption
+whole-content encryption
+figure 8
+metropolitan police service detective
+computer laboratory
+jj thomson avenue
+result attribute encryption incurs
+larger processing overheads
+congestion charge service domain
+key group
+actual key refresh times
+time
+encryption
+attribute encryption
+whole-content encryption
+figure 6
+encryption
+attribute encryption
+whole-content encryption
+figure 7
+105
+ib
+shb
+35th annual
+hawaii international conference

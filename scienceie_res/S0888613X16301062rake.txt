@@ -1,0 +1,10 @@
+decomposable negation normal form
+conditional sample space
+abductive logic programming
+sentential decision diagrams
+compact decision diagrams
+decision diagrams
+decision diagram
+“logical inference”
+languages aim
+propositional formula

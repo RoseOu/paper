@@ -1,0 +1,10 @@
+gradient
+jerk
+derivative
+jerks
+Jerks
+linear
+amplitude
+SV
+observatory
+magnetic

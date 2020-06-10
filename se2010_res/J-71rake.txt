@@ -1,0 +1,63 @@
+2
++ m1m2
+m1n1 + m2n2
+=
+m1 + m2
+n1 + m2
+m1
+n2
+working
+$1 +
+mlose
+mwin
+=
+mwin + mlose
+mwin
+· p1
+=
+m1
+√
+n1
+m2
+√
+n2
+·
+m2
+n1
+=
+m1
+√
+n1n2
+=
+m1
+√
+n1
+m1
+√
+n1 + m2
+√
+n2
+dm
+dn
+=
+m1 + m2 +
+n1
+p2 =
+m1 + m2
+n2
+=
+technical report social science
+working paper 986
+p1 =
+m2
+n1
+p2 =
+m1
+n2
+p1 = p2
+dm
+dn
+=
+m1 +
+n2
+m1 + m2 +

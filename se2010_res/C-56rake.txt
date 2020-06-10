@@ -1,0 +1,65 @@
+group server
+group
+java virtual machine
+rmi jdbc
+group manager
+process server
+java virtual machine
+rmi jdbc
+process coordinator
+worker
+java virtual machine
+rmi
+activity manager
+repository
+figure 2
+89 middleware 2004 companion
+gm
+gm
+gm
+gm
+figure 3
+java virtual
+machine
+87 middleware 2004 companion
+processelement
+process activity controller
+1
+*
+1
+*
+figure 1
+91 middleware 2004 companion
+open grid service infrastructure wg
+/>
+</iterate>
+</parfor>
+</body>
+<out_parameter
+type=
+distributed
+systems-distributed applications
+general terms
+design
+group manager exports coarse 
+availability information
+mimic equivalent structured 
+programming language constructs
+enabling scalable virtual organization
+java runtime library
+parallel 
+controller types represent structured versions
+external process server
+programming model employs structured control flow
+existing grid infrastructures supports execution
+group server
+emerging 
+architectures maintain task dependencies
+swindew
+[13] supports totally distributed execution
+/>
+<iterate>
+<pre_code>
+int range=
+proceedings ofthe international
+sym posium

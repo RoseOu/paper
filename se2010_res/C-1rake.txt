@@ -1,0 +1,45 @@
+uddi local registry uddi local registry
+uddi local registry
+proxy registry
+dht based distribution
+proxy registry
+proxy registry
+article 2
+stored
+puneet sharma$
+$
+hp labs
+1501 page mill road
+palo alto
+building internet-scale semantic overlay
+networks karl aberer
+build content addressable
+peer-to-peer information sharing communities
+large scale geographically dispersed node base
+org/
+[16] web services dynamic discovery
+scalable distributed web services discovery architecture
+4 [distributed systems]
+general terms
+design
+specialized grid service called
+registry
+dht
+based uddi registry hierarchies
+web services standards
+committees address
+open source uddi v2
+registry
+common software package including
+scalable web service
+discovery mechanisms
+service
+discovery supporting open scalability
+grid service discovery
+solution leveraging
+23rd
+ieee international srds
+content distribution networks
+distributed
+web services discovery architecture
+scalable grid service discovery based

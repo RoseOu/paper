@@ -1,0 +1,10 @@
+T1	Process 31 48	B3LYP/aug-cc-pVTZ
+T2	Process 100 125	lowest electronic singlet
+T3	Process 166 181	linear response
+T4	Process 183 185	LR
+T5	Process 187 212	coupled cluster hierarchy
+T6	Process 248 278	perturbative corrected methods
+T7	Process 304 331	correlated response methods
+T8	Process 368 390	atomic natural orbital
+T9	Process 392 395	ANO
+T10	Material 435 444	manganese

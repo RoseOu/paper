@@ -1,0 +1,10 @@
+=
+optimal
+auction
+−
+bidders
+≥
+auctions
+≤
+Υ3
++

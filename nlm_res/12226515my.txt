@@ -1,0 +1,10 @@
+GST
+TtGSTU1
+wheat
+expression
+genes
+TtGSTU2
+gene
+RNA
+tauschii
+plant

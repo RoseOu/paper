@@ -1,0 +1,10 @@
+nodes
+generalization
+optimal
+algorithm
+hidden
+trial-and-error
+optimize
+optimization
+minimization
+simulation

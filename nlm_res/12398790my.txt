@@ -1,0 +1,10 @@
+assessment
+trial
+|
+patients
+problems
+care
+people
+health
+practice
+study

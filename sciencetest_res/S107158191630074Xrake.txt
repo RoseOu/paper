@@ -1,0 +1,10 @@
+process monitoring conveys
+high average buffer
+low average buffer
+monitoring performance
+buffer values
+input buffer
+obvious metric
+respective buffers
+respective mode
+process simulation

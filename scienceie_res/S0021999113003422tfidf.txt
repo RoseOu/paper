@@ -1,0 +1,10 @@
+oscillations
+kernel
+spurious
+kernels
+derivatives
+regularity
+functions
+ISPM
+discontinuous
+Lagrangian

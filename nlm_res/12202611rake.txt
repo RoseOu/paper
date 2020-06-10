@@ -1,0 +1,10 @@
+commercial enzyme-linked immunosorbent assay detecting coxiella burnetii-specific immunoglobulin
+confirmed leptospira interrogans serovar hardjo infection
+leptospira interrogans serovar pomona infection
+burnetii whole-cell phase ii antigen
+fever igg phase ii antibody
+fever phase ii igg ifat
+horseradish peroxidase-conjugated anti-human igg
+serum pairs showing cft seroconversion
+provided igg reference serum sample
+fever igg elisa absorbance ratios

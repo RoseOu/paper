@@ -1,0 +1,10 @@
+algorithm
+optimisation algorithms
+objective
+statistical
+biological evolution
+local
+minima
+variable domain
+selection
+selects

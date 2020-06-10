@@ -1,0 +1,10 @@
+complementation
+GFP
+NotI
+protein
+constructs
+deletion
+RUB
+RUBrep/GFP-DeltaNotI
+codons
+RNA

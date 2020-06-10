@@ -1,0 +1,10 @@
+plasmid
+strains
+gentamicin
+plasmids
+VRE
+E.
+faecium
+pMG1
+resistance
+conjugative

@@ -1,0 +1,10 @@
+type ii topoisomerase-mediated dna cleavage sites promoted
+-50 mm kcl-5 mm mgcl2-2 mm dithiothreitol-0
+1 mm na2edta-1 mm atp-bovine serum albumin
+represent potential dna double-strand breaks
+changed enzyme-specific dna cleavage patterns produced
+type ii topoisomerase-mediated dna cleavage
+yeast type ii topoisomerase rendered
+produced common dna cleavage sites
+figure  compares dna cleavage produced
+drug-independent dna cleavage sites generated

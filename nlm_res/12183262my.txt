@@ -1,0 +1,10 @@
+strains
+gonorrhoeae
+N.
+resistance
+azithromycin
+1
+erythromycin
+mutations
+used
+rRNA

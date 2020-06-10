@@ -1,0 +1,10 @@
+stops
+swiping
+person
+finding
+table
+copy-and-paste
+existing
+complete
+date
+like

@@ -1,0 +1,10 @@
+dna
+phases
+polyamines
+textures
+texture
+cholesteric phase
+polyamine structural effects
+structures
+structure
+diamino

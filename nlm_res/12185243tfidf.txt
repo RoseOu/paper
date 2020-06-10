@@ -1,0 +1,10 @@
+RepA
+maize
+embryos
+35S
+transformation
+GFP
+LIR
+Ubi
+RepAAsp700
+|

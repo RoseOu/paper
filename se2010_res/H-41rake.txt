@@ -1,0 +1,83 @@
+marc najork
+microsoft research
+1065 la avenida
+mountain view
+hits-aut-ih-100
+hits-aut-all-100
+hits-aut-id-10
+pagerank
+hits-hub-all-100
+degree-out-ih
+hits-hub-id-100
+degree-out-
+hits-hub-all-100
+degree-out-ih
+hits-hub-ih-100
+degree-out-id
+hits-hub-id-10
+bm25f
+mrr@10
+figure 3
+hits-hub-all-100
+degree-out-ih
+hits-hub-ih-100
+degree-out-id
+hits-hub-id-10
+bm25f
+ndcg@10
+state-ofthe-art text retrieval algorithm exploiting anchor text
+pagerank
+hits-aut-all-100
+hits-hub-all-100
+hits-hub-ih-100
+hits-hub-id-100
+degree-out-
+hits-aut-all-100
+pagerank
+hits-hub-all-100
+hits-hub-ih-100
+hits-hub-id-100
+degree-out-
+23rd annual
+international acm sigir conference
+28th annual international
+acm sigir conference
+24th
+annual international acm sigir conference
+text retrieval
+methods exploiting anchor text
+25
+bm25f
+degree-in-id
+degree-in-ih
+hits-aut-id-25
+hits-aut-ih-100
+degree-in-
+12
+bm25f
+hits-aut-id-9
+degree-in-id
+hits-aut-ih-15
+degree-in-ih
+degree-in-
+30
+bm25f
+hits-aut-id-9
+hits-aut-ih-15
+degree-in-id
+degree-in-ih
+degree-in-
+text retrieval algorithm exploiting anchor text
+text 
+retrieval algorithm exploiting anchor text
+10th
+international world wide web conference
+12th
+international world wide web conference
+hits-aut-ih-100
+hits-aut-all-100
+pagerank
+hits-aut-id-10
+degree-out-
+stanford digital library
+technologies project

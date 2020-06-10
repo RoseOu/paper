@@ -1,0 +1,10 @@
+boltzmann transport community
+monochromatic wave propagating
+structured triangle mesh
+element edge length
+initial wave field
+significant wave height
+large spatial domain
+“garden sprinkler effect”
+spatial discretisation
+inherent problem

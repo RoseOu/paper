@@ -1,0 +1,10 @@
+spacetime
+weyl
+maxwell
+purely radiative spacetimes
+constants
+conserved quantities
+case
+static
+reference solutions
+precise

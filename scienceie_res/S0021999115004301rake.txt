@@ -1,0 +1,10 @@
+nonlinear terms typically incur numerical error
+nodal lagrange polynomials defined
+traditionally utilised continuous galerkin
+diagonal mass matrix
+numerical error
+discontinuous galerkin
+equal number
+collocation method
+newer extensions
+flux reconstruction

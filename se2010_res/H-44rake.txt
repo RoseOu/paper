@@ -1,0 +1,48 @@
+time
+t1 t2 t3 t4 t5 t6 t7 t8 t9 t10
+d1
+d2
+d3
+document
+1 2 3 4
+5 6 7
+8 9 10
+figure 2
+text search
+klaus berberich srikanta bedathur thomas neumann gerhard weikum
+max-planck institute
+approximate
+temporal coalescing induces minimal disruption
+suel [34] exploit arbitrary content overlaps
+intended time-travel
+text search functionality
+desired time-travel text search functionality
+stack [29] reports
+practical experiences made
+popular well-studied inverted file index [35]
+time-travel text search functionality enable
+wiki ukgov
+# postings ratio # postings ratio
+algorithm produces nearly-optimal
+output sequences
+large
+network-attached raid-5 disk array
+achieves lower expected processing cost
+achieves higher expected processing cost
+time
+score
+non-coalesced
+coalesced
+figure 1
+running microsoft
+windows server 2003
+sb approach achieves close-to-optimal
+performance
+open source
+search-engine nutch
+search process
+general terms
+algorithms
+de
+abstract
+text search

@@ -1,0 +1,10 @@
+object direction relation
+description
+geometry
+related
+objects
+based
+basic idea
+open
+shape
+shapes

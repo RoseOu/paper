@@ -1,0 +1,109 @@
+k2}}
+1
+1 1
+1
+1/4 1/4 1/4 1/4
+1/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3
+1/4
+1/41/2
+1/3 1/3 1/3
+1/32/3 1/32/3
+1/2 1/2
+1/3 2/3 2/3 1/3
+figure 1
+1/4
+1/4 1/4
+1/4
+2 2 2
+1
+1
+1 2 1 2 3 0 3 0
+-10 10
+1/2 1/4 1/4
+2 2 2
+1
+1 2 3 0 3 0
+0 0
+0-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1-1
+-1 -1
+-1
+-1
+-1
+-1
+-1
+-1
+-1-1
+-1 -1
+-1
+-1
+-10 0
+0
+0 0
+0
+0 0
+0
+-1
+-2
+-2 -1
+-2
+-2 -1
+-2
+-2 -1
+-2
+-2 1
+2
+2 1
+2
+2 1
+2
+2 1
+2
+2
+j1 k1 k2 j1 j2 k2 j1 j2 k1
+1
+1
+1
+1 1
+1 1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+{{j1}
+imperfect
+information∗
+andrew gilpin
+computer science department
+carnegie mellon university
+pittsburgh
+tuomas sandholm
+computer science department
+carnegie mellon university
+pittsburgh
+spieltheoretische behandlung eines oligopolmodells
+mit nachfragetr¨agheit
+ˆβ = ˆβ
+164
+j1
+j2
+j2 k1
+k1
+k2
+k2
+zum hilbertschen aufbau der reellen zahlen
+stronger solution
+concept called subgame perfect nash equilibrium [45]
+television stations regularly 
+broadcast poker tournaments

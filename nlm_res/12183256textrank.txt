@@ -1,0 +1,10 @@
+plasmid
+plasmids
+resistance
+resistant
+gene
+genes
+b
+serotype
+serotypes
+fragments

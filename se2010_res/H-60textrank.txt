@@ -1,0 +1,20 @@
+informative
+information
+informativeness
+document
+documents
+term
+terms
+poisson
+n
+idf
+p
+probability
+d
+frequencies probabilities
+e
+λ
+c
+definition
+definitions
+definitely

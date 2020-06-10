@@ -1,0 +1,10 @@
+semi-infinite
+two-dimensional
+quadratic
+equation
+scatterers
+Shenderov
+one-dimensional
+waveguide
+shifting-by-one-period
+layered

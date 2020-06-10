@@ -1,0 +1,11 @@
+sorghum bicolor f0-f1 atpase alpha subunit gene
+bigdye terminator cycle sequencing kit version 2
+diagonally striped bars represent slcot clones
+retrosor-6 retroelement shows numerous cot clone hits
+gene discovery
+cot-based sequence discovery represents
+previously discovered sequence exhibiting primary homology
+cot curve generally represents single-copy dna sequences
+random sorghum bac end sequences recognizing
+duplicated target site sequences flanking
+white bars represent mrcot clones

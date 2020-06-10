@@ -1,0 +1,10 @@
+energy
+minimum
+minima
+harmonic
+global
+alanine
+dipeptide
+spacing
+cross-overs
+second-lowest

@@ -1,0 +1,10 @@
+T1	Process 30 55	polymerization techniques
+T2	Process 89 107	chemical reactions
+T3	Process 109 135	step-growth polymerization
+T4	Process 140 167	free radical polymerization
+T6	Task 215 238	synthesis of polyesters
+T7	Material 228 238	polyesters
+T8	Material 240 249	polyamide
+T9	Material 254 261	epoxies
+T10	Process 272 297	synthesis of polyacrylics
+T14	Material 416 424	solution

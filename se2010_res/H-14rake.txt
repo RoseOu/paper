@@ -1,0 +1,53 @@
+scale /
+differential
+known-item exploratory
+qs qd sd qs qd sd
+effectiveness 2
+measure
+known-item exploratory
+qs qd sd qs qd sd
+usage 35
+systems baseline qsuggest qdest sdest
+ranking 2
+167
+known-item exploratory
+0
+100
+200
+300
+400
+500
+600
+task categories
+baseline
+qsuggest
+time
+proxy server logs provide access
+returned ten top-ranking documents retrieved
+popular
+destination suggestions strategically influenced searches
+versus european web searching
+trends
+considers page visitation statistics independently
+popular destinations
+complement traditional search results
+large web
+search engine query log
+search
+ends additional
+gment baseline
+users run multiple searches concurrently
+qs qd sd
+success 2
+qs qd sd
+queries 1
+system offers
+additional interface affordances
+similar
+iple query iterations
+bmitting
+qs qd sd
+easy 2
+measure query trails session trails
+number
+adaptive community-based web search engine

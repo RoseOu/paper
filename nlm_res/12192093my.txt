@@ -1,0 +1,10 @@
+cells
+memory
+CD4
+HA-TCR
+effector
+IFN-gamma
+cell
+IL-4
+HA
+production

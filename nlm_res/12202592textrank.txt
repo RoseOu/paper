@@ -1,0 +1,10 @@
+dna
+pcr
+detection
+detected
+detect
+probe
+probes
+af
+sequence
+sequencing

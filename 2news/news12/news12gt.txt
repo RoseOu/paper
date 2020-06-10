@@ -1,0 +1,6 @@
+death
+virus
+recovered
+vaccine
+health
+update

@@ -1,0 +1,10 @@
+T1	Process 7 28	Total Focusing Method
+T2	Process 30 33	TFM
+T3	Material 141 149	FMC data
+T4	Process 350 370	Linear interpolation
+T5	Process 467 481	TFM image ITFM
+T6	Process 589 606	Hilbert transform
+T7	Material 671 691	transmitting element
+T8	Material 728 745	receiving element
+T10	Process 976 992	conventional TFM
+T11	Material 186 195	x–z plane

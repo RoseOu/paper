@@ -1,0 +1,10 @@
+lerisetron
+binding
+analog
++-
+amino
+W89
+receptors
+interaction
+Y152
+5-HT3R

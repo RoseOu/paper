@@ -1,0 +1,10 @@
+T1	Process 29 53	water-gas shift reaction
+T2	Process 55 59	WGSR
+T3	Process 79 106	chemical kinetics equipment
+T4	Process 134 151	hydrogen recovery
+T5	Process 157 177	industrial processes
+T7	Material 263 272	catalysts
+T8	Material 442 449	calcite
+T9	Material 451 460	coal char
+T10	Material 422 439	natural catalysts
+T11	Material 495 511	modified olivine

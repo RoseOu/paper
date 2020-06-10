@@ -1,0 +1,10 @@
+conformal
+corresponding
+1,1
+multispecies
+Calogero
+two-body
+three-body
+interactions
+algebra
+Bargmann–Fock

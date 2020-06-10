@@ -1,0 +1,20 @@
+queries
+caption
+captions
+features
+feature
+page
+results
+result
+snippet
+snippets
+search
+searching
+terms query
+clickthrough
+clickthroughs
+users
+web
+term
+pages listed
+relevance

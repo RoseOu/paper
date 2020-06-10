@@ -1,0 +1,10 @@
+networks
+network
+ANN
+error
+primitive
+functions
+inputs
+classes
+Rojas
+1996

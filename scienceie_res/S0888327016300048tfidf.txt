@@ -1,0 +1,10 @@
+multivariate
+EMD
+signal
+fault
+sensors
+algorithm
+frequencies
+simulated
+bearing
+diagnosis

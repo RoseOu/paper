@@ -1,0 +1,10 @@
+strains
+biotype
+cholerae
+classical
+Matlab
+O1
+V.
+biotypes
+Bangladesh
+cholera

@@ -1,0 +1,103 @@
+transmission slot 1 millisecond
+max backoff slots 30
+message size 80-1024 bytes
+hop count limit
+messages stored
+39
+1
+10
+100
+1000
+10000
+100000
+1e+06
+1e+07
+1e+08
+unlimited 100 24 10 1
+numberofmessageduplications
+message time-to-live
+excessive message
+1
+10
+100
+1000
+10000
+100000
+1e+06
+1e+07
+1e+08
+unlimited 100 24 10 1
+numberofmessagetransmitted
+message time-to-live
+1
+10
+100
+1000
+10000
+100000
+1e+06
+1e+07
+1e+08
+unlimited 100 24 10 1
+numberofmeta-datatransmissions
+message time-to-live
+unlimited
+storage capacity unlimited
+prediction window δt 10 hours
+probability threshold 0
+computer 
+communication networks-distributed systems
+general terms
+performance
+direct
+random
+prediction
+state
+prophet
+epidemic
+figure 2
+direct
+random
+prediction
+state
+prophet
+epidemic
+figure 3
+direct
+random
+prediction
+state
+prophet
+epidemic
+figure 4
+direct
+random
+prediction
+state
+prophet
+epidemic
+figure 5
+usa 03755
+abstract
+traditional mobile ad-hoc network
+delay fault tolerant
+mobile sensor network
+hop count limit
+direct
+random
+prediction
+state
+prophet
+epidemic
+highly dynamic
+destination-sequenced distance-vector routing
+large realistic contact traces
+libo song
+ad-hoc on-demand distance
+vector routing
+networks include mobile
+sensor networks [25]
+network traffic exhibits
+similar patterns
+experimenting large-scale mobile opportunistic
+networks

@@ -1,0 +1,10 @@
+candidate
+candidates
+voting
+vote
+votes
+voted
+m
+n
+rules
+rule

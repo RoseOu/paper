@@ -1,0 +1,10 @@
+eye
+algorithm
+location geometric
+fast face recognition
+lbp
+eyeball
+normalization
+er
+local binary
+named

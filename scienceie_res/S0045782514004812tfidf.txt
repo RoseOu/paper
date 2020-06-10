@@ -1,0 +1,10 @@
+domain
+space–time
+<
+I=
+variational
+S=defΩ×I
+spatial
+Ω
+time-derivative
+geomaterials

@@ -1,0 +1,10 @@
+enzyme
+PA-OGA
+PGA-GalUAT
+PA-OGAs
+DP
+GalUA
+pollen
+axillaris
+|
+UDP-GalUA

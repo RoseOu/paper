@@ -1,0 +1,10 @@
+preserve optimal convergence rates
+nurbs based shape functions
+specific coordinate augmentation technique
+mortar finite element method
+nonconforming discretized sub-domains
+constrained mechanical system
+representative numerical examples
+redesigned mortar method
+mortar method
+present work

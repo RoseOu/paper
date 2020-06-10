@@ -1,0 +1,60 @@
+collection topic number query type
+tb04-adhoc gov2 701-750 cb
+tb05-adhoc gov2 751-800 cb
+tb06-adhoc gov2 801-850 cb
+rt04 disk 4+5
+ts
+ts
+tslqslqi
+kt
+ii
+cqp
+dqp
+kcqp
+dqp
+dqweight
+dqhcqhlcqwig
+wig computed
+601700
+cb
+tb05-np gov2 np601-np872 np
+tb06-np gov2 np901-np1081 np
+table 3
+1 content-based queries
+methods clarity robust jsd wig qf wig
++qf
+tb04+0
+5 adhoc
+0
+poorly performing query
+cruise ship damage sea life
+term cruise ship vessel sea passenger
+kl
+contribution
+0
+term prostate cancer treatment men therapy
+kl
+contribution
+0
+query cruise ship damage sea life
+high performing query
+prostate cancer treatments
+retrieval -query formulation
+general terms
+algorithms
+automatically identifying poorly performing queries
+defense advanced research
+projects agency
+web search environments pose significant challenges
+query prostate cancer treatments
+average precision makes
+ranked lists retrieved
+np queries consistently demonstrate good prediction
+accuracy
+mrf model directly models term dependence
+web search
+environments
+yun zhou
+proximity features
+include exact phrase
+strategies robust wig-1 wig-2 wig-3 optimal

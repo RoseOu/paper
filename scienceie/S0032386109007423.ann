@@ -1,0 +1,9 @@
+T1	Process 16 37	ion exchange capacity
+T2	Process 39 42	IEC
+T3	Process 70 89	proton conductivity
+T4	Material 93 97	PEMs
+T5	Material 140 160	sulfonic acid groups
+T6	Process 180 197	proton conduction
+T7	Material 203 211	membrane
+T9	Material 279 284	water
+T12	Task 412 506	improvement of proton conductivity using aromatic polymers with moderately adjusted IEC values

@@ -1,0 +1,10 @@
+algorithms
+solvable
+semantic
+constrained
+reasoning
+platforms
+databases
+questions
+implementation
+verbal

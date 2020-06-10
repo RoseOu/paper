@@ -1,0 +1,11 @@
+T4	Material 129 146	logical inference
+T5	Material 151 158	ProbLog
+T7	Process 474 482	(RO)BDDs
+T9	Process 547 575	sentential decision diagrams	
+T10	Process 577 580	SDD
+T11	Process 583 631	deterministic, decomposable negation normal form
+T12	Process 633 639	d-DNNF
+T13	Material 698 702	PPLs
+T16	Material 862 864	PB
+T2	Material 26 69	enumeration of the conditional sample space
+

@@ -1,0 +1,10 @@
+enterica
+serovar
+strains
+Paratyphi
+subsp
+dT+
+isolates
+IS200
+S.
+plasmid

@@ -1,0 +1,10 @@
+adiabatic evolution based quantum computation
+quantum search algorithm
+quantum circuit model
+classical search algorithm
+adiabatic evolution
+quadratic speed
+paper
+approaches
+implementing
+shown

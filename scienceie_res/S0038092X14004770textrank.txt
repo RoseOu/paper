@@ -1,0 +1,10 @@
+model
+shading
+shade
+sub
+overall energy yield
+cell mismatch
+cells
+algorithms
+incorporating
+analysis

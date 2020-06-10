@@ -1,0 +1,10 @@
+INH
+resistance
+strains
+mg/liter
+efflux
+susceptibility
+tuberculosis
+BACTEC
+induced
+INH-susceptible

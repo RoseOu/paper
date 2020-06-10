@@ -1,0 +1,10 @@
+stress
+framed cell
+average
+spurious
+virial
+calculate
+calculation
+methods
+method
+frame

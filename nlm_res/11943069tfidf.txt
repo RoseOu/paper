@@ -1,0 +1,10 @@
+CoA
+Y87G2A.14
+protein
+peroxisomal
+elegans
+|
+Trx-Y87G2A.14
+diphosphatase
+Nudix
+C-terminal

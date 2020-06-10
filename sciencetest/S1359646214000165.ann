@@ -1,0 +1,10 @@
+T1	Task 4 33	first-principles calculations
+T2	Material 58 95	Cambridge Serial Total Energy Package
+T3	Process 131 168	plane-wave pseudopotential DFT method
+T4	Material 97 103	CASTEP
+T5	Process 232 266	generalized gradient approximation
+T6	Process 291 316	electron–ion interactions
+T7	Process 334 376	Vanderbilt-type ultrasoft pseudopotentials
+T8	Process 451 474	Brillouin-zone sampling
+T9	Process 499 520	Monkhorst-Pack scheme
+T10	Material 711 717	nickel

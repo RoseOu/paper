@@ -1,0 +1,10 @@
+T1	Process 17 41	powder X-ray diffraction
+T3	Process 67 102	PANalytical Empyrean diffractometer
+T4	Material 117 129	XRD patterns
+T5	Process 149 171	STOE Win XPOW software
+T6	Task 194 206	phase purity
+T7	Task 212 229	crystal structure
+T8	Task 238 253	cell parameters
+T9	Process 270 296	Thermogravimetric analysis
+T10	Process 298 301	TGA
+T11	Process 325 352	Netzsch STA 449C instrument

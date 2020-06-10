@@ -1,0 +1,10 @@
+T1	Material 0 15	Ge (100) wafers
+T3	Material 189 195	wafers
+T5	Material 280 287	samples
+T10	Task 746 769	electrical measurements
+T14	Material 1055 1076	oxide leakage current
+T15	Process 1081 1089	measured
+T16	Material 1163 1209	HP 4192A low frequency (LF) impedance analyzer
+T2	Process 37 65	cleaned in ultra high vacuum
+T4	Process 215 222	Al flux
+T6	Process 298 306	oxidized

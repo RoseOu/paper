@@ -1,0 +1,10 @@
+cell
+phone
+price
+calculated
+index
+average
+operator
+model
+plans
+plan

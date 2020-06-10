@@ -1,0 +1,10 @@
+reduction
+sentence
+text
+summarization
+Bayesian
+model
+method
+Sentence
+one
+approaches

@@ -1,0 +1,10 @@
+wafers
+measurements
+samples
+HfO2
+oxide
+using
+used
+deposited
+films
+Ge

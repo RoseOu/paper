@@ -1,0 +1,42 @@
+edinburgh
+edinburgh eh8 9le
+united kingdom
+mrovatso@inf
+agent communication languages
+michael rovatsos
+school
+deunset pending
+cancelled
+active
+violated
+fulfilled
+figure 1
+formalising agent mediated electronic
+institutions
+stop tracking semantic state transitions
+manage control flow
+issues
+3 static acl semantics
+table 2 shows
+initially empty commitment store cs
+framework raises interesting questions
+commitment identifiers adversely affect
+respective performative
+types defined
+distributed artificial 
+intelligence-multiagent systems
+1
+fipa agent communication
+language based
+give
+deactivation strict precedence
+completely revoke existing commitments
+section 4 reviews related
+approaches
+solely utilise semantic
+evolution
+planning-based rational decision
+making
+paper proposes dynamic semantics
+reasonable
+dynamic acl specifications

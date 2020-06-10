@@ -1,0 +1,10 @@
+expose fuji rx medical x-ray film
+ddbj /embl /genbank nucleotide sequence databases
+d-ddb1 protein- conjugated sepharose column chromatography
+provisionally designated drosophila damage-specific dna-binding protein 1
+native gel electrophoretic mobility shift assay
+shows uv-damaged dna --cellulose elution patterns
+oxygen free radical-induced base lesions
+tandemly arranged dna replication-related element
+uv-irradiated single-strand dna --cellulose column
+murine cells ectopically expressing e2f1

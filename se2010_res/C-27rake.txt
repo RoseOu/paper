@@ -1,0 +1,151 @@
+ndlogr /
+# detections 1 2 logrd
+# time stamps 1 2 logrd
+event overhead d2
+2d2
+d2
+logrd/2
+table 1
+5
+event size [cm]
+localizationduration[sec]
+87cm/sec
+58cm/sec
+43cm/sec
+35cm/sec
+figure 15
+5
+event size [cm]
+localizationduration[sec]
+87cm/sec 58cm/sec
+43cm/sec 35cm/sec
+figure 18
+5
+event size [cm]
+horizontalbias[cm]
+87cm/sec 58cm/sec
+43cm/sec 35cm/sec
+figure 20
+5
+event size [cm]
+localizationerrorw/obias[cm]
+87cm/sec 58cm/sec
+43cm/sec 35cm/sec
+figure 21
+5
+event size [cm]
+locationerror[cm]
+87cm/sec
+58cm/sec
+43cm/sec
+35cm/sec
+figure 14
+5
+event size [cm]
+locationerror[cm]
+87cm/sec 58cm/sec
+43cm/sec 35cm/sec
+figure 17
+bits
+localizationduration[sec]
+20ms/event 40ms/event 60ms/event
+80ms/event 100ms/event
+figure 23
+bits
+locationerror[cm]
+20ms/event 40ms/event 60ms/event
+80ms/event 100ms/event
+figure 22
+0
+event size [cm]
+localizationcost[%]
+87cm/sec
+58cm/sec
+43cm/sec
+35cm/sec
+figure 16
+0
+event size [cm]
+localizationcost[%]
+87cm/sec 58cm/sec
+43cm/sec 35cm/sec
+figure 19
+execution cost comparison
+criterion point scan line scan area cover
+localization time nrd /
+bits
+costfunction[%]
+20ms/event
+40ms/event
+60ms/event
+80ms/event
+100ms/event
+figure 24
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0 25 50 75 100 125 150
+event size [cm]
+localizationtime[min]
+3m/sec
+6m/sec
+9m/sec
+figure 28
+5
+4
+4 9 16 25 36 49 64 81
+grid size
+localizationerror[gridunit]
+row-major consecutive placement
+greedy placement
+figure 8
+5
+4 9 16 25 36 49 64 81
+grid size
+localizationerror[gridunit]
+row-major consecutive placement
+greedy placement
+figure 9
+0
+200
+400
+600
+800
+1000
+1200
+0 50 100 150 200
+event size [cm]
+intensity[adccount]
+35mw
+7mw
+figure 30
+0
+5
+10
+15
+20
+25
+0 5 10 15 20 25 30
+event size [cm]
+localizationerror[cm]
+0
+0
+5
+10
+15
+20
+25
+6 12 18
+event size [cm]
+localizationerror[cm]
+0
+4
+20 40 60 80 100
+event duration [ms/event]
+locationerror[cm]

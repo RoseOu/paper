@@ -1,0 +1,10 @@
+T1	Task 3 21	Obstacle detection
+T2	Process 34 76	inverse perspective mapping and homography
+T3	Task 78 101	Obstacle classification
+T4	Process 114 134	fuzzy neural network
+T5	Task 140 173	estimation of the vanishing point
+T6	Process 184 211	feature extraction strategy
+T7	Process 237 258	geometrical relations
+T8	Material 271 279	elements
+T9	Material 301 309	obstacle
+T10	Material 287 292	scene

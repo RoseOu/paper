@@ -1,0 +1,10 @@
+data
+communication
+graphic graphics
+chart
+diagram
+stock
+dot
+page
+simple
+energy

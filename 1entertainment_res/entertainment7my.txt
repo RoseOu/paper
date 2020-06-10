@@ -1,0 +1,10 @@
+actors
+girl
+MR
+leader
+friend
+without
+planet
+characters
+writer
+brother

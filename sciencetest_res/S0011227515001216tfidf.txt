@@ -1,0 +1,10 @@
+thermal
+conductivity
+mKCC
+MSSL
+RRR
+tungsten
+κ
+switch
+ADR
+calculated

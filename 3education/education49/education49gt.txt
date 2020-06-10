@@ -1,0 +1,5 @@
+sheep
+wool
+rain
+fiber
+wash

@@ -1,0 +1,10 @@
+quark
+distributions
+proton
+nucleons
+scalar
+QMC
+vector
+nuclear
+antiquark
+isospin

@@ -1,0 +1,36 @@
+belief modalities ba form system k45
+branching versus linear time
+temporal logic
+physical path operator generates statements
+modalities ka
+form system s5
+methods-modal
+logic
+general terms
+theory
+1
+p1u p2 ∧ p3u p4
+p-seriality implies weak p-seriality
+plausible path operator restricts statements
+people wear black shoes
+adding plausible path operators pl
+=
+baa♦ win ∧ bba♦ win
+potentially counterintuitive system
+descriptions
+verifying ctlkp
+properties directly
+temporal
+setting
+nils bulling
+branching-time temporal logic
+ctl [4
+distributed artificial 
+intelligence-multiagent systems
+regard game-theoretical 
+rationality criteria
+briefly
+present branching-time logic
+computation tree
+logic ctl [4
+probabilistic dynamic epistemic logic

@@ -1,0 +1,10 @@
+style lane selection policy
+initial random number seed
+drivers make probabilistic decisions
+overcalibration affecting simulation brittleness
+enforce correct routing percentages
+trip times depending
+highlight unrealistic behaviour
+probabilistic routing
+‘roulette wheel
+simulation toolkits

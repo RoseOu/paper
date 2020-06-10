@@ -1,0 +1,10 @@
+T1	Process 112 128	multivariate EMD
+T2	Task 32 128	elaborates on the theoretical effectiveness of the proposed method based on the multivariate EMD
+T3	Process 164 185	numerical simulations
+T4	Task 190 224	applications to bearing monitoring
+T6	Process 249 261	standard EMD
+T8	Process 234 281	expansion from standard EMD to multivariate EMD
+T9	Material 326 333	sensors
+T11	Material 434 453	multivariate signal
+T12	Material 504 524	frequency components
+T13	Task 576 601	extract fault information

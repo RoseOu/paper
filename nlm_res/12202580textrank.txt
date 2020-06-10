@@ -1,0 +1,10 @@
+dna
+probes
+probe
+amplification
+primers
+primer
+specific
+specificity
+specifically
+specificities

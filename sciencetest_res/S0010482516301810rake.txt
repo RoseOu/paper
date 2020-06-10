@@ -1,0 +1,10 @@
+three-dimensional digital subtraction angiographic
+unstructured computational volumetric mesh
+3d printed vessel model
+target vessel segment
+3d printed model
+diagnostic cerebral angiography
+standard triangulation language
+fine triangular meshes
+manually removing spicule
+3d model

@@ -1,0 +1,10 @@
+isolate
+commune
+DNA
+10
+S.
+sample
+dog
+sequence
+PCR
+nodule

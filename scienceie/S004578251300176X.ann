@@ -1,0 +1,10 @@
+T1	Task 644 699	model and quantitatively simulate the sintering process
+T2	Task 742 778	estimate the final resulting quality
+T3	Task 817 856	to predict the final net shape and size
+T4	Task 798 806	porosity
+T5	Process 0 17	Powder metallurgy
+T6	Material 864 882	sintered component
+T7	Material 133 142	hardmetal
+T8	Material 152 157	WC-Co
+T10	Process 222 244	liquid-phase sintering
+T11	Material 195 205	green body

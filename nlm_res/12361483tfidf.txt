@@ -1,0 +1,10 @@
+CFTR
+PEST
+mutants
+degradation
+DeltaF508
+maturation
+protein
+|
+constructs
+poly-valine

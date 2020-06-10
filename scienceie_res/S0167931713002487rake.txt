@@ -1,0 +1,10 @@
+oxford instruments opal reactor
+form mos gate electrodes
+hp 4192a low frequency
+perform high frequency capacitance
+keithley 230b voltage source
+deposit ultrathin al layers
+ultra high vacuum
+keithley 617b electrometer
+mbe load lock
+atomic layer deposition

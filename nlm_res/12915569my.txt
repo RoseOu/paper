@@ -1,0 +1,10 @@
+hexon
+Ad2
+Ad5
+residues
+sequence
+adenovirus
+positions
+model
+used
+capsid

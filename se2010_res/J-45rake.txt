@@ -1,0 +1,57 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0 50 100 150 200
+storage cost
+totalday-0procurement
+lwa
+lwlr
+qr
+baselinemin
+baselinemax
+figure 1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0 50 100 150 200
+storage cost
+totayday-0procurement
+lwa
+lwlr
+qr
+searchmin
+searchmax
+figure 2
+spent considerable effort developing general 
+tactics
+michigan
+computer science & engineering
+ann arbor
+automated agents
+versus virtual humans
+2004 supply chain management trading agent
+competition
+darpa real
+strategic reasoning program
+agent mediated electronic commerce vi
+sufficiently curb excessive day-0 procurement
+behavioral 
+sciences-economics
+general terms
+algorithms

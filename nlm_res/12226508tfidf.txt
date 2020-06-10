@@ -1,0 +1,10 @@
+CO2
+HCO3-
+13CO2
+12CO2
+pump-CO2
+efflux
+O2
+CCM
+gaditana
+concentration

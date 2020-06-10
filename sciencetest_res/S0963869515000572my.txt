@@ -1,0 +1,10 @@
+sample
+propagation
+thickness
+wave
+SH
+properties
+modes
+ultrasound
+waves
+bulk

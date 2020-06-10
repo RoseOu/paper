@@ -1,0 +1,10 @@
+include amino acid sequence profiles built
+stationary phase sigma factor sigmas
+hydrophobic residues flanking positively charged residues
+low gc gram-positive bacteria groups
+beta4 strand --loop --beta5 strand region
+originally characterized splicesomal sm proteins
+minimal sm site element revealed
+strong amino acid sequence similarity
+recently redefined major bacterial clades
+recent amino acid sequence analysis

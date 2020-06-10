@@ -1,0 +1,10 @@
+1
+nodes
+principal
+=
+payment
+node
+0
+costs
+path
+transit

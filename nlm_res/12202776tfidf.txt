@@ -1,0 +1,10 @@
+query
+seqlets
+annotation
+seqlet
+protein
+amino
+database
+genomes
+Bio-Dictionary
+annotations

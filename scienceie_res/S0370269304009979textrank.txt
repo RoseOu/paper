@@ -1,0 +1,10 @@
+field
+model
+models
+local fields
+spin
+tension
+localized
+localizes
+localization
+world

@@ -1,0 +1,10 @@
+HSV-2
+mucosal
+CAP
+mice
+HSV-2+CAP
+intravaginally
+PBS
+immunization
+immunized
+adjuvant

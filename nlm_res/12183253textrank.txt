@@ -1,0 +1,10 @@
+resistance
+strains
+strain
+mics
+mic
+select resistant mutants
+clarithromycin
+mutations
+mutation
+studies

@@ -1,0 +1,6 @@
+language
+patient
+brain
+communication
+regions
+soldiers

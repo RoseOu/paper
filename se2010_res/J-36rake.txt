@@ -1,0 +1,14 @@
+de recherche en analyse socio-´economique
+future directions
+efficiently finding nash equilibria
+polynomial-time algorithm
+bne finding bayesian nash equilibria
+strategically zero-sum games generalize constant-sum games
+ˆqi = arg maxqi∈qq ˆρ
+qi
+internal nodes represent choices made
+democratic party
+strategists huddle
+increasingly well-studied solution concept
+dokklady akademiia nauk sssr
+natural groundsets include comparison queries

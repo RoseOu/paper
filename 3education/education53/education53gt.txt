@@ -1,0 +1,6 @@
+animals
+groups
+terms
+murder
+hunter
+nature

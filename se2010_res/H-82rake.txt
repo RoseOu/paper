@@ -1,0 +1,75 @@
+model 10+12 = 22
+computer 38+20 = 58
+disk 0+18 = 18
+digital 50+0 = 50
+total pages
+keyword queries
+alexandros ntoulas
+ucla computer science
+ntoulas@cs
+petros zerfos
+ucla computer science
+pzerfos@cs
+junghoo cho
+ucla computer science
+cho@cs
+helping 
+potential inventors examine prior art
+dmoz/arts website
+adaptive
+generic-frequency
+random-16k
+random-1m
+figure 12
+trademarks
+office1
+makes existing patent documents
+pubmed website
+adaptive
+generic-frequency
+random-16k
+random-1m
+figure 9
+web sites follow limited formatting
+styles
+dmoz website
+adaptive
+generic-frequency
+random-16k
+random-1m
+figure 11
+amazon website
+adaptive
+generic-frequency
+random-16k
+random-1m
+figure 10
+single-attribute search interface
+hidden-web crawler attempts
+approaches 
+essentially assume cooperative document databases
+model 12
+computer 20
+disk 18
+total pages
+pubmed website
+pubmed
+data
+information
+return
+figure 13
+model 10
+computer 38
+digital 50
+term tk
+crawler issues completely irrelevant
+queries
+adaptive hidden web crawlers
+targeting
+crawling popular hidden web sites
+9
+1
+0 50 100 150 200
+fractionofdocuments
+query number
+cumulative fraction

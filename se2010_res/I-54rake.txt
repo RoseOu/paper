@@ -1,0 +1,34 @@
+0-1 knapsack problem 
+involves decision making
+developed time efficient 
+approximate solutions
+liverpool
+liverpool l69 3bx
+southampton
+southampton so17 1bj
+paper analyzes bilateral multi-issue negotiation
+section 4 analyzes online multi-issue negotiation
+standard 0-1 knapsack
+problem4
+adaptive
+limited-supply online auctions
+generate pareto optimal outcomes [19
+approximately efficient combinatorial auctions
+presented approximately optimal negotiation 
+strategies
+computing approximate
+bayes nash equilibria
+finding fully polynomial approximation algorithms
+standard 0-1 knapsack problem
+space complexity grow
+polynomially
+multiagent systems
+general terms
+algorithms
+work concerns
+finding ways
+detailed fixed-choice online 
+algorithm
+online 0-1 knapsack problem
+online 0-1
+knapsack problem

@@ -1,0 +1,10 @@
+clusters
+stable
+split
+et
+al
+VO
+Oi
+LSDA+U
+calculations
+following

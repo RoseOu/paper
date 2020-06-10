@@ -1,0 +1,10 @@
+nutrition
+countries
+health
+taller
+potential
+teach
+wealth
+major
+height
+time

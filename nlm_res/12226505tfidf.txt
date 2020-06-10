@@ -1,0 +1,10 @@
+SOS2
+kinase
+protein
+substrate
+phosphorylation
+kinases
+autophosphorylation
+peptide
+activation
+SOS3

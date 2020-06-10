@@ -1,0 +1,10 @@
+isolates
+profiles
+bongori
+Italy
+southern
+England
+48
+z35
+-
+PFGE

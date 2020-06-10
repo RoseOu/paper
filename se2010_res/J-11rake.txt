@@ -1,0 +1,36 @@
+zi + zj ≥ pi + qti + pj + qtj ≥ vtij + pi + pj = θji − θij
+partially overlapping markets existing 
+alongside modern efficient markets [2]
+pi + qti + pj + qtj ≥ θji − θij
+optimization problem requires qti + qtj ≥ vtij
+zi + zj ≥ θji − θij ∀
+zi + zj ≥ θji − θij
+constraint pi + θi ≥ θj − pj
+1
+1
+1
+0 0
+1
+0
+1
+1
+0
+0 0
+1
+qti + qtj ≥ vtij ∀
+qti + qtj = vtij
+vtij = αtji − βtij = θji − pj −
+pi + θi ≥ θj − pj
+pi +θi > θj −pj
+θj − pj ≤ θi + pi
+standard second-price auction
+arises naturally
+pj + qtj
+dual solution
+zi = pi +
+bid βt > pi + θi
+bid βt = pi + θi
+price-setting agents
+larry blume
+dept
+βtij = θij + pi

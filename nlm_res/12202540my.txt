@@ -1,0 +1,10 @@
+patients
+respiratory
+samples
+pathogens
+may
+patient
+tests
+clinical
+infection
+CAP

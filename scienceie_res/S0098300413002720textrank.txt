@@ -1,0 +1,10 @@
+networks
+network
+weighted
+weights
+ann
+functions
+classes
+parameters
+nervous
+different

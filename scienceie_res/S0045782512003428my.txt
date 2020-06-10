@@ -1,0 +1,10 @@
+support
+first
+order
+gradients
+deformation
+functions
+stability
+accuracy
+points
+additional

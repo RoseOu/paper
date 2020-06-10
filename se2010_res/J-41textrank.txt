@@ -1,0 +1,10 @@
+revenue
+revenues
+bids
+bid
+bidding
+slot
+slots
+auction
+auctioneer
+auctions

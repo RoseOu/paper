@@ -1,0 +1,10 @@
+1
+problem
+cost
+=
+auction
+agent
+n
+value
+−
+mechanism

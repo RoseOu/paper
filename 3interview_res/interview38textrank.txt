@@ -1,0 +1,10 @@
+adult
+adults
+book
+books
+things
+thing
+articles
+article
+reading
+writing

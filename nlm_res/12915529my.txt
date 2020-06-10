@@ -1,0 +1,10 @@
+protein
+66K
+viral
+cells
+TYMV
+RNA
+replication
+proteins
+expression
+140K

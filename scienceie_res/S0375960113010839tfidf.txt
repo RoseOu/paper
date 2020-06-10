@@ -1,0 +1,10 @@
+vertex
+algorithm
+quantum
+oracle
+GT
+queries
+graphs
+left-most
+right-most
+exponentially

@@ -1,0 +1,10 @@
+substrates
+insulator
+evaporator
+vacuum
+masks
+Arrays
+TFTs
+precleaned
+5cm×5cm
+125μm

@@ -1,0 +1,10 @@
+digraphs
+optimal
+walks
+periodicity
+weights
+sequences
+study
+growing
+length
+weighted

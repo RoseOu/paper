@@ -1,0 +1,10 @@
+hexagonal close packed lattice structure
+setting plasticity potential ratios
+bimodal basal pole distribution
+zirconium unit lattice
+global coordinate system
+isotropic material properties
+anisotropic material properties
+single zirconium grain
+plastically anisotropic due
+elastic properties incorporated

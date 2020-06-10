@@ -1,0 +1,10 @@
+avoid extracting unnecessary training data
+sw-svr predicts complicated micrometeorological data
+d-sdc involves unnecessary training data
+lowest computational complexity compared
+low computational complexity
+highly accurate prediction
+grid search roughly
+high prediction performance
+training data
+training periods

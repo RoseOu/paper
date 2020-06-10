@@ -1,0 +1,11 @@
+institut suisse de recherche sur le cancer animal facilities
+-caa gga ggt cta gct ctg gcg-3
+mouse mammary tumor virus life cycle
+mouse mammary tumor virus
+cd11b- cd11c- f4/80- cd4- cd8- b220+ cells
+sodium dodecyl sulfate-8% polyacrylamide gel electrophoresis
+-150 mm nacl-5 mm edta-1% triton x-100
+interpretation preexisting neutralizing abs inhibited b-cell proliferation
+mab 2b3 efficiently prevented sag-specific t-cell responses
+syndecan- cd11c- cd19- cd3- f4/80+
+syndecan- cd19- cd3- f4/80- cd11c+

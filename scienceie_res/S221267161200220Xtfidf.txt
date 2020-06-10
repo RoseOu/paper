@@ -1,0 +1,10 @@
+FDI
+wavelet
+analysis
+trends
+variables
+autocorrelation
+time-varying
+volatility
+ARIMA-
+GARCH-M

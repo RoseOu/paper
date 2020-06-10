@@ -1,0 +1,10 @@
+isogeometric
+authors
+solvers
+interconnecting
+numerical
+theoretical
+tearing
+12,13,16,29
+linear
+algebra

@@ -1,0 +1,10 @@
+structure
+water
+molecular
+provide
+XAS
+XES
+liquid
+requires
+calculations
+spectral

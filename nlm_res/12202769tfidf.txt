@@ -1,0 +1,10 @@
+iceA1
+60190
+DNA
+endonuclease
+E.coli
+H.pylori
+CH4
+frameshift
+NlaIII-like
+ER2169

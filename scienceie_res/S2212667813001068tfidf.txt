@@ -1,0 +1,10 @@
+permeability
+porosity
+sandstones
+classification
+heterogeneity
+Schlumberger
+Timur-Coates
+measurements
+CSM
+estimation

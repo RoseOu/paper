@@ -1,0 +1,10 @@
+robot
+autonomous
+utilizes
+surveillance
+user
+tele-operated
+navigates
+haptic
+sensors
+robots

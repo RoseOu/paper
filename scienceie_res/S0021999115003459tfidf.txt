@@ -1,0 +1,10 @@
+BEM
+optimisation
+discretisation
+adjoint
+shape
+analysis-suitable
+unbounded
+domains
+electrostatic
+gradient-based

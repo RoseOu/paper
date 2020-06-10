@@ -1,0 +1,10 @@
+LNA
+probes
+FP
+DNA
+genotyping
+PCR
+high
+single
+LNAs
+rhodamine

@@ -1,0 +1,10 @@
+mortality
+hospitals
+clinical
+|
+expenditures
+variables
+for-profit
+non-profit
+competition
+adjusted

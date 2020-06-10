@@ -1,0 +1,43 @@
+witness info size>
+<filtered witness info>
+<filtered witness info>
+record record hop witness
+count gap count records
+5 5 5 628
+4 5 5 421
+3 5 5 316
+5 10 5 311
+5 20 5 207
+5 5 4 462
+5 5 3 341
+3 20 3 161
+table 4
+mica2
+sensor 900mhz running mantis os 0
+wireless sensor node called intelligent communication
+unit
+integer parameter called max hop count
+simpler scheme 
+incurs lesser energy cost
+experiment called identifying hot search
+areas
+greatest problems plaguing modern search
+integer parameter max record count
+delay tolerant network architecture addresses
+identifying hot search area experiment
+distributed ad-hoc wireless sensor networks
+indirect inference experiment
+node id record
+signal strength starts 
+dropping rapidly
+witness info size>
+<constaints
+unlike earlier location tracking solutions
+unlike
+earlier location tracking solutions
+energy harvesting aware
+power management
+direct contact experiment
+node id record
+max hop count
+parameter

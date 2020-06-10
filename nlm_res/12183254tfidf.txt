@@ -1,0 +1,10 @@
+strains
+pyogenes
+isolates
+S.
+pneumoniae
+penicillin
+MICs
+mug/ml
+resistance
+macrolide

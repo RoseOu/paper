@@ -1,0 +1,10 @@
+finite element package abaqus
+extensive finite element analyses
+rve-based finite element model
+low solvus high refractory
+crystal plasticity constitutive model
+calibrated crystal plasticity umat
+crystal plasticity model
+study cyclic deformation
+fatigue crack growth
+nickel-based superalloy lshr

@@ -1,0 +1,10 @@
+insulin
+glucose
+myocardial
+levels
+TNF-alpha
+hyperglycemia
+production
+endothelial
+patients
+GIK

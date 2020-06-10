@@ -1,0 +1,10 @@
+species
+sequences
+sequence
+groES
+groEL
+S.
+spacer
+genes
+clinical
+groESL

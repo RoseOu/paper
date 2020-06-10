@@ -1,0 +1,10 @@
+T1	Task 696 734	production of anionic polystyrene (PS)
+T2	Process 9 23	polymerization
+T4	Material 730 733	(PS
+T5	Process 203 214	propagation
+T6	Task 343 376	industrial styrene polymerization
+T7	Process 960 983	alkyllithium initiators
+T8	Process 1146 1179	anionic polymerization of styrene
+T9	Material 1198 1205	solvent
+T10	Process 1444 1470	propagating active species
+T12	Process 59 70	termination

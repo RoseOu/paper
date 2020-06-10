@@ -1,0 +1,47 @@
+wireless sensor networks
+yangfan zhou haixuan yang michael
+= 1500
+net mind icqa mind icqa
+group number group number average ι average ι
+1 34 31 0
+−network node number
+totalnumberofgroupsfound
+icqa
+mmnp
+figure 2
+−network node number
+averagefailurenumbers
+icqa
+mmnp
+figure 3
+sensor-group problem called 
+incremental coverage quality algorithm
+greedy solution called
+incremental coverage quality algorithm
+sensor field 400m*400m
+ρ 20m
+capture generally 
+realistic application requirement
+hong kong special administrative 
+region
+embedded systems
+general terms
+theory
+improving wireless sensor network
+lifetime
+researchers propose
+collaborative sensing model
+approach called
+coverage configuration protocol
+sensor node sleeping-working 
+scheduling issue
+protocol called 
+coordinating grid
+efficient converage maintenance protocol
+robust energy conserving protocol
+1st acm
+international conference
+embedded networked sensor
+systems
+1st ieee
+international conference

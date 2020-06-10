@@ -1,0 +1,40 @@
+computer engineering
+nanyang technological university
+singapore
+czsun@ntu
+context-based operational
+transformation
+david sun
+computer science division
+3th conference
+francaise sur les systems
+1 representing original normal operations
+original normal operations generated
+real-world applications provide exciting opportunities
+time interval based
+consistency control algorithm
+collaborative
+table editing technique based
+high-level procedure make ip3safe inverse
+comprehensive testing suite covering
+real-time
+collaborative document editing systems
+representing original normal editing operations
+synchronous 
+interaction
+general terms
+algorithms
+standard general markup
+language
+formally prove transformation
+functions capable
+comprehensive testing cases based
+customizable collaborative
+editor relying
+make ip3safe inverse procedure works
+selecting correct transformation
+target operations
+sg
+abstract
+operational transformation
+high-level control algorithm responsible

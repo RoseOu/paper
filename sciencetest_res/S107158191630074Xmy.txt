@@ -1,0 +1,10 @@
+clicks
+users
+interactions
+respective
+buffer
+average
+interaction
+time
+monitoring
+condition

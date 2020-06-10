@@ -1,0 +1,49 @@
+paris dauphine university
+place du mal de lattre de tassigny
+75775 paris cedex 16
+outranking method
+significantly out-performs popular classical positional data
+fusion methods
+3
+d5 1 0 0 
+1concordance matrix
+d1 d2 d3 d4 d5
+d1
+0
+d5 1 1 0 
+0discordance matrix
+d1 d2 d3 d4 d5
+d1
+discordant input rankings strongly refutes dσd
+´emoire sur les ´elections au scrutin
+outranking relation
+d1 d2 d3 d4 d5
+d1
+centre de recherche
+en economie
+input ranking strongly refutes
+diσdi
+1 2 3 4
+d1 1 3 1 5
+d2 2 1 3 3
+d3 3 2 2 1
+d4 4 4 5 2
+d5 5 5 4 4
+test collections
+mcm combsum combmnz markov
+a1 18
+minimum feedback edge set problem
+3 markov chain methods
+markov chains
+multiple criteria decision aid theory
+information retrieval
+mohamed farah
+lamsade
+review current rank aggregation methods
+majoritarian data fusion methods 
+perform
+define smax = maxdi∈ek−1 {sk
+rank hits
+run id map
+kemeny optimal aggregation problem
+corresponds

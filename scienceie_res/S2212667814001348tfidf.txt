@@ -1,0 +1,10 @@
+nonlinear
+equations
+ETD
+technique
+Exponential
+Differencing
+requiredaccurateness
+relatingto
+computational
+thatensures

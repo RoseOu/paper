@@ -1,0 +1,10 @@
+model
+need
+consists
+analysis
+spatially
+Differential
+Equations
+Although
+mean-field
+models

@@ -1,0 +1,139 @@
+keyword-based clusters
+benefits costs international jobs
+plans compensation import employment
+benefits costs prices jobs
+employees benefits petroleum youth
+occupations prices productivity safety
+workers prices productivity safety
+earnings index output health
+operators inflation nonfarm occupational
+spending unemployment
+expenditures unemployment
+consumer mass
+spending jobless
+wrong achieved
+m00m0m
+0
+1010m10m
+10
+2020m20m
+20
+3030m30m
+30
+4040m40m
+40
+5050m50m
+50
+6060m60m
+60
+m00m0m
+0
+22m2m
+2
+44m4m
+4
+66m6m
+6
+88m8m
+8
+1010m10m
+10
+1212m12m
+12
+1414m14m
+14
+eigenvalue rankmeigenvalue rankm
+eigenvalue rank
+eigenvlue magnitudemeigenvlue magnitudem
+eigenvluemagnitude
+figure 3
+human-assigned classes
+frequencymfrequencym
+frequency
+m00m0m
+0
+11m1m
+1
+22m2m
+2
+33m3m
+3
+44m4m
+4
+55m5m
+5
+66m6m
+6
+77m7m
+7
+m00m0m 055m5m 51010m10m 101515m15m 152020m20m 202525m25m 253030m30m 303535m35m 35
+figure 4
+prices 45
+employment 44
+productivity 40
+consumer expenditures 36
+earnings & wages 27
+employment & unemployment 27
+compensation costs 25
+earnings & wages
+based
+mjobsjobsmjobsm
+jobs
+benefitsunemploymentpricespricesmpricesm
+prices
+safetyinternationalspendingspendingmspendingm
+spending
+occupationscostscostsmcostsm
+costs
+productivityhuman classificationsmhuman classificationsm
+human classifications
+m0
+25mjobsjobsmjobsm
+jobs
+benefitsunemploymentpricespricesmpricesm
+prices
+safetyinternationalspendingspendingmspendingm
+spending
+occupationscostscostsmcostsm
+costs
+productivitymachine classificationsmmachine classificationsm
+machine classifications
+m0
+desk subject headings
+subject count
+prices 92
+unemployment 55
+occupational safety & health 53
+international comparisons
+bayes 24 1
+human judge 2nd
+choice
+model model 1st
+choice model 2nd
+choice
+human judge 1st
+choice
+model model 1st
+choice model 2nd
+choice
+compensation costs 18
+earnings & wages
+occupations 14
+benefits 14
+earnings & wage
+occupational safety
+consumer price index
+regions 13
+work stoppages 12
+earnings & wages
+23rd annual
+international acm sigir conference
+roughly fourteen thousand
+unclassified documents remained
+current
+study compares concept learning strategies based
+wrong accuracy
+full-text 392 217 0
+fairly
+liberal test condition leaves room
+productivity

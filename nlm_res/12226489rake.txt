@@ -1,0 +1,10 @@
+-gcg agc tcg agc tct tat ttg tat agt tca t-3
+-gct cta gag tcg aca tga gta aag gag aag aac-3
+-acg cgt cga cga tcc taa ttg gag ctt ttg-3
+-acg cgt cga cat tat taa acc ttt tga gag-3
+-acg cgt cga cta cac tag gaa gat gac aag-3
+-gct cta gaa tgt ctt cta cat gtt ctt c-3
+-acg cgt cga cct ctt gtg att cat ttg atg-3
+-att ctg cag tta ttt tat ctc ttg tg-3
+-agc tct aga atg gag aac aaa tcg cc-3
+-agc tct aga atg caa atg gac agc ccc-3

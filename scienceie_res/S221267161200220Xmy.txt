@@ -1,0 +1,10 @@
+model
+time
+series
+using
+analysis
+wavelet
+FDI
+trends
+China
+providing

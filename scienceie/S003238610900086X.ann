@@ -1,0 +1,10 @@
+T1	Material 84 93	PE chains
+T2	Process 60 70	deuterated
+T3	Process 71 83	hydrogenated
+T4	Material 136 148	Kratky plots
+T5	Material 160 182	parallel polymer stems
+T6	Task 352 364	calculations
+T7	Material 370 388	scattering centres
+T8	Material 409 421	pseudo-atoms
+T9	Material 508 517	stem axes
+T12	Material 587 592	atoms

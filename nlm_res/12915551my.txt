@@ -1,0 +1,10 @@
+IRF7
+LMP1
+cells
+LMP1p
+EBNA2
+expression
+results
+promoter
+protein
+binding

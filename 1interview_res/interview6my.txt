@@ -1,0 +1,10 @@
+Gates
+Bill
+story
+10
+time
+success
+fairy
+case
+percentage
+multi

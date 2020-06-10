@@ -1,0 +1,10 @@
+cells
+budding
+haploid
+mutant
+distal
+bud8
+Bud8p
+invasive
+Axl1p
+glucose

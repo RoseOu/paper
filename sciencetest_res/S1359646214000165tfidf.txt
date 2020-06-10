@@ -1,0 +1,10 @@
+lattice
+ferromagnetism
+constants
+alloy
+calculations
+first-principles
+Serial
+CASTEP
+implements
+plane-wave

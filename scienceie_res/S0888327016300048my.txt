@@ -1,0 +1,10 @@
+multivariate
+EMD
+bearing
+signal
+fault
+method
+algorithm
+multiple
+sensors
+different

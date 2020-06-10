@@ -1,0 +1,10 @@
+proteins
+GO
+annotations
+nodes
+protein
+annotation
+homology
+node
+Engine
+SWISS-PROT

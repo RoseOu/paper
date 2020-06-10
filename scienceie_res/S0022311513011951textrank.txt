@@ -1,0 +1,10 @@
+displacement cascade
+partner
+voids dislocation loops
+sias mainly
+recombine
+frenkel
+single type
+original
+structure
+return

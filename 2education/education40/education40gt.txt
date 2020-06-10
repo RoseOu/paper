@@ -1,0 +1,6 @@
+male
+group
+food
+female
+baby
+suck

@@ -1,0 +1,10 @@
+T1	Material 43 61	vector of unknowns
+T2	Material 63 72	xPS=[X,L]
+T3	Material 98 115	nodal coordinates
+T4	Material 153 173	Lagrange multipliers
+T5	Process 228 249	Newton-based solution
+T6	Material 278 301	displacement constraint
+T7	Process 317 339	saddle-point structure
+T8	Process 359 383	tangent stiffness matrix
+T9	Material 391 425	unconstrained pseudo-solid problem
+T10	Material 435 458	two off-diagonal blocks

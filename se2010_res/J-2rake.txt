@@ -1,0 +1,51 @@
+agentsworst−caseredistributionpercentage
+1 unit wo
+1 unit bc
+2 units wo
+2 units bc
+3 units wo
+3 units bc
+4 units wo
+4 units bc
+figure 1
++ cn−2ˆvn−1 + cn−1ˆvn
+z3 = c0 + c1ˆv1 + c2ˆv2 + c3ˆv4 +
++ cn−2ˆvn−1 + cn−1ˆvn
+z4 = c0 + c1ˆv1 + c2ˆv2 + c3ˆv3 +
++ cn−2ˆvn−1 + cn−1ˆvn
+z2 = c0 + c1ˆv1 + c2ˆv3 + c3ˆv4 +
++ cn−2ˆvn−1 + cn−1ˆvn
+zn−1 = c0 + c1ˆv1 + c2ˆv2 + c3ˆv3 +
++ cn−2ˆvn−2 + cn−1ˆvn
+zn = c0 + c1ˆv1 + c2ˆv2 + c3ˆv3 +
+z1 = c0 + c1ˆv2 + c2ˆv3 + c3ˆv4 +
+zn−2 = c0 + c1ˆv1 + c2ˆv2 + c3ˆv3 +
+zn = c0 + c1ˆv1 + c2ˆv2 + c3ˆv3 +
+zn = c0 +c1ˆv1 +c2ˆv2 +c3ˆv3 +
+zi = c0 + c1ˆv1 + c2ˆv2 +
+zi = c0 +c1ˆv1 +
+33
+c2ˆv2 +
+zi = c0 +c1ˆv1 +c2ˆv2 +
+11
+15
+ˆv2 + 4
+15
+ˆv3 − 4
+15
+ˆv4 +
+4
+15
+ˆv5
++ cn−2ˆvn−1 + cn−1ˆvn
++ cn−2ˆvn−2 + cn−1ˆvn−1
+1
++ cn−2ˆvn−2 +
+cn−1ˆvn−1 ≥ 0
+vcg payments
+mingyu guo
+duke university
+department
++ ci−1ˆvi−1 + ciˆvi+1 +
++ ci−1ˆvi−1 +
+ciˆvi+1 +

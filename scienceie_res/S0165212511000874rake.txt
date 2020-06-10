@@ -1,0 +1,10 @@
+circular cross section
+arbitrary cross section [4]
+straight parallel duct
+multiple scales approach
+full numerical methods
+handle higher frequencies
+realistic aeroengine configurations
+strongly curved ducts [5]
+multiple-scales approach
+finite-element methods [6]

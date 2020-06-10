@@ -1,0 +1,10 @@
+guideline
+guidelines
+elements
+model
+models
+modeling
+modeled
+modelers
+element tags
+gem

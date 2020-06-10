@@ -1,0 +1,10 @@
+homologues
+Tex
+orthologues
+domain
+sequence
+amino
+using
+known
+GenInfo
+transcription

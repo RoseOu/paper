@@ -1,0 +1,10 @@
+load–displacement
+inelastic
+tensile
+stress–inelastic
+crack-band
+curves
+profiles
+compressive
+strain
+mesh

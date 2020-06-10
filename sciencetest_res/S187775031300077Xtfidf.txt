@@ -1,0 +1,10 @@
+spatially
+Differential
+Equations
+consists
+mean-field
+PDEs
+nonlinearities
+membrane
+potentials
+synaptic

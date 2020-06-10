@@ -1,0 +1,10 @@
+algorithm
+undefined
+un-experienced
+learnable
+quantify
+optimization
+NSGA-II
+utilized
+Contractor
+parameters

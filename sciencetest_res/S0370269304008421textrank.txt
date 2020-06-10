@@ -1,0 +1,10 @@
+θ
+level
+density
+pc
+cos
+angle
+adiabaticity
+adiabatically
+gradient
+analytical

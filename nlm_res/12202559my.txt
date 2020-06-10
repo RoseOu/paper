@@ -1,0 +1,10 @@
+PCR
+oocysts
+1
+parvum
+C.
+DNA
+2
+type
+detection
+melting

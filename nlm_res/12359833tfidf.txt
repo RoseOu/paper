@@ -1,0 +1,10 @@
+associative
+single-item
+=
+hippocampal
+amnesic
+memory
+Experiment
+patients
+hippocampus
+gyrus

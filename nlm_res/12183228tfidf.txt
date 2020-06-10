@@ -1,0 +1,10 @@
+isolates
+VREF
+VSEF
+strains
+AFLP
+genogroup
+=
+hospitalized
+genogroups
+pigs

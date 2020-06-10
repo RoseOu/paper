@@ -1,0 +1,10 @@
+universe
+metric
+McVittie
+Reissner–Nordström
+Schwarzschild
+coordinates
+asymptotic
+equations
+straight-forward
+Friedman–Robertson–Walker

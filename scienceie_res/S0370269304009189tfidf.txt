@@ -1,0 +1,10 @@
+parity
+interaction
+pentaquark
+quark
+quarks
+subsystem
+symmetry
+antiquark
+angular
+positive

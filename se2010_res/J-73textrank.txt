@@ -1,0 +1,10 @@
+price
+volume
+volumes
+order
+orders
+ordered
+algorithms
+algorithmic
+algorithm
+trading

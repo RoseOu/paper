@@ -1,0 +1,10 @@
+LOI
+iron
+scenarios
+ore
+considered
+available
+Fe2O3
+blocks
+provided
+content

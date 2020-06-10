@@ -1,0 +1,10 @@
+thresholding
+Otsu
+results
+gray
+level
+used
+image
+algorithm
+provides
+histogram

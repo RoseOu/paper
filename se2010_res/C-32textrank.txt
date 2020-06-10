@@ -1,0 +1,20 @@
+client
+object
+objects
+cached
+caches
+server
+servers
+page
+pages
+buddycache
+invalidations
+invalidate
+invalidated
+invalid
+cache coherence
+networked clients collaborating
+transactions
+transaction
+based
+base

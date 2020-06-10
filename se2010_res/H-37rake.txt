@@ -1,0 +1,54 @@
+linfeatures trec06p trec05p-1
+words 12196s 66478s
+3-grams 44605s 128924s
+4-grams 87519s 242160s
+corpus size 32822 92189
+table 4
+table 4 shows computation time versus data set size
+3 feature mapping spam content
+extracting machine learning features
+open source email spam filters
+bogofilter v1
+29th annual international acm sigir conference
+sixth acm sigkdd international conference
+12th acm sigkdd
+international conference
+2-grams
+3-grams
+4-grams
+words
+figure 2
+svm
+based spam detection [9] showed
+large-scale content-based spam detection
+practical
+on-line supervised
+spam filter evaluation
+%
+buffer size
+trec05p-1
+trec06p
+0
+50000
+100000
+150000
+200000
+250000
+10 100 1000 10000 100000
+cpusec
+large-scale content
+based spam detection
+decremental support vector machine learning
+features precision recall f1
+svm
+buffer size
+trec05p-1
+trec06p
+figure 5
+practitioners requiring content-based
+spam filtering
+2005 trec public data set
+trec05p-1
+online discriminative spam
+filter training
+typically requiring quadratic training time

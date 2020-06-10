@@ -1,0 +1,26 @@
+dominance∗
+vincent conitzer
+carnegie mellon university
+5000 forbes avenue
+pittsburgh
+tuomas sandholm
+carnegie mellon university
+5000 forbes avenue
+pittsburgh
+receives privately
+held preference information
+weak dominance called
+nice weak dominance
+behavioral sciences-economics
+general terms
+algorithms
+minimize
+θr∈θr ar∈ar
+pr
+briefly review normal form games
+dominating mixed strategy places positive
+probability
+dominating
+mixed strategy σ places positive probability
+iterated strict
+dominance remains computationally easy

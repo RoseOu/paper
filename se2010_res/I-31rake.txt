@@ -1,0 +1,42 @@
+polynomially bounded two-tape turing machine tf
+general judgment aggregation case
+expresses proposition-wise majority voting
+wiebe van der hoek
+department
+swf fmaj implementing pair-wise majority voting
+swf fmaj
+implements pair-wise majority voting
+preference aggregation case pair-wise majority voting
+2 social welfare functions
+social welfare functions
+1 mdc
+2 mcd
+3 cmd
+fmaj mcd
+table 1
+preference aggregation
+thomas
+◦
+agotnes
+department
+formula expresses
+proposition-wise majority voting
+social welfare functions aggregating preferences
+methods-modal logic
+general terms
+theory
+1
+judgment aggregation
+rules aggregating sets
+jar fmaj 
+implements majority voting
+liverpool
+liverpool l69 7zf
+uk
+michael wooldridge
+department
+polynomially bounded turing machine
+polynomially bounded roughly corresponds
+model checking judgment aggregation logic
+model checking judgment aggregation
+logic

@@ -1,0 +1,10 @@
+lowest electronic singlet excited states
+coupled cluster hierarchy ccs
+coupled cluster linear response
+perturbative corrected methods cis
+all-electron atomic natural orbital
+correlated excited state calculations
+all-electron correlated calculations invoked
+correlated response methods
+13 orbital frozen core
+trial calculations correlating

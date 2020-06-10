@@ -1,0 +1,113 @@
+1 multimedia system architecture
+wireless link
+wireless link
+wireless
+link
+`
+`
+`
+physical link
+physical link
+physical link
+base station
+end receiver
+end receiver
+end receiver`
+physical link
+end receiver
+uav
+camera
+video
+encoder
+camera
+video
+encoder
+camera
+video
+encoder
+uav
+camera
+video
+encoder
+camera
+video
+encoder
+camera
+video
+encoder
+uav
+camera
+video
+encoder
+camera
+video
+encoder
+camera
+video
+encoder
+figure 1
+receiver
+compressed
+video compressed
+video
+application
+hyarm
+application
+adapter
+remote object call
+control
+inputs resource
+utilization
+resource
+utilization /
+control inputs
+control
+inputs
+legend
+figure 3
+10 mpbs
+physical link
+case video encoder
+wireless network
+link
+receiver
+uav
+tao
+resource
+utilization
+hyarm
+central
+controller
+camera
+functionality
+resource utilization
+legend
+resource allocation
+application parameters
+figure 2
+256 mb 
+physical memory
+4 intel etherexpress pro 10/100 mbps ethernet
+ports
+sender
+mpeg1
+mpeg4
+real
+video
+hyarm
+resource
+monitor
+reliable wireline link
+wired 
+network link
+end receiver
+video jitter
+source picture size / frame rate
+link
+unreliable wireless network
+wireless
+network bandwidth
+implementing effective adaptive resource 
+management strategies
+dynamic modifications include
+optimizing system responses

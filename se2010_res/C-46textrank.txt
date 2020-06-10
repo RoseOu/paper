@@ -1,0 +1,20 @@
+data
+sensor
+sensors
+query
+queries
+querying
+queried
+networks
+networked
+networking
+index
+indexed
+indexes
+interval
+intervals
+proxies
+proxy
+distributed indexing
+network costs
+value

@@ -1,0 +1,10 @@
+-cca agc ttg cat gcc tgc agg tcg act cta gag gat ccc cgg gta ccg agc tcg aat tcg taa tca tgg-3
+-gtg cca agc ttg cat gcc tgc agg tcg act cta gag gat ccc cgg gta-3
+small recq5 isoform requires unexpectedly high protein concentrations
+recq5 /qe protein sustained weak dna strand separation
+coomassie blue-stained 10% sds --polyacrylamide gel showing
+partially double-stranded substrate comprising single-stranded m13mp18 dna annealed
+full-length drai --ncoi recq5 /qe cdna
+bmnpv --recq5 /qe- infected bmn cells
+purified recq5 /qe protein possesses helicase activity
+drosophila melanogaster recq5 /qe gene encodes

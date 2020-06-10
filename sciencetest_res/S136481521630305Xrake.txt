@@ -1,0 +1,10 @@
+cover small time periods
+temporally patchy series
+simulated daily data
+soil n2o emissions
+measured n2o datasets
+soil moisture prediction
+simulated data
+algorithm-predicted series
+soil moisture
+measured datasets

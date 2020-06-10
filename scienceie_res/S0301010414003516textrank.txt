@@ -1,0 +1,10 @@
+vacuum
+evaporated
+evaporator
+drum
+layer
+nm
+fabricated
+fabrication
+masks
+mask

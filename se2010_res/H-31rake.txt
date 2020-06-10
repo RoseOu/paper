@@ -1,0 +1,38 @@
+optimality
+data query jm-multinomial jm-poisson dirichlet/gamma per-term 2-stage poisson
+map initpr pr@5d map initpr pr@5d map initpr pr@5d map initpr pr@5d
+ap88-89 sk 0
+27th annual international acm sigir conference
+25th annual international acm sigir conference
+27th annual international acm
+sigir conference
+27th annual
+international acm sigir conference
+21st annual international acm sigir conference
+29th annual international acm
+sigir conference
+26th annual international acm
+sigir conference
+29th annual
+international acm sigir conference
+µ
+averageprecision
+dirichlet/gamma smoothing
+term dependent 2−stage
+figure 2
+term dependent two-stage poisson
+model consistently outperforms
+term dependent two-stage smoothing significantly improves poisson
+hidden
+markov model information retrieval system
+map
+2-stage 2-stage
+including naturally 
+accommodating per-term smoothing
+term dependent smoothing improves 
+retrieval performance
+k-mixture background model improves 
+retrieval performance
+poisson language model
+performs comparably
+perterm smoothing outperforms multinomial model

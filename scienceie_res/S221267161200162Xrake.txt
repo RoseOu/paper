@@ -1,0 +1,10 @@
+fuzzy-hammerstein model predictive control method
+good control performance compared
+designed nonlinear predictive controller
+hammerstein model make good
+nonlinear predictive control
+linear predictive control
+proposed control method
+static nonlinear characteristics
+universal approach nonlinear
+nonlinear model recongnization

@@ -1,0 +1,10 @@
+implicit
+strang
+solution
+scheme
+vertical terms implicitly
+et
+approach
+governing atmospheric
+imex schemes
+time

@@ -1,0 +1,10 @@
+sheep
+scrapie
+tissue
+biopsy
+lymphoid
+testing
+flocks
+infected
+samples
+PrPSc

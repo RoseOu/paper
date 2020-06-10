@@ -1,0 +1,18 @@
+avi  = early autophagic vacuole
+late autophagic vacuole
+bovine serum albumin
+endoplasmic reticulum
+lysosomal
+membrane protein
+lysobisphosphatidic acid
+3-methyladenine
+mannose 6-phosphate receptor
+trans-golgi network
+mediate epidermal growth factor --induced cell growth
+small membrane structures surrounding lamp-1 --positive multivesicular endosomes
+endo/lysosomal vesicles lacking morphologically identifiable cytoplasmic material
+horseradish peroxidase --coupled anti-rabbit antibody
+obtain membrane fractions cell pellets
+bovine serum albumin
+lysosomal enzyme targeting mechanisms exist
+highly n-glycosylated proteins including lamp-1

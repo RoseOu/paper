@@ -1,0 +1,10 @@
+energy–momentum
+mortar
+method
+nonconforming
+discretized
+sub-domains
+nonlinear
+elasticity
+optimal
+Laursen

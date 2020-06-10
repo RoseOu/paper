@@ -1,0 +1,9 @@
+mass
+spin interactions
+state
+interaction
+color
+wave
+symmetric
+oscillator confining
+p

@@ -1,0 +1,116 @@
+40ms rtt
+0
+5 0
+100
+150
+200
+250
+300
+350
+400
+base buddy base buddy base buddy
+3 clients 5 clients 10 clients
+[ms]
+cpu commit server fetch peer fetch
+figure 8
+35
+0
+5 0
+100
+150
+200
+250
+base buddy base buddy base buddy
+3 clients 5 clients 10 clients
+[ms]
+cpu commit server fetch peer fetch
+figure 7
+group 
+contain36
+0
+5 0
+100
+150
+200
+250
+300
+base buddy reader buddy writer
+[ms]
+cpu commit server fetch peer fetch
+figure 11
+cold miss benefit
+0
+2 0
+4 0
+6 0
+8 0
+100
+120
+140
+base buddy reader buddy writer
+[ms]
+cpu commit server fetch peer fetch
+figure 10
+ensures committed
+client
+redirector
+client
+client
+buddy group
+client
+redirector
+client
+client
+buddy group
+servers
+figure 1
+850mhz intel pentium iii 
+processor based pc
+redi32
+versionpageobject version
+vcache
+client cache
+client
+page cache
+figure 6
+34
+latency [ms]
+base buddy
+3 group 5 group 3 group 5 group
+fetch 1
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+1 5 1 0 2 0 3 0 4 0 5 0 6 0 7 0 8 0 9 0 100
+latency [ms]
+benefits[%]
+buddy reader buddy reader
+weak
+consistency storage system requires significant effort
+1 base storage system
+thor servers provide persistent storage
+object version numbers imposes unacceptably high
+overheads
+40 ms network buddy 
+system reduces significantly
+accommodate heterogeneous clients including 
+resourcepoor hand-helds
+base
+system runs thor distributed object storage system [23]
+time includes time spent performing client
+computation
+acknowledged invalidation mechanism supports 
+object-level cache coherence
+rarely considered running consistent network storage
+systems
+hot read-write 40ms rtt
+function
+server fetch
+operation latency [ms]
+peerfetch 1

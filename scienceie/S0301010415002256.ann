@@ -1,0 +1,10 @@
+T1	Process 13 37	vibronic coupling models
+T3	Task 78 102	nuclear dynamics studies
+T2	Task 130 163	electronic structure calculations
+T5	Task 209 229	polynomial expansion
+T6	Task 233 281	diabatic potential energy surfaces and couplings
+T7	Process 287 309	expansion coefficients
+T10	Task 491 512	non-adiabatic systems
+T11	Process 547 567	diabatisation scheme
+T12	Process 592 614	direct-dynamic methods
+T8	Process 782 808	irreducible representation

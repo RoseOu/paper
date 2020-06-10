@@ -1,0 +1,10 @@
+probes
+LNA
+genotyping
+FP
+DNA
+hybridization
+PCR
+labeled
+rhodamine
+LNAs

@@ -1,0 +1,10 @@
+potentials
+non-perturbative
+multipole
+expansion
+analysis
+denotes
+δEUS
+VQCD
+singlet
+potential

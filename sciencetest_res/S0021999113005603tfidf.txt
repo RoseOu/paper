@@ -1,0 +1,10 @@
+velocity
+polynomial
+least-squares
+constrained
+〈ui
+macro
+measured
+micro
+steady-state
+measurements

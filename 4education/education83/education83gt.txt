@@ -1,0 +1,7 @@
+plants
+flowers
+smell
+nectar
+birds
+bees
+male Flower

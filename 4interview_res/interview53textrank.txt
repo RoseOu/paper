@@ -1,0 +1,9 @@
+individuals
+news
+scene
+global
+ore
+wise
+research
+owner virus
+vention r

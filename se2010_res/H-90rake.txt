@@ -1,0 +1,41 @@
+map pr@20docs map pr@20docs map pr@20docs map pr@20docs
+q2 0
+map pr@20docs map pr@20docs map pr@20docs map pr@20docs
+q1 0
+previous queries
+query map pr@20docs
+q2 0
+map pr@20docs
+q2 0
+0219
+q2 + hq + hc pr@20 0
+0290
+q2 + hq + hc pr@20 0
+0788
+q3 + hq + hc pr@20 0
+0491
+q3 + hq + hc pr@20 0
+0929
+q4 + hq + hc pr@20 0
+0625
+q4 + hq + hc pr@20 0
+pr@20docs
+dynamic
+web log session identification
+query session based term
+suggestion
+5 1 2 3 4 5 6 7 8 9
+q2 + hq map 0
+implicit feedback
+xuehua shen
+department
+1150
+q2 + hq + hc 0
+5%
+q2 + hq + hc 0
+0164
+q3 + hq map 0
+bayesian style 
+interpolation makes sense
+0335
+q4 + hq map 0

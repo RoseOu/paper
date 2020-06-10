@@ -1,0 +1,20 @@
+agents
+agent model
+strategies
+m
+step
+steps
+strategy called
+problem
+constraint
+constraints
+intention
+intentions
+values
+value
+dcsp
+k variables
+variable
+bdi
+follow
+follows

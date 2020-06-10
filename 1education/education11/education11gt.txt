@@ -1,0 +1,6 @@
+name
+killed
+animals
+pink dolphin
+wild dog
+renaming

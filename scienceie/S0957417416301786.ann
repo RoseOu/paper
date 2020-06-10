@@ -1,0 +1,10 @@
+T1	Process 31 37	SW-SVR
+T2	Material 59 83	micrometeorological data
+T3	Process 175 194	standard algorithms
+T4	Process 225 254	dynamic aggregation of models
+T5	Process 296 301	D-SDC
+T8	Material 542 555	training data
+T16	Process 1113 1146	combination of several algorithms
+T18	Process 1148 1168	kernel approximation
+T17	Process 1170 1184	PLS regression
+T19	Process 1186 1193	k-means

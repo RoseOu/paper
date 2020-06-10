@@ -1,0 +1,10 @@
+T1	Material 202 220	damp abrasive disc
+T2	Material 257 264	surface
+T3	Material 295 308	metal surface
+T4	Material 357 373	diamond polishes
+T5	Material 437 460	polycrystalline diamond
+T6	Material 476 491	polishing cloth
+T8	Material 572 587	custom-made jig
+T9	Material 611 619	polisher
+T10	Material 666 673	coupons
+T11	Process 690 709	automated polishing

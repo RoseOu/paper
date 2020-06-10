@@ -1,0 +1,10 @@
+globally shared models
+specific distance metric
+local neighborhood data
+local context
+anomaly detection
+conceptual opposite
+euclidean distance
+nearest neighbors
+geographical distance
+small distance

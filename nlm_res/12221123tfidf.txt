@@ -1,0 +1,10 @@
+drs2Delta
+membrane
+mutant
+dnf1,2,3Delta
+dnf1Delta
+Drs2p
+proteins
+TGN
+invertase
+plasma

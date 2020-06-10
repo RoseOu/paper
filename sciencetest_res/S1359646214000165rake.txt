@@ -1,0 +1,10 @@
+cambridge serial total energy package
+plane-wave pseudopotential dft method
+plane wave basis set
+computational parameters give results
+partially ordered ηp structures
+ground state electronic structure
+calculated equilibrium lattice constants
+calculated lattice constants
+exchange correlation functional
+generalized gradient approximation

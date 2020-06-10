@@ -1,0 +1,10 @@
+agents
+1
+=
+technology
+optimal
+contract
+case
+2
+function
+''

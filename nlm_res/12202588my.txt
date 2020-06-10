@@ -1,0 +1,10 @@
+Actinomyces
+species
+strains
+isolates
+clinical
+United
+Kingdom
+using
+CCUG
+organisms

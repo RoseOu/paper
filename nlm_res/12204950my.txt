@@ -1,0 +1,10 @@
+patients
+B.
+CSD
+henselae
+test
+quintana
+Bartonella
+endocarditis
+samples
+antibodies

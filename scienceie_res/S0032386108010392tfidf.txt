@@ -1,0 +1,10 @@
+hardness
+elastic
+macroscopic
+modulus
+elasto-plastic
+metals
+Tabor
+proportionality
+derived
+yield

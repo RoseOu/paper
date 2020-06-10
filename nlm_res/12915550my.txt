@@ -1,0 +1,10 @@
+K15
+cells
+1
+protein
+expression
+proteins
+kinase
+aa
+activation
+domain

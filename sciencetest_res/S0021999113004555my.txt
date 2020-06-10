@@ -1,0 +1,10 @@
+solution
+Strang
+tested
+vertical
+time-step
+scheme
+Ullrich
+Jablonowski
+Rosenbrock
+one

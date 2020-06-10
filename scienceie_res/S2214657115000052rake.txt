@@ -1,0 +1,10 @@
+ac pavement composite permittivity reduces
+regressions predict air void content
+repeat run regression predictions
+air void content variation
+air void values
+core measurement precision
+dielectric maps shown
+measured dielectric range
+long term studies
+stable exponential coefficients

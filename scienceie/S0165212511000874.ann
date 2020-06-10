@@ -1,0 +1,10 @@
+T1	Material 44 49	ducts
+T2	Task 4 40	propagation of unsteady disturbances
+T3	Material 106 116	aeroengine
+T4	Process 155 179	multiple scales approach
+T5	Process 215 239	multiple-scales analysis
+T6	Process 243 260	sound propagation
+T8	Process 395 412	uniform mean flow
+T9	Process 418 436	mean swirling flow
+T13	Process 610 627	numerical methods
+T14	Process 662 680	higher frequencies

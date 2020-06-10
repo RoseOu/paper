@@ -1,0 +1,10 @@
+correlated
+calculations
+all-electron
+cc-pVTZ
+excitation
+LR-CCSD
+atoms
+energies
+orbital
+excited

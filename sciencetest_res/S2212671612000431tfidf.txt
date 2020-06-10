@@ -1,0 +1,10 @@
+LBP
+symbian
+normalization
+recognition
+binary
+AdaBoost
+pre-processing
+preprocessing
+Eyeball
+computational

@@ -1,0 +1,10 @@
+T1	Process 20 39	pharmacyte approach
+T2	Material 84 95	ACT T-cells
+T3	Material 136 149	adjuvant drug
+T4	Process 189 200	stimulation
+T5	Process 226 266	expansion of the cell population in vivo
+T6	Material 274 294	cell-bound particles
+T7	Process 317 330	cell division
+T8	Material 317 321	cell
+T9	Material 374 390	supporting drugs
+T11	Material 407 433	nanoparticle drug carriers

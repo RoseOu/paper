@@ -1,0 +1,10 @@
+1
+charity
+charities
+bidder
+problem
+bids
+bid
+''
+bidders
+function

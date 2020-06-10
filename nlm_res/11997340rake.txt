@@ -1,0 +1,10 @@
+thyroid hormone receptor t3r binding site upstream
+cystic fibrosis transmembrane conductance regulator
+major late transcription factor/antioxident response element
+avoids finding spurious poorly conserved instances
+global multiple alignment tools failed
+simple premise underlying phylogenetic footprinting
+tree-based global multiple alignment program
+existing motif discovery programs ---
+segment-based multiple alignment program dialign
+large-scale genome rearrangements occurred

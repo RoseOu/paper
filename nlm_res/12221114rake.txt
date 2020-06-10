@@ -1,0 +1,10 @@
+create clonal a6 cell lines stably expressing inducible dominant-negative rasn17
+minimal herpes simplex virus thymidine kinase promotor
+clonal lines stably express corticosteroid-inducible dnrasn17
+monomeric ras gtp-binding proteins initiate pleiotropic signaling cascades
+a6 cells stably expressing inducible dnrasn17
+cells stably expressing inducible dnrasn17 treated
+stably expressing corticosteroid-inducible dominant-negative rasn17
+minimal promoter thymidine kinase luciferase plasmid
+ras -> mapk signaling involves posttranslational control
+inhibitor ly 294002 decreases aldosterone-sensitive raf phosphorylation

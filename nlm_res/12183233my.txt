@@ -1,0 +1,10 @@
+resistance
+PIB
+penicillin
+porIB
+porin
+strains
+tetracycline
+5
+containing
+gonorrhoeae

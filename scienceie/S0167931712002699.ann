@@ -1,0 +1,10 @@
+T1	Material 97 117	thinner resist films
+T2	Process 147 163	pattern collapse
+T4	Task 27 53	smaller lithographic nodes
+T5	Process 189 238	reduced etch resistance of thin photoresist films
+T6	Process 521 539	multilayer process
+T7	Task 557 579	nanosphere lithography
+T9	Material 864 891	intermediate layer material
+T10	Task 968 981	IC production
+T12	Task 1116 1151	fabrication of soft polymer pillars
+T14	Material 216 238	thin photoresist films

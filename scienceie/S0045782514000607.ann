@@ -1,0 +1,10 @@
+T1	Task 1174 1198	deteriorated convergence
+T2	Task 1215 1245	initial residual amplification
+T3	Task 1259 1288	amplification of the residual
+T4	Material 970 996	poor nonlinear convergence
+T7	Process 794 816	inf–sup stable schemes
+T8	Process 634 656	penalized formulations
+T9	Process 658 690	classic penalty/weakly penalized
+T10	Process 527 541	PL formulation
+T11	Process 398 426	weakly penalized formulation
+T12	Process 468 482	penalty method

@@ -1,0 +1,10 @@
+macroscopic
+27
+sphere
+radius
+force
+van
+der
+Waals
+interaction
+system

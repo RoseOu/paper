@@ -1,0 +1,10 @@
+graph-based unsupervised word sense disambiguation algorithm
+spreading activation scheme applied
+algorithm application expressed improvement
+graphs dynamically built
+manually disambiguated corpus
+document clustering task
+shorter text contexts
+disambiguation performed
+observed improvement
+extended algorithm

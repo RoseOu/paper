@@ -1,0 +1,9 @@
+multiprocessor interactive
+max programs
+systems
+optimisation problems
+obtain algorithms
+real
+time
+matrices
+polynomial

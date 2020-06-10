@@ -1,0 +1,10 @@
+10 mm morpholinepropanesulfonic acid [mops] [ph 7
+open reading frames encode proteins predicted
+dark boxes represent selectable markers
+lightly shaded boxes represent regions
+curved ends represent partial genes
+heterologous strain produced small quantities
+5-kb ecori-bamhi kanamycin resistance gene
+large multifunctional complexes organized
+putative open reading frames
+potent cytotoxic macrocyclic lactones

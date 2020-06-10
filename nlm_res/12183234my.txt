@@ -1,0 +1,10 @@
+resistance
+SGI1
+DT104
+DNA
+strains
+gene
+1
+ST22
+PCR
+ST2

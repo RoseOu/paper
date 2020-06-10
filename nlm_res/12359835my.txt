@@ -1,0 +1,10 @@
+training
+Japanese
+subjects
+stimuli
+German
+duration
+differences
+msec
+stimulus
+deviant

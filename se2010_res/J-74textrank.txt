@@ -1,0 +1,10 @@
+auctions
+auctioneer
+auctioned
+bids
+bid
+bidding
+θi
+agents
+agent
+second auction

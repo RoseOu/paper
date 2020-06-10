@@ -1,0 +1,10 @@
+T1	Process 4 24	microwave background
+T2	Process 133 174	isotropic infrared and optical background
+T3	Process 176 179	IRB
+T4	Process 346 435	the smaller number density has to be weighted with the higher flux of interacting protons
+T5	Task 441 457	present Universe
+T6	Task 543 566	proton interaction rate
+T7	Process 707 748	cosmological evolution of UHECR injection
+T8	Task 826 854	flux of cosmogenic neutrinos
+T9	Process 79 101	taken in consideration
+T10	Task 613 632	interactions on MBR

@@ -1,0 +1,10 @@
+lightcycler red 640-taa agc gct ttc cac cac aag
+lightcycler red 640-aaa agc ttt cca cca gaa gac
+gca acg cga aga acc tta cct gg-fluorescein
+lightcycler red 640-ttt gac atg cac agg acg
+cgc ggg ctc atc cca cac cg-fluorescein
+cgc ggg ccc atc cca cac cg-fluorescein
+tgc aca cag gcc aca agg ga
+gag ttt gat cct ggc tca gga
+gat aag cct ggg aaa ctg
+ggc gga gca tgt gga tta

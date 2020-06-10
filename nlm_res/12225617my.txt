@@ -1,0 +1,10 @@
+health
+patients
+care
+computer
+using
+computerized
+study
+data
+primary
+questions

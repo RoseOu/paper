@@ -1,0 +1,10 @@
+SMS-REP
+genomic
+SMS-REPs
+using
+clones
+BAC
+chromosome
+proximal
+distal
+sequence

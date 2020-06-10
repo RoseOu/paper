@@ -1,0 +1,10 @@
+international human genome sequencing consortium  targeted bacterial artificial chromosome
+entire human 4x + 2x data set
+rice bacterial artificial chromosome sequence
+4x + 2x human data set
+human 4x + 2x data set
+total contig size stops growing
+unique 20mers incorrectly called repeated
+repeated 20mers incorrectly called unique
+contig misassembly rates increase significantly
+individuals kindly provided reagents

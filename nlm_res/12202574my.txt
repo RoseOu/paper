@@ -1,0 +1,10 @@
+strains
+VRE
+resistance
+plasmids
+plasmid
+E.
+faecium
+broth
+gentamicin
+respectively

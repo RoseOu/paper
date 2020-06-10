@@ -1,0 +1,10 @@
+numerical test cases presented
+employ inflow/outflow boundary conditions
+steady state wigner functions
+semi-classical boundary conditions
+active device region [47]
+sufficiently large values
+bias voltages vds≠0
+physically valid results
+recent studies demonstrate
+wigner function [27

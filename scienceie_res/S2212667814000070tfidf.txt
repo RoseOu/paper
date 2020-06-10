@@ -1,0 +1,10 @@
+detection
+Resizer
+Overlay
+real-time
+Image
+Color
+Confidence
+architecture
+multiple-MCT
+Modified

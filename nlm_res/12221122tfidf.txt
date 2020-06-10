@@ -1,0 +1,10 @@
+CEPT1
+PtdCho
+CPT1
+diacylglycerol
+CDP-alcohol
+membrane
+Golgi
+PtdEtn
+specificity
+yeast

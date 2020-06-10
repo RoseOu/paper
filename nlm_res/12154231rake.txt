@@ -1,0 +1,17 @@
+macaques
+enhanced green fluorescent protein
+beta-galactosidase
+fluorescence-activated cell sorter
+puromycin resistance
+retroviral expression vector encoding enhanced green fluorescent protein
+= vesicular stomatitis virus envelope protein
+infectious units
+pmdg [vesicular stomatitis virus envelope protein
+made high-titer retroviral vectors encoding marker genes
+mlv  = murine leukemia virus
+simian immunodeficiency virus
+siv
+ecole normale superieure de lyon
+tested african green monkey cv1 cells
+making functional hiv-siv gag-pol fusions
+hiv-egfp vector bearing amphotropic mlv env

@@ -1,0 +1,10 @@
+calculations
+response
+methods
+basis
+cc-pVTZ
+atoms
+LR-CCSD
+correlated
+excitation
+energies

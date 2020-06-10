@@ -1,0 +1,10 @@
+ferromagnetic
+disks
+based
+materials
+inclusions
+remanence
+magnetic
+non-magnetic
+turbine
+density

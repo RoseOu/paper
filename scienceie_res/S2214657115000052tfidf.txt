@@ -1,0 +1,10 @@
+exponential
+dielectric
+permittivity
+empirical
+cores
+components
+coefficient
+volumetric
+case-by-case
+binder

@@ -1,0 +1,10 @@
+containment
+temperature
+thermocouples
+oxidation
+plenum
+high-purity
+0.1MPa
+in-pile
+fission
+radially

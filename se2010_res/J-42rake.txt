@@ -1,0 +1,37 @@
+viral marketing ∗
+jure leskovec
+†
+carnegie mellon university
+pittsburgh
+viral marketing exploits existing social 
+networks
+densely connected
+communities enjoying expensive products
+huberman
+hp labs
+palo alto
+cc rp1 vav cav/ pm
+powerful factor 
+influencing purchasing decisions
+extremely highly 
+connected individuals play
+5
+outgoing recommendations
+numberofpurchases
+20 40 60 80 100 120 140
+0
+1
+2
+3
+4
+5
+6
+7
+outgoing recommendations
+numberofpurchases
+5 10 15 20
+0
+0
+maximize viral marketing efficiency assuming
+acm
+sigkdd international conference

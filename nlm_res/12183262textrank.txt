@@ -1,0 +1,10 @@
+strains
+strain
+resistance
+resistant
+mutation
+mutations
+pcr
+mics
+mic
+susceptibility

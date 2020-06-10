@@ -1,0 +1,10 @@
+high-order discretisation retains exponential convergence properties
+analytic test cases presented
+higher solution polynomial orders
+geometric errors quickly limits
+spatial discretisation errors
+test cases confirm
+coarse curvilinear mesh
+expansion polynomial order
+smooth solutions considered
+geometry parametrisation reduces

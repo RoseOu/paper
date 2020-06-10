@@ -1,0 +1,10 @@
+model
+relaxational
+typically
+time
+free
+energy
+three
+particular
+phase
+field

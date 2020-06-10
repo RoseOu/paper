@@ -1,0 +1,10 @@
+inh
+strains
+resistance
+resistant
+susceptible
+susceptibilities
+liter
+reference strain
+concentrations
+concentration

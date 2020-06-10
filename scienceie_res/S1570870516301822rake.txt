@@ -1,0 +1,10 @@
+high packet delivery ratios
+mobile ad hoc network
+mwsn routing protocols generally
+ideal routing solution
+specifically designed solutions
+share common limitations
+routing protocols designed
+mobile scenario [10]
+routing protocols
+mwsn routing

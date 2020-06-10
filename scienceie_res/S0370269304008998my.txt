@@ -1,0 +1,10 @@
+framework
+factorization
+TiII
+quark
+NNLO
+operator
+spectator
+αs
+also
+quantities

@@ -1,0 +1,10 @@
+algorithm
+optimisation
+minima/maxima
+mimics
+modifies
+crossover
+genetic
+population
+algorithms
+optimum

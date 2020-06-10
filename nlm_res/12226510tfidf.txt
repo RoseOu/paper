@@ -1,0 +1,10 @@
+SMT1
+sterol
+cycloartenol
+Ntsmt1-1
+|
+HMGR
+muL
+tobacco
+NH19:27
+sterols

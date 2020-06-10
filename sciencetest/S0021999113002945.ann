@@ -1,0 +1,10 @@
+T1	Process 0 10	Inequality
+T2	Material 73 80	p-norms
+T4	Material 214 220	2-norm
+T5	Material 35 47	maximum-norm
+T7	Material 410 432	optimized coefficients
+T8	Process 449 466	vast solution set
+T9	Material 500 517	maximum deviation
+T11	Material 738 757	objective functions
+T12	Task 761 801	extend the accurate wave number coverage
+T13	Material 225 231	1-norm

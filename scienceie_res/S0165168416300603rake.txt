@@ -1,0 +1,20 @@
+generalised cross correlation phase transform
+involve cumbersome point function estimations
+audio measurements extraction based
+measure vector obtained za
+basic gcc algorithm
+moderate reverberant environments
+voice activity detector
+extended kalman filter
+audio position estimation
+za={τm
+real-time applications [39]
+polite conversation
+speech segments
+component τm
+tdoa collected
+microphone pair
+speaker position
+previous src-
+room reverberations [5]
+gcc-phat step

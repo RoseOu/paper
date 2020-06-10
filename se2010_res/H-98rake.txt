@@ -1,0 +1,44 @@
+log
+weight perceptrons voting +
+weight perceptrons voting −
+>θ
+x2
+dl2 = sl2 − slθ + θ2
+nl dr2 = sr2 − srθ + θ2
+nr
+continuous speech
+recognition system embedding mlp
+dl = nlθ − sl dr = sr − nrθ
+improve text classifier probability estimates
+paul
+= linear svm raw score
+train
+test
+approximately 101k pairwise wins versus logreg
+log-loss error2
+errors
+msn web
+gauss -60656
+21 43661
+log-loss error2
+errors
+msn web
+gauss -54463
+modapte standard train/
+test split
+userspecified cost function dynamically chosen
+standard paired micro sign test [25]
+= naive bayes log-odds
+train
+test
+design methodology
+general terms
+algorithms
+correcting poor probability 
+estimates output
+noisy class labels
+platt [22] proposes
+provide asymmetric parametric models suitable
+linear svm classifier toolkit smox
+cost function dynamically chosen
+bennett [1] obtained moderate gains

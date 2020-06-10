@@ -1,0 +1,10 @@
+maximum permissible time-step size
+make wcsph formulations ineffective
+classical wcsph formulation applied
+weakly compressible sph formulation
+high sound speed places
+incompressible fluid flow
+uniform particle distributions
+limit density variations
+actual fluid density
+sound speed

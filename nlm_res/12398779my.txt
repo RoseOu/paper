@@ -1,0 +1,10 @@
+patients
+outcome
+studies
+failure
+study
+evidence
+trial
+acute
+significant
+colleagues

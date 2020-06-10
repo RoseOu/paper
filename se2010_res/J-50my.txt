@@ -1,0 +1,10 @@
+communication
+1
+voting
+''
+voters
+candidates
+candidate
+n
+2
+rules

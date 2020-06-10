@@ -1,0 +1,10 @@
+dipstick
+typhoid
+Brucella
+brucellosis
+assay
+agglutination
+Widal
+assays
+patients
+specificity

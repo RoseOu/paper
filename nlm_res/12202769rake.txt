@@ -1,0 +1,10 @@
+vanderbilt university cancer center dna core facility
+catg-specific type ii restriction --modification system
+genbank accession nos af239991 --af239994
+putative phase-variable restriction --modification genes
+10 potential phase-variable restriction --modification genes
+digest 1 microg bacteriophage lambda dna
+coli strain er2169 /psyx20-nlaiiim carrying
+coli strain er2169 carrying psyx20-nlaiiim
+contingency restriction --modification system
+fucosyltransferase genes controlling synthesis

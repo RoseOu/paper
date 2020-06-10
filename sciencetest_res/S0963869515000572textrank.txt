@@ -1,0 +1,10 @@
+waves
+wave speed
+sh
+modes
+speeds
+propagation properties
+sample
+thickness
+symmetric
+shear

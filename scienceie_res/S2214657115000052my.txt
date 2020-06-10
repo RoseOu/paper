@@ -1,0 +1,10 @@
+air
+content
+cores
+exponential
+void
+pavement
+dielectric
+empirical
+fit
+permittivity

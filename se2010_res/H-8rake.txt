@@ -1,0 +1,57 @@
+relevance 
+judgaccuracy
+confidence ad-hoc 94 ad-hoc 96 ad-hoc 97 ad-hoc 98 ad-hoc 99 web 04 robust 05 terabyte 05
+0
+intelligent information retrieval
+computer science department
+university
+27th annual
+international acm sigir conference
+ar[apt]
+δmap = map1 − map2
+confidence
+defense advanced
+research projects agency
+cij xixj
+cij = aij − bij
++ 1
+2
+xbxa+ 1
+3
+xbxc + 1
+2
+x2
+1 hypothesis testing
+running multiple trials
+pi
+1 − pi
+=
+yi − pi
+1 − pi
+yi = 1
+obtained full ad-hoc runs submitted
+predict relevance produces test collections
+retrieval evaluation
+ben carterette
+center
+9 1
+accuracy
+confidence
+breakeven
+rtc
+mtc
+figure 2
+svm calibration method [16] fits
+normal cumulative density function
++ 1
+3
+xaxc + 1
+3
+x2
+performance evaluation
+general terms
+method practically
+guarantees reusability
+information retrieval expert providing
+large-scale
+information retrieval experiments

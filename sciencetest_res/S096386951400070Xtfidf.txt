@@ -1,0 +1,10 @@
+SNR
+NERSE
+impedance
+resonance
+magnitude
+electrical
+scans
+1MHz
+defect-decoupling
+resonance-shift

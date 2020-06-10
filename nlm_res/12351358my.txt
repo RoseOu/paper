@@ -1,0 +1,10 @@
+quality
+patients
+standardised
+|
+physicians
+use
+visits
+trained
+recording
+'

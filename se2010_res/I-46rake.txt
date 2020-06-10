@@ -1,0 +1,40 @@
+ctl
+computation tree logic ctl [6] includes operators
+branching versus linear time temporal logic
+modular interpreted systems
+wojciech jamroga
+department
+computer engineering
+bergen university college
+methods-modal logic
+general terms
+theory
+1
+symbolic
+model checking temporal-epistemic logics
+labeled transition system pi =
+sti
+model checking imperfect information turns
+reactive modules 
+support incomplete information
+succinct local state spaces sti = {qi
+0
+model checking
+alternating-time temporal logic
+computation tree logic ctl
+underlying concurrent epistemic
+game structure
+3 model checking modular interpreted 
+systems
+alternating transition systems [2]
+represent transitions
+agents make model checking
+explode
+isomorphic concurrent epistemic game structures
+unbounded
+symbolic model checking
+6 concurrent epistemic programs
+concurrent programs
+de
+thomas ågotnes
+department

@@ -1,0 +1,6 @@
+energy
+income
+burden
+choice
+community
+technology

@@ -1,0 +1,70 @@
+traffic railway
+harbor rail
+bridge kilometer
+construct swiss
+cross link
+kong hong
+river project
+meter shanghai
+fire truck
+french smoke
+car italian
+firefights blaze
+blanc mont
+victim franc
+rescue driver
+chamonix emerge
+toll amtrak
+train airport
+turnpike lui
+jersey pass
+rome
+baseline tfb1c tfb3c tfb6c cfb1c cfb3c cfb6c tcfb1c tcfb3c tcfb6c
+map 0
+center electron
+road boston
+speed bu
+submit
+5
+# terms tfb1c tfb3c tfb6c cfb3c cfb6c tcfb3c tcfb6c
+6 0
+18th annual international acm sigir conference
+26th annual international
+acm sigir conference
+22nd annual international acm sigir
+conference
+11th annual international acm sigir conference
+28th annual international acm sigir
+conference
+29th
+annual international acm sigir conference
+27th annual international acm sigir
+conference
+28th annual international acm
+sigir conference
+17th annual international acm sigir
+conference
+19th annual international
+acm sigir conference
+clarification form completion time distributions
+0−30 30−60 60−90 90−120 120−150 150−180
+0
+5
+10
+15
+20
+25
+30
+35
+completion time
+topic 363 transportation tunnel
+disasters
+cluster 1 cluster 2 cluster 3
+tunnel 0
+tenth acm
+sigkdd international conference
+construct improved query models
+national science 
+foundation grants iis-0347933
+original term feedback relevant term feedback
+tf1 0

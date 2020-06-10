@@ -1,0 +1,41 @@
+formal inter-agent
+dialogues
+simon parsons1
+peter mcburney2
+1
+department
+elizabeth sklar1
+michael wooldridge2
+2
+department
+liverpool
+liverpool l69 7zf uk
+{
+computer & information science
+brooklyn college
+loose lips sink
+ships
+dialogue game view overlaps
+york
+brooklyn ny 11210 usa
+{parsons
+standard graph theoretic notions
+argumentation-based dialogue typically attack
+moves
+edges represent undercut relations
+prevents agents
+revealing information
+a2
+iff a1
+pref
+a2
+computer science
+university
+formal inter-agent dialogues
+classical inference relation
+highest numbered layer
+hamlet kill claudius
+argument ai put 
+forward
+fourteenth european conference
+formal dialogue game

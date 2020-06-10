@@ -1,0 +1,10 @@
+sequences
+GPRM
+set
+motifs
+RNA
+2
+motif
+data
+fitness
+sp

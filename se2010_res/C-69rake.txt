@@ -1,0 +1,71 @@
+web 
+brows148
+0
+1
+10
+100
+pthinc
+resized
+pthincica
+resized
+icavncrdplocal
+latency
+11b 
+lucent orinoco ap-2000 wireless access point
+150
+0%
+20%
+40%
+60%
+80%
+100%
+pthincicavncrdplocal
+videoquality
+platform
+axim x5
+axim x51v
+figure 9
+poorer
+resize algorithm significantly compromise display quality
+bit pattern
+raw display raw pixel data
+13th international world wide web conference
+0
+1
+10
+100
+1000
+pthinc
+resized
+pthincica
+resized
+icavncrdplocal
+datasize
+12th
+international world wide web conference
+thin
+clients deliver subsecond web page latencies
+dual 933 mhz
+intel piii cpus
+400 mhz intel xscale pxa255 cpu
+624 mhz intel
+xscale xpa270 cpu
+provide subsecond web page download
+latencies
+newer pda models
+support full 24-bit color
+standalone wireless personal
+digital assistants
+native video support enables superior video
+performance
+effectively supports crucial browser helper applications
+effectively supports
+crucial browser helper applications
+fullscreen video quality
+0
+1
+10
+100
+pthincicavncrdplocal
+videodatasize
+manipulate multiple open application windows

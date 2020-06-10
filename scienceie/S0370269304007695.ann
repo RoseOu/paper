@@ -1,0 +1,10 @@
+T1	Task 39 130	describe the experimental data of the HERMES Collaboration for hadron attenuation on nuclei
+T2	Process 167 189	fragmentation function
+T3	Process 271 274	FSI
+T4	Process 295 324	‘free’ fragmentation function
+T5	Process 490 513	the z-dependence of RMh
+T6	Task 606 621	determine σlead
+T7	Task 1018 1080	detail the spectra for different particle species (π±,K±,p,p̄)
+T8	Task 1084 1157	examine, if the formation times of mesons and antibaryons are about equal
+T9	Process 627 690	interaction of the leading prehadrons during the formation time
+T10	Task 1179 1282	improve our model to describe the primary photon–nucleon reaction below the PYTHIA threshold of W⩾4 GeV

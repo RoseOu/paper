@@ -1,0 +1,10 @@
+STNO157
+STO157
+SMAC
+O157
+H7
+STEC
+assay
+E.
+serotypes
+HUS

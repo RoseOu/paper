@@ -1,0 +1,60 @@
+query-document term mismatch
+tonya custis
+thomson corporation
+610 opperman drive
+st
+khalid al-kofahi
+thomson corporation
+610 opperman drive
+st
+1
+thomson corporation builds information based solutions
+8
+recall
+okapi fb
+okapi
+tcs
+ql
+ap89
+9
+1
+recall
+okapi fb
+okapi
+tcs
+indri
+fsupp
+engines implementing qe techniques differed
+dramatically
+okapi fb
+okapi
+tcs
+ql
+ap89
+10th australasian
+document computing symposium
+okapi fb
+okapi
+tcs
+ql
+fsupp
+tcs starts outperforming okapi fb
+ir system
+overcomes query-document term mismatch
+adding semantically related expansion
+terms
+tcs employs 
+implicit query expansion
+implement language-modeling
+based retrieval algorithms
+external domain specific
+knowledge base
+document
+expansion versus query expansion
+15th australasian
+database conference
+ir systems implementing query
+expansion
+okapi fb takes place
+comparing
+cross-language query expansion techniques

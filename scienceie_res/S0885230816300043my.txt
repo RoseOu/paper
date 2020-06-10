@@ -1,0 +1,10 @@
+improvement
+model
+speaker
+aNAT
+absolute
+GMM–HMM
+training
+adaptive
+provided
+transforms

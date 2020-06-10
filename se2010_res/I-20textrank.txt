@@ -1,0 +1,20 @@
+e
+games
+game
+agents
+agent
+network
+networks
+edges
+edge
+k
+layer
+layers
+banzhaf
+flow
+value v
+index
+indexed
+c
+let
+matching

@@ -1,0 +1,10 @@
+detection
+snippet
+subgraph
+isomorphism
+Scripthon
+optimizations
+Java
+algorithm
+solutions
+dynamically

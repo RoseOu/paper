@@ -1,0 +1,10 @@
+isolates
+isolated
+genogroups
+genetic
+n
+poultry
+pigs
+pig
+strains
+strain

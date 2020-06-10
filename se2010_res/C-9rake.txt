@@ -1,0 +1,39 @@
+software engineering interoperability[distributed objects]
+general terms
+design
+fragmented object
+service manager
+domain manager
+domain manager
+figure 2
+decentralized
+adaptive services
+rüdiger kapitza
+dept
+group members frequently
+exchange load information
+optimal online
+bounded space multidimensional packing
+environment possibly spans multiple institutions
+object oriented high performance computing
+service possibly including program code
+approach automatically
+rededicates evenly free
+current grid computing infrastructures don
+efficient java-based grid programming environment
+hauck
+distributed systems laboratory
+university
+edas offers flexible service models based
+home environment basically 
+manages resources
+erlangen-nürnberg
+rrkapitz@cs
+fifteenth annual acm-siam
+symposium
+fully centralized client/server structure
+1st annual asci conference
+home environment
+home environment
+boundary
+actively supports decentralized adaptive services

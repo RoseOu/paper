@@ -1,0 +1,10 @@
+decay
+C5H6+
+dynamics
+DCPD
+transients
+fragmentation
+reaction
+constants
+ion
+C10H12+

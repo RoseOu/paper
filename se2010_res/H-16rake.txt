@@ -1,0 +1,87 @@
+centralized system tr1 tr2 tr1 tr2
+full evaluation 233 1760 707 1140
+partial evaluation 99 1626 493 798
+lan system trl
+1 trl
+2 tr
+9
+1
+240 260 280 300 320 340 360
+numberofelements
+bin number
+total terms
+terms diff
+total queries
+unique queries
+unique terms
+query diff
+figure 4
+7
+hitrate
+cache size
+caching posting lists
+static qtf/df
+lru
+lfu
+dyn-qtf/df
+qtf
+figure 8
+static qtf/df caching policy
+perfect knowledge
+6-week training
+3-week training
+figure 14
+broker
+static caching
+posting lists
+dynamic/static
+cached answers
+local query processor
+disk
+simulated workload -- single machine
+full / uncompr / 1
+2
+full evaluation 242 1769 716 1149
+partial evaluation 108 1635 502 807
+wan system trw
+1 trw
+2 tr
+caching level
+local network access
+remote network access
+figure 1
+simulated workload -- wan
+full / uncompr / 1
+2
+full evaluation 5001 6528 5475 5908
+partial evaluation 4867 6394 5270 5575
+term frequencies
+search engines
+ricardo baeza-yates1
+rbaeza@acm
+2
+missrate
+normalized working set size
+queries
+terms
+figure 6
+9 1
+queryvolume
+space
+precomputed answers
+posting lists
+figure 9
+org
+aristides gionis1
+gionis@yahoo-
+single query requires processing large amounts
+query term
+frequencies follow power law distributions
+1
+1
+1e-08 1e-07 1e-06 1e-05 1e-04 0
+compressed postings
+query len = 1
+query len
+partial / uncompr / 1
+full / compr / 0

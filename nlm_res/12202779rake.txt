@@ -1,0 +1,11 @@
+gct tct tac agt gct gga tgt
+agt caa gga cac cga gga
+hex-labeled lna probes exhibited ample fp dynamic range
+fluorescence polarization detection
+locked nucleic acids
+fluorescently labeled locked nucleic acid
+lna probes exhibited excellent discrimination
+include fluorescently labeled lna probes
+authors covalently attached lna probes
+generate lna --dna melting curves
+synthetic nucleic acid analogs

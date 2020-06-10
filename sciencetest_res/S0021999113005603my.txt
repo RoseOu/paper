@@ -1,0 +1,10 @@
+micro
+velocity
+using
+fit
+macro
+order
+reduce
+noise
+data
+polynomial

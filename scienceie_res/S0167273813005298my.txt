@@ -1,0 +1,10 @@
+pathway
+straight
+along
+direction
+48i
+100
+observed
+200
+300°C
+nuclear

@@ -1,0 +1,10 @@
+singularity
+quantum
+finite-time
+singularities
+time-dependent
+conformal
+Sitter
+generalized
+braneworld
+brane

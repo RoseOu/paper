@@ -1,0 +1,10 @@
+computational
+IETI
+interfaces
+FETI
+Tearing
+Interconnecting
+geometries
+subdomains
+solver
+IGA

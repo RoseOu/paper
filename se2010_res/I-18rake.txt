@@ -1,0 +1,41 @@
+dcsd / cnes / alcatel space alenia
+2 avenue edouard belin bp 4025
+31055 toulouse
+dcsd
+2 avenue edouard belin bp 4025
+31055 toulouse
+40-request simulation results
+simulation observations redundancies messages average priority average cost
+centralized 59 0 0 2
+simulation observations redundancies messages average priority average cost
+centralized 34 0 0 2
+satellite swarm
+grégory bonnet
+∗
+onera
+alcatel space alenia
+74-request simulation results
+collaboration strategies
+mit ai lab memo
+detection instrument pointed forward
+semi-formal
+specification language dedicated
+incrementally build contingency branches
+chosen planning approach results
+simulation scenario implements 3 satellites
+distributed
+computing systems workshops
+reactive
+multiagent robotic systems
+robust layered control system
+coordination
+general terms
+algorithms
+1
+optimal limited
+contingency planning
+fr
+catherine tessier
+onera
+sk ← sk ∪ sk
+iii

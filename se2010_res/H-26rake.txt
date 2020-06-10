@@ -1,0 +1,52 @@
+html
+dataset base funcs features
+trec 9 indri 15 750
+trec 10 indri 15 750
+trec 9 submissions 53 2650
+trec 10 submissions 18 900
+table 5
+optimizing average precision
+yisong yue
+cornell university
+ithaca
+methods
+typically require tuning multiple heuristics
+thomas finley
+cornell university
+ithaca
+filip radlinski
+cornell university
+ithaca
+thorsten joachims
+cornell university
+ithaca
+28th annual international acm sigir conference
+indri functions
+trec 9 trec 10
+model map
+trec submissions
+trec 9 trec 10
+model map
+two-tailed wilcoxon signed
+rank test
+incorporate non-linear multivariate loss 
+functions
+org
+trec 9 trec 10
+model map
+svm∆
+map produce
+higher map scores
+dataset statistics
+experiments essentially test
+non-relevant 
+doctrec 9 trec 10
+model map
+base
+trec 9 trec 10
+model map
+art information retrieval systems commonly
+normalized discounted cumulative gain [2
+highest ranked relevant document ranked
+highest ranked relevant 
+document ranked

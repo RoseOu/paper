@@ -1,0 +1,10 @@
+unknowns
+unknown
+blocks
+boundary
+positive
+pseudo
+iteration
+stiffness matrix
+coordinates
+problem

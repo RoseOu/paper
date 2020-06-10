@@ -1,0 +1,10 @@
+T1	Process 13 38	multihop routing protocol
+T2	Process 40 46	PHASeR
+T3	Material 95 99	MWSN
+T4	Process 220 235	gradient metric
+T6	Process 549 555	PHASeR
+T7	Process 579 599	gradient maintenance
+T8	Material 605 619	mobile network
+T9	Process 726 730	TDMA
+T10	Process 732 761	time division multiple access
+T11	Process 763 766	MAC

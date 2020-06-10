@@ -1,0 +1,10 @@
+mutants
+cytokinesis
+nuclei
+cells
+HYA
+multinucleated
+v/v
+|
+ple-1
+alleles

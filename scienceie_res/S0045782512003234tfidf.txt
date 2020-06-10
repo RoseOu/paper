@@ -1,0 +1,10 @@
+Section
+micromechanics
+cortical
+biology
+bone
+Pivonka
+25,26
+mechanoregulatory
+continuum
+Hellmich

@@ -1,0 +1,10 @@
+penalized
+convergence
+weakly
+formulation
+formulations
+equivalence
+modulus
+nonlinear
+residual
+amplification

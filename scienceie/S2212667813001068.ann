@@ -1,0 +1,10 @@
+T1	Material 75 85	sandstones
+T2	Process 136 144	porosity
+T3	Process 149 161	permeability
+T4	Process 218 221	SDR
+T5	Process 223 249	Schlumberger Doll Research
+T6	Process 255 274	Timur-Coates models
+T7	Process 345 348	NMR
+T8	Process 378 387	calibrate
+T9	Process 461 464	CSM
+T10	Process 432 459	classification scale method

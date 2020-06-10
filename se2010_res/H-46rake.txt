@@ -1,0 +1,51 @@
+method model 1 model 2 model 3
+map mrr map mrr map mrr
+expert finding
+uk bl 0
+map mrr %ca map mrr %ca map mrr %ca map mrr
+english
+method model 1 model 2 model 3
+map mrr map mrr map mrr
+english
+baseline 0
+402
+method model 1 model 2 model 3
+map mrr map mrr map mrr
+english
+baseline 0
+topics model 1 model 2 model 3
+map mrr map mrr map mrr
+expert finding
+uk
+proportional
+expert finding expert profiling
+document types model 1 model 2 model 3 model 1 model 2 model 3
+%
+expert finding expert profiling
+language model 1 model 2 model 3 model 1 model 2 model 3
+%
+nl
+antal van den bosch
+ilk
+sparse data environments
+krisztian balog
+isla
+applying field-based weighting
+models improves
+3 exploiting knowledge area similarity
+table 4 presents
+uk
+maarten de rijke
+isla
+map mrr %
+antal van den bosch
+multiple languages achieves substantial improvements
+1 expert finding
+expert finding involves
+multinomial unigram 
+language model
+assessed basic language 
+modeling techniques
+g12 8qq
+leif@dcs
+profiling onthe uvt expert collection

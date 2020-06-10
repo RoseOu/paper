@@ -1,0 +1,10 @@
+setaram multi-detector high temperature calorimeter
+monitored heat flow signal
+calibration curve obtained prior
+high purity standard metals
+isothermal run consisted
+maximum considered temperature
+pure platinum ingots
+drop calorimetric measurements
+temperature range
+drop detector

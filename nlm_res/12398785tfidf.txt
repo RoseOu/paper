@@ -1,0 +1,10 @@
+LSTAT
+clinicians
+|
+Trauma
+conventional
+clinician
+LSTATTM
+monitors
+ventilator
+patients

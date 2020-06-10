@@ -1,0 +1,10 @@
+agents
+game
+representation
+set
+1
+games
+coalitional
+rules
+value
+v

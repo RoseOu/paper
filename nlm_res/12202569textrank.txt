@@ -1,0 +1,10 @@
+strains
+strain
+genes
+gene
+cholera
+biotype
+biotypes
+classical
+o
+vibrio cholerae

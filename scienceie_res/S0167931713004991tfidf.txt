@@ -1,0 +1,10 @@
+parameters
+quadratic
+experiments
+varied
+QO2
+99sccm
+SF6
+QSF6
+20sccm
+40mTorr

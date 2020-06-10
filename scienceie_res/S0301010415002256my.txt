@@ -1,0 +1,10 @@
+model
+many
+vibronic
+coupling
+groups
+diabatisation
+non-adiabatic
+potential
+expansion
+surfaces

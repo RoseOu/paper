@@ -1,0 +1,10 @@
+batches
+erase
+threshold
+110-nm
+LNT
+timeouts
+88K
+tolerances
+transistor
+transconductance/gain

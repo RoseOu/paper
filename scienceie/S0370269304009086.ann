@@ -1,0 +1,10 @@
+T1	Process 4 13	ART model
+T2	Process 19 43	hadronic transport model	
+T3	Material 244 291	experimental data from hadron–hadron collisions
+T4	Task 155 187	elastic and inelastic collisions
+T8	Task 507 635	understand whether or not the strongly interacting matter formed in these collisions reaches chemical and/or thermal equilibrium
+T9	Task 662 723	extend the ART model to include perturbatively the Ξ particle
+T10	Material 777 792	transport model
+T11	Material 58 65	baryons
+T12	Material 74 84	N, Δ(1232)
+T13	Material 86 94	N∗(1440)

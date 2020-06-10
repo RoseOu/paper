@@ -1,0 +1,10 @@
+patients
+patient
+transport
+transportation
+transported
+transportable
+transports
+clinician
+contains conventional medical equipment
+lstat platform

@@ -1,0 +1,10 @@
+deltay = deltaalpha + deltabeta * x0 + betat * deltax + deltaepsilon
+risk adjusted excess mortality  -- multivariate regression results table  shows
+yt = alphat + betatxt + epsilont
+adjusted discharge  -- multivariate regression results  effect
+payer zip code level patient flows
+excess mortality  -- patient level risks
+estimated models included total clinical standard units
+payer drg-based case mix index
+hospital annual financial disclosure reports
+medicare hospital information report published

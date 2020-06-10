@@ -1,0 +1,10 @@
+brane
+solutions
+free solution
+stableness
+stable
+c
+kink
+non
+singular field equation
+boundary condition

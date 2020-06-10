@@ -1,0 +1,10 @@
+RNA
+RNase
+P
+1
+H1S1
+pDeltaEGFP
+streptavidin
+|
+cells
+enzyme

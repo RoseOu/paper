@@ -1,0 +1,10 @@
+collisions
+N∗
+ART
+particles
+model
+experimental
+hadronic
+baryons
+Δ
+1232

@@ -1,0 +1,159 @@
+wave detection
+1 2 3 4 5
+0
+5
+10
+15
+20
+2 feet group distance
+rank
+group index
+1 2 3 4 5
+0
+5
+10
+15
+20
+3 feet group distance
+rank
+group index
+1 2 3 4 5
+0
+5
+10
+15
+20
+4 feet group distance
+rank
+group index
+1 2 3 4 5
+0
+5
+10
+15
+20
+5 feet group distance
+rank
+group index
+figure 26
+adaptive msp
+2
+3
+diameter d3
+1
+1
+3k
+2
+3k
+3
+3k
+4
+3k
+5
+3k
+6
+3k
+1
+3k 2
+3k 3
+3k
+6
+3k4
+3k 5
+3k
+weight
+el
+small
+5 degree angle step adaptive
+10 degree angle step adaptive
+20 degree angle step adaptive
+30 degree step regular scan
+vm
+ap[0]
+vm
+ap[1]
+vm
+ap[2]
+vm
+ap[3]
+combine
+2
+3
+4
+5
+target nodeanchor node
+1a 5 3 b2 4
+1 b2 5a 43
+1a25b4 3
+1 52 ab 4 3
+1
+2
+3
+5
+4
+6
+7
+8
+9
+straight-line scan 1
+straight-linescan2
+straight-line scan 3
+reprocessing scan 1
+target node
+anchor node
+figure 5
+group index
+6
+7
+8
+9
+straight-line scan 1
+straight-linescan2
+straight-line scan 3
+target node
+anchor node
+figure 4
+1
+flipped sequence fatal elimination error
+eventpropagation
+1 1
+fatal error
+1
+1
+2
+12
+2
+lower boundary
+sequence based msp iii
+target node number
+error
+max error
+wireless sensor nodes∗
+ziguo zhong
+computer science
+sequence based msp ii
+scan time
+error
+max error
+wider candidate scan angles provide adaptive msp
+sequence based msp
+algorithm 2 sequence-based msp process
+output
+target node number
+target node number
+error
+max error
+matorx triplehead2go graphics expansion
+box
+500by80
+target node number
+error
+max error
+default configuration parameters
+parameter description
+field area 200×200
+recently proposed rips localization system [11] superimposes
+iterative msp
+iterative times
+error
+max error

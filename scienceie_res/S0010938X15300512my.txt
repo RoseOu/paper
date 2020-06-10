@@ -1,0 +1,10 @@
+alumina
+region
+porous
+film
+aluminium
+current
+barrier
+growth
+pores
+pore

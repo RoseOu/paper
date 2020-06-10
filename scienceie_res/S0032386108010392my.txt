@@ -1,0 +1,10 @@
+ratio
+hardness
+relationship
+materials
+elastic
+properties
+number
+different
+elasto-plastic
+models

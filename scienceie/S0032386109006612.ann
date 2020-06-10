@@ -1,0 +1,10 @@
+T1	Material 17 25	polymers
+T2	Process 47 78	synthesized in the liquid phase
+T3	Material 80 85	SWNTs
+T4	Process 90 140	produced through a variety of synthesis techniques
+T5	Process 164 250	the reaction of a gaseous carbon feedstock to form the nanotubes on catalyst particles
+T7	Process 269 313	observed in arc discharge fullerene reactors
+T9	Task 252 257	MWNTs
+T6	Task 322 336	this technique
+T11	Material 514 538	metal catalyst particles
+T12	Process 388 437	the fullerene production method of laser ablation

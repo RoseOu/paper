@@ -1,0 +1,10 @@
+quality
+project
+time
+cost
+obtained
+selection
+algorithm
+Contractor
+important
+decision

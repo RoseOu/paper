@@ -1,0 +1,10 @@
+recombinant baculovirus assay system produced estimated ic50s
+order wt > rtl180m > rtl180m + rtm204v > rtm204i
+lmv produced synergistic antiviral effects
+28-times genome length wt hbv
+drug-resistant viruses harbored point mutations
+reverse transcriptase coding region
+potency ranking reported earlier
+rtl180m + rtm204v substitutions
+cytoplasmic hbv core particles
+transiently transfected hepg2 cells

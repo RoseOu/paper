@@ -1,0 +1,10 @@
+well-tested single electron circuit simulator setspice [11]
+monte carlo single-electron circuit simulations
+3d finite element based
+fem-based electrostatics simulator
+single electron detection
+single electron tunnelling [12]
+single electron tunnelling
+single electron detection [13]
+single electron limit
+single electron spins

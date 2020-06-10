@@ -1,0 +1,10 @@
+IgM
+HEV
+hepatitis
+serum
+units/ml
+|
+specimens
+WRAIR
+quantitation
+EIA

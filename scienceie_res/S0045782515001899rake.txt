@@ -1,0 +1,10 @@
+involves finite element weak formulation
+dg-based shallow water model appeals
+traditional finite volume counterpart
+providing higher quality solutions
+locally solving conservation laws
+shallow water equations
+restrictive stability condition
+local discrete cell
+describing accuracy information
+local basis functions

@@ -1,0 +1,9 @@
+T1	Task 1065 1144	fabrication and microstructural characterisation of ODS steels processed by SPS
+T2	Process 0 22	Spark plasma sintering
+T3	Process 24 27	SPS
+T4	Process 49 74	sintering-based technique
+T5	Process 137 269	electrically and thermally conductive graphite mould and a large DC pulsed current (1000–5000A) is applied under a uniaxial pressure
+T8	Process 848 870	hot pressing sintering
+T9	Process 875 878	HIP
+T11	Material 1117 1127	ODS steels
+T12	Material 93 99	powder

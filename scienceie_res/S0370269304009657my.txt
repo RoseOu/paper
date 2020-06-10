@@ -1,0 +1,10 @@
+state
+relativistic
+equation
+full
+Salpeter
+obtained
+wave
+function
+solved
+method

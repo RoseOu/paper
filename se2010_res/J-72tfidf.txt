@@ -1,0 +1,10 @@
+elicitation
+queries
+=
+algorithm
+valuations
+polynomial
+equivalence
+Lindahl
+''
+query

@@ -1,0 +1,10 @@
+HSV
+cells
+nectin-1
+cholesterol
+MbetaCD
+membrane
+fractions
+rafts
+HVEM
+lipid

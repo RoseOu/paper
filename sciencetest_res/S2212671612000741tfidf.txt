@@ -1,0 +1,10 @@
+matrix
+sentence
+KEMM
+alignments
+similarity
+aligning
+alignment
+clues
+Kernel
+Extensional

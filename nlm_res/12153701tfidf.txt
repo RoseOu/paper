@@ -1,0 +1,10 @@
+|
+respondents
+responses
+``
+McNemar-Quality-Scale
+physicians
+''
+diabetologists
+questionnaire
+inaccuracies

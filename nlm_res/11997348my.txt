@@ -1,0 +1,10 @@
+4
+chromosome
+BAC
+contigs
+physical
+map
+markers
+sequence
+clones
+sequences

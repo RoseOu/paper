@@ -1,0 +1,10 @@
+T1	Task 0 8	PV cells
+T2	Material 70 94	incident solar radiation
+T3	Material 100 114	electric power
+T4	Process 456 477	incomplete absorption
+T5	Process 538 552	thermalization
+T6	Process 556 571	carrier cooling
+T7	Process 734 757	radiative recombination
+T9	Process 56 114	conversion of incident solar radiation into electric power
+T10	Process 186 221	fossil fuel-based energy conversion
+T11	Process 361 377	solar conversion

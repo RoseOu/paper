@@ -1,0 +1,10 @@
+single
+chains
+octyl
+conformation
+Figure
+terthiophene
+molecule
+side
+three
+rotated

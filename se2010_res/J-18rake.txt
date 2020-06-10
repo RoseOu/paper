@@ -1,0 +1,34 @@
+distributed artificial 
+intelligencemultiagent systems
+general terms
+economics
+fixed priority rule simplifies
+notations
+44th annual ieee symposium
+23rd international joint
+conferences
+mediator mc
+bids
+bi = cˆvi
+twentieth international joint conference
+guarantee optimal social surplus
+extremely artificial combinatorial
+auctions
+position auctions
+itai ashlagi
+random priority rule chooses
+fixed priority rule
+implies
+fixed priority
+rule assumption
+alternative slot auction
+designs
+3 weighted next-price position auctions
+weighted next-price position auctions
+standard two-person first-price auction
+weighted next-price position
+auction
+vcg outcome function
+assigns
+transform current position auctions
+anonymous position payment schemes

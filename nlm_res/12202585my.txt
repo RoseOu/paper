@@ -1,0 +1,10 @@
+phage
+fragments
+AFLP
+DNA
+Typhimurium
+serovar
+isolates
+typing
+present
+|

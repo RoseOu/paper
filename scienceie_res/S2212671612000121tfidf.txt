@@ -1,0 +1,10 @@
+quantum
+adiabatic
+algorithm
+quadratic
+computation
+feasibilities
+equivalence
+implementing
+implies
+corresponding

@@ -1,0 +1,53 @@
+]
+medium clear 1 tf / wn[syn]
+small ambiguous 2 tf / wn[syn]
+small semi-ambig
+sentencescore =
+sw2
+tw
++ ps +
+tq2
+nq
+1 tf / wn[syn]
+small clear 
+0table 3
+de
+wolfgang nejdl
+l3s research center
+appelstr
+online information services-web-based services
+general terms
+algorithms
+complete tf based keyword extraction
+formula
+alexandru chirita
+l3s research center∗
+appelstr
+2 automatic query expansion
+automatic query expansion aims
+• medium scope / semi-ambiguous query
+• small scope / clear query
+log queries evaluate real life requests
++
+o21 · log p2 + o22 · log
+newly proposed adaptive 
+personalized query expansion algorithms
+−2 · log λ = 2 · [o11 · log p1 + o12 · log
+newly proposed flexible algorithms perform slightly
+highly complex part-of-speech pattern identification 
+algorithms [1]
+large scale thesauri encapsulate
+global knowledge
+• large scope / ambiguous query
+firan
+l3s research center
+appelstr
+termscore =
+1
+2
++
+1
+2
+·
+nrwords − pos
+nrwords

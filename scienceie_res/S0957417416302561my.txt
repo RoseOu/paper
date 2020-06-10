@@ -1,0 +1,10 @@
+EMG
+dynamic
+factors
+methods
+extraction
+feature
+learning
+control
+influence
+performance

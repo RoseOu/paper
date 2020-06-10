@@ -1,0 +1,10 @@
+isolates
+strains
+VREF
+pigs
+AFLP
+poultry
+fecal
+samples
+VSEF
+patients

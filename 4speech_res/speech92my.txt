@@ -1,0 +1,10 @@
+leads
+number
+success
+eight
+three
+think
+Joe
+something
+Persistence
+get

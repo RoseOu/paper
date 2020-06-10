@@ -1,0 +1,6 @@
+cats
+pet
+food
+wild
+worship
+rat

@@ -1,0 +1,10 @@
+state
+ABC
+America
+open
+3000
+toll
+checking
+watching
+health
+end

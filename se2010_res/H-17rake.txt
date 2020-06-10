@@ -1,0 +1,43 @@
+t1 → d1 d2 d3 d4 d5 d6
+t2 → d1 d2 d3
+t3 → d3 d5 d7 d8
+t4 → d4 d10
+t5 → d6 d8 d9
+figure 4
+correctness guarantee
+alexandros ntoulas∗
+microsoft search labs
+1065 la avenida
+mountain view
+concluding remarks
+web search engines typically prune
+junghoo cho†
+ucla computer science dept
+web search engines maintain large-scale inverted indexes
+distributed text document information retrieval
+systems
+major search engines today return documents
+optimal index
+size consistently lies
+called extended
+keyword-specific document pruning
+5 extended keyword-specific document pruning
+procedure
+d4
+d5
+d6
+d8
+data structure called inverted index
+boelter hall
+los angeles
+ip
+ip
+ip
+ip
+ip
+ip
+5000 queries/sec 5000 queries/sec
+extended keyword-specific document pruning based
+2 greedy keyword pruning hs
+procedure
+idf vector space model [29]

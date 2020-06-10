@@ -1,0 +1,10 @@
+data
+distance
+locality
+density
+cluster
+conceptual
+afore-described
+centralized
+globally
+Euclidean

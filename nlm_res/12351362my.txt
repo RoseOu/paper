@@ -1,0 +1,10 @@
+time
+patients
+patient
+consultation
+'
+general
+consultations
+depression
+|
+doctors

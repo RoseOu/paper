@@ -1,0 +1,25 @@
+bounded action space
+[extended abstract]
+∗
+liad blumrosen
+school
+traditional mechanism design typically assumes 
+isomorphism
+informationally optimal k-action social
+welfare function
+optimal
+incentive-compatible mechanisms significantly easier
+il
+michal feldman
+school
+payment schemes
+general terms
+economics
+k-action informationally optimal 
+social welfare
+informationally optimal
+2-player k-action mechanism
+informationally optimal k-action social-choice
+function
+informationally optimal k-action
+social-choice function

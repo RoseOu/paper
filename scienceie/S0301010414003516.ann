@@ -1,0 +1,10 @@
+T1	Material 10 14	TFTs
+T2	Material 19 27	circuits
+T3	Material 80 104	polyethylene naphthalate
+T4	Material 106 109	PEN
+T5	Material 80 121	polyethylene naphthalate (PEN) substrates
+T6	Process 159 188	vacuum-fabrication procedures
+T7	Material 251 276	aluminium gate electrodes
+T8	Material 292 298	tracks
+T9	Process 304 321	vacuum evaporated
+T10	Material 331 341	substrates

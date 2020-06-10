@@ -1,0 +1,10 @@
+GBSSI
+barley
+cv
+cultivars
+endosperm
+amylose
+starch
+low-amylose
+waxy
+Waxy

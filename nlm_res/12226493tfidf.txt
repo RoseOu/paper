@@ -1,0 +1,10 @@
+ECA1
+Ca2+
+Mn2+
+mutant
+eca1-1
+wild-type
+|
+T-DNA
+protein
+calcium

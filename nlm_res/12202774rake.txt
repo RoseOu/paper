@@ -1,0 +1,10 @@
+decode finally converged bit strings back
+current main approaches include free-energy minimization
+current rna motif finding algorithms lack
+finding watson --crick complementary base pairs
+locally aligned stem --loop regions
+rna regulatory protein binding sites
+dynamic programming approach called foldalign
+rna secondary structure prediction problem
+identify general rna secondary motifs
+latest rna motif prediction system

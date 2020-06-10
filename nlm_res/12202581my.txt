@@ -1,0 +1,10 @@
+isolates
+MAC
+PRA
+hsp65
+|
+M.
+species
+PCR
+avium
+analysis

@@ -1,0 +1,10 @@
+hold time
+thermal boundary resistance
+finger
+cold
+subsequent operation
+dictates
+read
+fast
+temperature
+millisecond

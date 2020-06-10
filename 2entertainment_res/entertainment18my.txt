@@ -1,0 +1,10 @@
+Hello
+say
+message
+robot
+leave
+phone
+cause
+put
+thing
+OK

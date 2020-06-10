@@ -1,0 +1,76 @@
+produce_computer
+get_software
+install_software
+deliver_computer
+memory producerhardware producer transporter
+consumer agent
+order_computer
+order_memory
+order_hardware
+order_hardware
+process−time
+dli − estj ≤ duri + durj ∧ dlj − esti ≤ duri + durj
+tasks
+distribution
+center
+memory
+producer
+transporter
+deliver hardware
+order memory
+= basic neg cycle + 1
+basic neg cycle represents
+tasks
+purchase memory
+customer
+deliver computer
+hardware
+computer
+order purchase
+figure 1
+3
+distribution center pc manufacturer
+order_chips
+deliver_hardwareget_parts
+process−time
+setting creates 
+multiple concurrent negotiation chain situations
+tasks
+order chips
+pc
+manufacturer
+order
+store
+order memory
+victor lesser
+computer science department
+university
+meta-level 
+information
+fixed-flex meta-info-flex
+negotiation pbs pbs
+negotiation chain problem
+negotiation chain problem occurs
+53
+order_hardware
+deliver_computer
+[34
+extra early finish reward
+proportional
+multiple children nodes represent alternatives
+semi-cooperative multi-agent systems
+xiaoqin zhang
+computer
+11
+get_software
+install_software
+[28
+handling 
+multiple concurrent negotiation chains
+order memory
+store agent pc manufacturer
+information science department
+university
+multiagent systems
+general terms
+algorithms

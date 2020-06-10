@@ -1,0 +1,10 @@
+system
+payer
+health
+single
+Single
+solve
+move
+virus
+MSNbc
+rapidly

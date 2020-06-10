@@ -1,0 +1,10 @@
+AtPT2
+expression
+transporters
+AtPT1
+genes
+GUS
+reporter
+Pi
+starvation
+Arabidopsis

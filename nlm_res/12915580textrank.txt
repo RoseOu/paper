@@ -1,0 +1,10 @@
+protein
+proteins
+rna
+virp
+viroid
+viroids
+pstvd
+lane
+lanes
+transcripts

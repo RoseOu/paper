@@ -1,0 +1,10 @@
+finite element methods
+overlapping schwarz methods
+proposed bddc preconditioners
+linear algebra solvers
+extensive numerical examples
+rigorous theoretical study
+proposed isogeometric tearing
+theoretical study
+direct solvers
+numerical tests

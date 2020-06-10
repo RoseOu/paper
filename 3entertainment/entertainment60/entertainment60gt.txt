@@ -1,0 +1,7 @@
+buy
+lot
+show
+handle
+wearing
+good
+world

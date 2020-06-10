@@ -1,0 +1,9 @@
+T1	Material 34 50	beta-beam source
+T2	Material 79 100	static tritium source
+T3	Process 122 132	beta-beams
+T4	Process 145 160	neutrino fluxes
+T5	Process 213 241	electron–neutrino scattering
+T6	Material 458 470	reactor case
+T7	Material 554 570	electron recoils
+T9	Process 692 716	neutrino magnetic moment
+T10	Material 753 766	Helium-6 ions

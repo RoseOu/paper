@@ -1,0 +1,10 @@
+=
+Shapley
+attributes
+coalitional
+MACG
+aggregator
+aggregators
+⊆
+polynomial
+φi

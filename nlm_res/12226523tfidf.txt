@@ -1,0 +1,10 @@
+phytochrome
+protein
+phytochromes
+Arabidopsis
+seedlings
+phyA
+phyB
+dark-grown
+phyD
+phyC

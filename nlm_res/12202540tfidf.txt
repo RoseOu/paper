@@ -1,0 +1,10 @@
+pathogens
+sputum
+pneumoniae
+respiratory
+pneumonia
+CAP
+diagnostic
+specificity
+invasive
+samples

@@ -1,0 +1,41 @@
+kinmen island
+event russian submarine kursk sinks
+simple word-level edit distance based weighted term 
+comparison algorithm
+rank person org thing event
+baseline
+unigram weighting scheme
+minimum allowed
+character length function defined
+text
+retrieval conference question answering track main task
+idf 
+heavily down-weights highly frequency topic terms
+definitional
+question answering
+kian-wei kor
+department
+lexical pattern based definitional
+question answering system
+28th annual international acm sigir
+conference
+interesting nuggets give 
+readers added depth
+miscellaneous articles offering additional supporting evidence
+kim jong il
+thing f16
+significantly outperform state-of-the-art definitional question
+answering systems
+human interest model 
+definitional question answering system
+normalized soft pattern bigram model score
+performance
+entity type topics
+organization depauw university
+specially crafted information extraction templates
+definitional question 
+answering
+definitional question answering
+unigram 
+languge model weighting scheme
+google definitions google search engine offers

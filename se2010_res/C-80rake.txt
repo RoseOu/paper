@@ -1,0 +1,62 @@
+dynamic content
+313
+object output stream
+convert resultset
+object input stream
+convert resultset
+data
+resultset
+network
+ganesh proxy ganesh jdbc driver
+result
+set
+recipe
+result
+set
+native architecture
+client
+database
+ganesh proxy
+native jdbc driver
+wan
+web
+dynamic content
+314
+netem
+router ganesh
+proxy
+clients web
+afips fall joint
+computer conference
+dynamic content
+311
+back-end database
+server
+front-end web
+twelfth international world wide web
+conference
+proposed moving web page assembly
+average
+chunk size parameter set
+satyanarayanan
+carnegie mellon university
+{ntolia
+14th international
+world-wide web conference
+fourth acm/ifip/usenix
+international middleware conference
+computing
+technology technical report tr-15-81
+reducing exposure
+www 2007 / track
+size ganesh size rabin size
+selectsort1 223
+solutions require 
+substantial developer resources
+relational databases places increased demands
+dynamic
+database content∗
+niraj tolia
+fully reconstructed
+resultset object
+databaseagnostic middleware layer called ganesh

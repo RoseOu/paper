@@ -1,0 +1,10 @@
+L-threonine
+dehydrogenase
+gene
+protein
+mouse
+threonine
+enzyme
+cDNA
+PCR
+sequence

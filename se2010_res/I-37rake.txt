@@ -1,0 +1,58 @@
+679
+training function
+ht
+performance measure solution quality
+qtgtft
+training set
+dt
+hypothesis
+hypothesis
+ht−1
+figure 1
+uk
+michal pechoucek
+gerstner laboratory
+czech technical university
+technick«
+data mining
+jan tozicka
+gerstner laboratory
+czech technical university
+technick«
+edinburgh
+edinburgh eh8 9le
+united kingdom
+mrovatso@inf
+k-means k-medoids
+filtering 30-40 % 10-20 %
+m-filtering 20-30 % 5-15 %
+army research 
+laboratory project n62558-03-0819
+allegedly agent-based
+completely disregard agent autonomy
+166 27
+czech republic
+tozicka@labe
+experimental results
+figure 3 shows results obtained
+massively distributed data
+mining tasks
+166 27
+czech republic
+pechouc@labe
+agent-based distributed data
+mining system
+naval research
+project n00014-06-1-0232
+dj hj fj gj hj
+di
+pd→
+learning process include replacing cj
+distributed brain tumour diagnosis [2]
+2 agent-based distributed learning system
+design
+displaying online vessel tracking data
+build effective autonomous learning agents
+cz
+michael rovatsos
+school

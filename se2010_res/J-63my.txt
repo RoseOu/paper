@@ -1,0 +1,10 @@
+''
+mechanism
+seller
+∗
+allocation
+1
+buyer
+negotiation
+trade
+valuation

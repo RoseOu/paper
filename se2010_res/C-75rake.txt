@@ -1,0 +1,117 @@
+grid resource
+basenative
+ids
+grid origin resources
+grid destination resources
+grid information service
+descri
+ptor
+connec
+tor
+fig
+-version
+feature
+1
+1
+-type
+-version
+datatype
+-escope
+-complex
+level
+1
+1
+text binary
+-dtdfile
+xml
+1
+1
+targetresources
+1
+1 10
+2
+tcpdump
+tcpdump
+tcpdumpag
+tcpdumpag
+idmef
+idmef
+idmef
+tcpdump
+
+countermeasure_1
+level 1
+
+countermeasure_2
+level 2
+fig
+didsog_baseresource
+didsog_descriptor
+11
+didsog_gis
+simulation_user
+simulation_didsog
+1
+*1*
+1
+1
+gridinformationservice
+gridsim gridresource
+fig
+monitor
+level 3
+response
+level 1
+response
+level 2
+response
+level 3
+fig
+-ident
+-version
+-description
+resourcedescriptor
+-featuretype
+-
+1
+domain 2
+monitor
+level 1
+monitor
+level 2
+analysers
+level 3
+fifteenth ieee national computer
+security conference
+intrusion detection message exchange
+format data model
+9th
+ieee asia-pacific conference
+communications
+ieee
+international conference machine learning
+intrusion detection message exchange
+requirements
+intrusion
+detection message exchange format
+performance-based grid intrusion
+detection system
+enabling grid intrusion
+detection systems
+*
+-featuretype
+resource11
+1
+1
+fig
+1
+user 2
+domain 1
+local
+sensors
+analysers
+level 2
+general cooperative intrusion detection
+architecture
+ieee sixth international conference
+5th ieee international symposium

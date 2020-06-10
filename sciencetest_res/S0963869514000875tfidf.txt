@@ -1,0 +1,10 @@
+frequency
+resolution
+time–frequency
+spectrogram
+waves
+utilised
+analysis
+components
+STFT
+simplest

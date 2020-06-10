@@ -1,0 +1,10 @@
+agents
+agent
+v
+n
+values
+value
+contracts
+contract
+contracted
+contractible

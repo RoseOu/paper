@@ -1,0 +1,53 @@
+node names cpu main memory hd
+nb 3200 mhz 512 mb 80 gb
+l01-l03 1700 mhz 256 mb 30 gb
+l04 350 mhz 160 mb 6 gb
+p01-p10 1000 mhz 256 mb 20 gb
+p11 900 mhz 128 mb 20 gb
+blast
+receives
+master
+strategies
+allocation
+work units
+generate
+work units
+distribute
+reports
+generate
+work units
+blast family programs
+program database query translation
+blastn nucleotide nucleotide
+strategy 2 nodes 4 nodes 8 nodes 16 nodes
+fixed 2037 999 491 252
+ss 1112 514 246 134
+tss 1296 570 259 143
+gss 1115 535 250 127
+fac2 1187 514 266 142
+table 4 presents execution times
+node seqtime 2 nodes 4 nodes 8 nodes 16 nodes
+nb 1432 1
+module generate reports obtains
+module generate work units
+blastx protein nucleotide query
+basic local alignment search tool
+master 
+analyzes periodic slave notifications
+compute grid nodes execution weight
+master
+slaveslaveslave
+internet
+database
+segment
+2gb nr genetic database segmented
+distribute work units
+work
+unit retrieval requires
+compute exact local sequence alignments
+fac2 allocates work units
+important public gene repositories
+7th international conference
+hpcasia
+compose 
+genetic data banks

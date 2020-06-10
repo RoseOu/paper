@@ -1,0 +1,67 @@
+badly connected
+12 nodes lightly overloaded
+removed badly connected cluster
+removed 2 lightly overloaded nodes
+figure 6
+wa
+wait & collect
+statistics
+rank nodes
+remove worst nodes
+wae
+ewa
+badly connected
+badly connected cluster removed
+started adding nodes
+36 nodes reached
+figure 5
+proc badnessi = α ∗
+1
+speedi
++ β ∗ ic overheadi
++ γ ∗ inw orstcluster
+adaptation
+cpu load introduced
+overloaded nodes removed
+started adding nodes
+36 nodes reached
+figure 4
+cluster badnessi = α ∗
+1
+speedi
++ β ∗ ic overheadi
+3 clusters crash
+started adding nodes
+36 nodes reached
+figure 7
+7th acm
+sigops european workshop
+grid
+gosia wrzesinska jason maassen henri
+nonadaptive version exhibit enormous variation
+modelling techniques
+general terms algorithms
+scenarios 0-5
+add nodes
+faster nodes
+adaptation 
+coordinator starts removing worst nodes
+badly connected cluster
+overloaded network link
+0 5 10 15
+iteration number
+0
+200
+400
+600
+800
+1000
+iterationduration
+overloaded network link
+duration increased
+vrije universiteit amsterdam
+{gosia
+distributed resource performance forecasting service
+chaff-based 
+distributed sat solver
+efficient java-based grid programming environment

@@ -1,0 +1,10 @@
+''
+ratings
+rating
+scouts
+user
+users
+system
+1
+good
+2

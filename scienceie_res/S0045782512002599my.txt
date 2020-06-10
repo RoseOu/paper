@@ -1,0 +1,10 @@
+solver
+computational
+IETI
+problem
+several
+subdomains
+IGA
+domain
+FETI
+Tearing

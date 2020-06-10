@@ -1,0 +1,10 @@
+T1	Process 0 17	In situ oxidation
+T2	Material 54 72	3mm diameter discs
+T3	Process 90 109	ground and polished
+T4	Process 159 167	oxidised
+T5	Process 461 467	heated
+T6	Process 558 596	stabilise the stage and the microscope
+T7	Process 618 656	heated to a final temperature of 900°C
+T8	Material 842 859	LEO 1530VP FEGSEM
+T9	Material 925 957	Transmission Electron Microscope
+T10	Material 1271 1299	Scanning TEM (STEM) detector

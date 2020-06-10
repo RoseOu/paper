@@ -1,0 +1,10 @@
+cholesterol
+Rab11
+cells
+esterification
+organelles
+filipin
+membrane
+endocytic
+GFP-wtRab11
+COS-1

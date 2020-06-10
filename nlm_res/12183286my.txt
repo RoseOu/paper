@@ -1,0 +1,10 @@
+isolates
+gyrA
+resistance
+acid
+wild
+nalidixic
+resistant
+gene
+animals
+strains

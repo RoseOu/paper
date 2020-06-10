@@ -1,0 +1,10 @@
+value
+attributes
+game
+1
+games
+agents
+Shapley
+coalitional
+number
+=

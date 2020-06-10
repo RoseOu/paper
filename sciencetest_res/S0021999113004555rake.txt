@@ -1,0 +1,10 @@
+equations governing atmospheric motion
+accurate strang carryover scheme
+involves strang splitting
+kutta imex schemes
+final implicit stage
+vertical terms implicitly
+implicit stage
+terms involved
+implicit solution
+vertical advection

@@ -1,0 +1,50 @@
+cn
+jiang xin-hua
+fujian university technology
+fuzhou
+maximum safety path matrix based
+fault-tolerant routing algorithm
+maximum safety path vector based
+fault-tolerant routing algorithm
+distributedsensor networks
+wang lei
+fujian university technology
+fuzhou
+chen zhi-ping
+fujian university technology
+fuzhou
+location information based
+hierarchical data congregation routing algorithm
+um
+*vn
+= vx
+* vn
+⇒ um
+=vx
+⇒
+um
+* vn
+= vx
+* vn
+⇒ um
+=vx
+traditional pairwise
+key predistribution algorithm based
+dynamic key path establishment algorithm based
+model-based pairwise key establishment
+algorithm includes
+newly proposed pairwise key establishment
+algorithm
+key setup server randomly generates
+efficient pairwise key establishment
+algorithm
+random pairwise
+keys scheme doses
+random scheme randomly picks pair
+basic probabilistic key 
+predistribution scheme
+pairwise key predistribution scheme based
+pairwise key predistribution scheme
+based
+pairwise key
+predistribution scheme based

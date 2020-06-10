@@ -1,0 +1,68 @@
+1
+precision
+recall
+baseline
+1 class full-page
+3 classes full-page
+5 classes full-page
+1 class summary
+3 classes summary
+5 classes summary
+figure 4
+1
+precision
+recall
+baseline
+bundled full-page
+voting full-page
+bundled summary
+voting summary
+figure 3
+randomly draw 50-50 training/testing splits
+extra knowledge 
+considerably improves classification accuracy
+places relevant advertisements 
+alongside search results
+web
+search results holds considerable promise
+highest probability
+cmax = arg maxcj ∈
+1
+precision
+recall
+10
+20
+30
+40
+50
+baseline
+figure 5
+search engines index colossal amounts
+basically assumes top
+returned results
+method 
+exhibits significantly higher accuracy
+set 1
+method dcg-1 dcg-5
+oracle 7
+35
+set 2
+method dcg-1 dcg-5
+oracle 5
+1
+precision
+recall
+baseline
+engine
+world 
+knowledge contributes valuable information
+external knowledge achieves greater improvements
+search process
+general terms
+algorithms
+search engine classifies
+crawled pages
+recent
+study [5] showed centroid-based classifiers
+results precision f1
+baseline 0

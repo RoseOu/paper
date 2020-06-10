@@ -1,0 +1,78 @@
+ssh 18 36
+tut toyo dual athlon 2600+ 100mb ethernet ssh 8 16
+aist ume dual pentium3 1
+time
+client program
+worker program 1
+worker program 2
+initialization initializationcalculation
+calculation calculation
+calculation
+initialization initialization
+initialization
+parallelized
+worker programs
+157
+time
+client program
+worker program 1
+worker program 2
+initialization
+initialization
+calculation calculation
+calculation calculation
+calculation
+parallelized
+ssh 14 28
+alice dual athlon 1800+ 100mb ethernet globus
+mimic
+155
+stepwise rotation
+corner flap
+edge flip
+figure 2
+jp
+hpc1 hpc2 hpc3
+agent invocation
+communicationnetwork
+figure 4
+automatic
+initializable module
+omnirpc efficiently supports typical master/worker 
+parallel applications
+initial structure
+conformations
+database
+local
+perturbation
+geometry
+optimization
+comparison
+molecular min max average variance
+code
+data transfer
+code atoms structures / loop initialize
+trial structuretrial structure
+trial structure
+trial structure
+figure 3
+initial structure
+conformations
+database
+local
+perturbation
+comparison
+jp
+hitoshi goto
+knowledge-based information engineering
+seti@home tackles immensely parallel problems
+folding@home project[13] simulates timescales thousands
+client program allocates unused ports dynamically
+tackle
+prev iously intractable problems
+molecular 
+conformational space search program called conflex
+support clusters involving private ip 
+addresses
+secure remote shell
+command ssh

@@ -1,0 +1,10 @@
+magnetostrictive
+magnetic
+ferromagnetic
+sample
+phase
+transition
+layer
+generation
+efficiency
+known

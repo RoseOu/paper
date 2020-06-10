@@ -1,0 +1,10 @@
+SCL
+zebrafish
+pufferfish
+conserved
+CS2
+mouse
+CS1
+genomic
+locus
+loci

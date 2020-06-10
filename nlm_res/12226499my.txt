@@ -1,0 +1,10 @@
+GBSSI
+barley
+cultivars
+amylose
+cv
+endosperm
+low-amylose
+|
+starch
+protein

@@ -1,0 +1,10 @@
+PIP2
+membrane
+GFP-PH
+patches
+DiI
+cells
+|
+Figure
+axial
+confocal

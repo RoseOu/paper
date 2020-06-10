@@ -1,0 +1,10 @@
+T1	Process 18 86	spectrally resolved femtosecond three-pulse photon echo measurements
+T3	Material 90 100	Zn(II)–OEP
+T4	Material 102 112	Ni(II)–OEP
+T5	Material 117 127	Co(II)–OEP
+T6	Process 195 258	separate and extract specific type of spectroscopic information
+T7	Material 262 279	complex molecules
+T8	Process 292 350	spectral and temporal evolution of the photon echo signals
+T9	Task 331 350	photon echo signals
+T10	Material 367 383	population times
+T11	Task 385 415	population relaxation dynamics

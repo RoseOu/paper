@@ -1,0 +1,10 @@
+IRF-1
+cells
+ATRA
+cell
+|
+growth
+cervical
+SiHa
+STAT1
+expression

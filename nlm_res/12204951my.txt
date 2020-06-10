@@ -1,0 +1,10 @@
+RBCV
+EBCV
+cattle
+serum
+strain
+HAI
+differences
+samples
+cell
+strains

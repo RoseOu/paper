@@ -1,0 +1,10 @@
+/QE
+RECQ5
+helicase
+protein
+DNA
+activity
+ATP
+GTP
+using
+reaction

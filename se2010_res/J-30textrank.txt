@@ -1,0 +1,10 @@
+players
+player
+mechanisms
+function
+functions
+action
+k actions
+optimality
+optimize
+optimizing

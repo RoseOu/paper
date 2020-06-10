@@ -1,0 +1,10 @@
+T1	Process 41 58	observed dynamics
+T2	Process 82 93	probe laser
+T3	Process 129 147	further ionization
+T4	Task 106 115	reactions
+T5	Process 158 178	two-step decay model
+T6	Process 227 255	fragmentation of DCPD to CPD
+T7	Material 296 321	rise and decay components
+T8	Process 353 372	Matlab programming
+T9	Process 383 426	curve fitting Levenberg–Marquardt algorithm
+T10	Process 432 456	best fit decay constants

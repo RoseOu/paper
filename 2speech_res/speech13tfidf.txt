@@ -1,0 +1,10 @@
+hoodie
+hoodies
+garments
+``
+garment
+attached
+wearing
+cape-like
+reaper
+executioner

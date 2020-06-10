@@ -1,0 +1,10 @@
+documentation
+medical
+record
+study
+patients
+quality
+patient
+smoking
+measures
+pediatricians

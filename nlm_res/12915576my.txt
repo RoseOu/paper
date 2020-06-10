@@ -1,0 +1,10 @@
+UL9
+protein
+wild-type
+cells
+UL9-MV
+fragment
+mutant
+used
+plasmid
+HSV-1

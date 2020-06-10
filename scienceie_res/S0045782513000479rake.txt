@@ -1,0 +1,10 @@
+finite difference scheme working
+efficient numerical scheme
+numerical methods solving
+fast marching method [21]
+fast marching methods
+seismic travel times
+level set method
+level set equation
+neighboring grid points
+level set

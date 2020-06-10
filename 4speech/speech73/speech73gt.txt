@@ -1,0 +1,8 @@
+choice
+stay home
+work
+parents
+decision
+childcare
+child
+family

@@ -1,0 +1,10 @@
+cost
+players
+1
+=
+player
+equilibrium
+game
+strong
+2
+games

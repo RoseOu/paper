@@ -1,0 +1,4 @@
+sun
+speed
+orbit
+earth

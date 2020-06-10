@@ -1,0 +1,10 @@
+DsRed
+fluorescence
+mutants
+asCP
+fluorescent
+CPs
+chromophore
+proteins
+protein
+DsRed-NF

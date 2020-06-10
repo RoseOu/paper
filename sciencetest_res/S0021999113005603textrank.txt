@@ -1,0 +1,10 @@
+region
+averaging
+stress
+velocity
+micro
+order
+reduce
+yi
+directly
+polynomial fit

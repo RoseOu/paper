@@ -1,0 +1,10 @@
+particle
+particles
+contacts
+contact
+contacting
+step
+neighbour
+time stepping
+realistic
+wide

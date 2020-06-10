@@ -1,0 +1,10 @@
+plant
+signals
+fungi
+Fungi
+growth
+combat
+first
+keeps
+roots
+shoots

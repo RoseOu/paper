@@ -1,0 +1,91 @@
+20
+a1
+entertainment
+resturant
+movie
+a2
+a3
+a4
+r1
+r2
+r3
+r4
+r5
+r6
+r7
+r8
+weather
+kc
+sl
+jc
+sf
+entertainment
+r1 r2 r3 r4 r5 r6 r7 r8 kc sl jc sf
+broadcast
+scheduler
+local broadcast space
+broadcast tower
+surrogatemu
+mu
+mu
+mu
+data serverbroadcast schedulerdays coordinator
+local downlink
+channel
+global downlink
+channel
+pull request queue
+global request queue
+local request queue location based index
+starbucks
+plaza
+kansas
+city
+figure 1
+a1 a2 a3 a4
+movie resturant weather
+1 2 3 4 5 6 7 8 9 10 11 12
+major index major index major index
+minor index
+major index minor index
+figure 3
+dist tree
+expo
+lbis
+averagetuningtime
+averagetuningtime
+averagetuningtime
+averagetuningtime
+23
+[3] hu
+comparatively lightly loaded
+queue consisting
+downlink wireless channels
+heavily loaded queue
+local
+broadcast space consists
+acm queue
+broadcast scheduler
+broadcast tower
+simple heuristic mapping approach scheme based
+distributed tree indexing shows similar
+behavior
+dist tree
+expo
+lbis
+figure 6
+dist tree
+expo
+lbis
+figure 7
+dist tree
+expo
+lbis
+figure 8
+required
+data r7
+r5
+4
+∀ pw {pw∈
+pspnew_m → pw∈ gpsic}
+local broadcast space

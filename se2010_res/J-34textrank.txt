@@ -1,0 +1,10 @@
+order
+orders
+ordered
+prices
+price
+markets
+σ
+execution
+executable
+executed

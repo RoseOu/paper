@@ -1,0 +1,10 @@
+T1	Process 22 35	supersymmetry
+T5	Material 183 197	super-partners
+T6	Material 255 269	SUSY particles
+T7	Process 289 310	Angular distributions
+T8	Process 339 355	charge asymmetry
+T9	Process 359 398	lepton-jet invariant mass distributions
+T10	Process 449 477	primary production asymmetry
+T11	Process 567 585	mSUGRA model point
+T12	Process 612 635	asymmetry distributions
+T4	Task 94 132	measure the spins of the new particles

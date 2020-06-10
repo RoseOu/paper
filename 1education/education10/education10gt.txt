@@ -1,0 +1,6 @@
+fingerprints
+unique
+pattern
+genetic
+fork
+loop

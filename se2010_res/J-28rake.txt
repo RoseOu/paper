@@ -1,0 +1,51 @@
+reverse auction bid
+7
+5 10 20 25
+10
+8
+quantity
+price
+7
+5 10 20 25
+10
+8
+quantity
+price
+forward auction bid
+figure 1
+tractable multi-unit
+auctions
+anshul kothari∗
+david
+representing multiple mutually exclusive quantity intervals
+nisan & ronen [18] discussed
+approximate vcg-based mechanisms
+general mixed integer linear program
+ibm tj watson research center
+marginal
+decreasing piecewise constant bidding language
+1 midrange bid
+5
+20
+15
+10
+25
+5 25 30201510 35
+3
+2
+1
+price quantity
+5
+20
+15
+10
+25
+5 25 30201510 35
+3
+2
+1
+price
+quantity
+clearing continuous call double auctions
+bidding language
+quickly breaks

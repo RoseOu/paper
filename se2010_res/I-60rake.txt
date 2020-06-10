@@ -1,0 +1,54 @@
+distributed artificial 
+intelligence-intelligent agents
+general terms
+experimentation
+1
+03
+0 1 2 3 4 5 6 7 8 9 10111213141516
+self-interested agents number
+normalizedvalue
+iteration 2 iteration 3 iteration 4
+iteration 5 iteration 6
+figure 1
+sarit kraus
+computer science department
+bar-ilan university
+ramat-gan
+iteration
+self-interested self-interested gossip regular
+agents number agents agents agents
+1 0
+iterations
+self-interested self-interested gossip regular
+agents number agents agents agents
+1 0
+self-interested self-interested gossip regular
+agents number agents agents agents
+1 1
+autonomously collect traffic jam statistics
+self-interested agents spread traversal times higher
+9
+1 2 3 4 5 6
+iteration number
+normalizedvalue
+32 self-interested agents
+domain
+involves monitoring distributed sensors
+regular 
+agentsthe average journey length
+sharing
+distributed probabilistic beliefs
+gossip based 
+transportation support system
+transportation networks introduces 
+dynamic data
+electrical engineering
+tel-aviv university
+self-interested agents spread traversal time
+sharing traffic
+jam information
+beneficiary agent
+iteration beneficiary gossip
+ieee computer society press
+vehicular networks∗
+raz lin

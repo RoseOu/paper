@@ -1,0 +1,78 @@
+global
+time
+service
+event
+notifications
+hrt-msg
+list
+srt-msg
+queue
+nrt-msg
+queue
+hrt-msg
+calendar
+hrtc
+handler
+36
+
+event
+notifications
+hrt-msg
+list
+srt-msg
+queue
+nrt-msg
+queue
+hrt-msg
+calendar
+hrtc
+handler
+event
+producer communication network
+event
+consumer
+event channel
+push <event>
+tevent ready < dl < texpiration − ∆notification
+texpiration defines
+event layer
+send
+messages
+exception
+notification
+exceptions
+layer
+rx buffer tx buffer
+rx
+soft real-time message queues order
+outgoing messages
+abstract network implements real-time message classes
+cooperating smart components
+∗
+ant´onio casimiro
+/nrtc
+handler
+abstract network
+layer
+error
+interrupts
+event channel
+specs
+successfully apply event-based object-oriented
+models
+global
+time
+service
+figure 4
+respective local event layer
+modules
+event model includes 
+explicit quality attributes
+relevant remote event layer 
+modules
+time bounded medium
+access control
+hrt message list
+hrt message 
+calendar
+fixed size circular buffer

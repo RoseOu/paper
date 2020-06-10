@@ -1,0 +1,10 @@
+Higgs
+GeV
+boson
+hadron
+decay
+LEP
+channels
+mass
+>
+SLD

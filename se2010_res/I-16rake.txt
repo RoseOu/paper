@@ -1,0 +1,83 @@
+advert
+advert
+marketplace agent
+device
+id
+advert
+advertising agent
+device
+id
+device
+id
+advertising agent
+advertising agent
+bluetoothdevice
+detectionagent
+2
+device type unique samples devices
+occasional < 10 135
+frequent 10 − 1000 70
+persistent > 1000 6
+table 1
+normalised exposure
+simple bidding strategy
+advanced bidding strategy
+1/240 1/120 1/80
+0
+0
+bold
+← bnew
+uold
+← unew
+endif
+temp ← temp × rate
+endwhile
+figure 6
+normalised exposure
+random allocation
+simple bidding strategy
+advanced bidding strategy
+optimal allocation
+figure 7
+1/39 5/35 10/30 20/20 30/10 5/35 1/39
+0
+0
+normalised exposure
+simple bidding strategy
+advanced bidding strategy
+figure 9
+normalised exposure
+simple bidding strategy
+advanced bidding strategy
+6 8 10
+0
+0
+normalised exposure
+simple bidding strategy
+advanced bidding strategy
+screen
+device
+id
+figure 2
+exploring bluetooth based
+mobile phone interaction
+995
+bold
+← initial random allocation
+uold
+← evaluate
+advanced bidding strategy 
+significantly outperforms
+intelligent agents
+general terms
+algorithms
+bluetooth device detection agent
+limited market experience makes estimating
+advanced bidding strategy
+outperforms
+bidding strategy enabled advertising agents
+predicted future
+device presence
+1
+advanced bidding
+strategy assumes

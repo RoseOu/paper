@@ -1,0 +1,10 @@
+strains
+enterica
+DNA
+isolates
+1
+Germany
+serovar
+B
+resistance
+10

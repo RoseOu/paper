@@ -1,0 +1,10 @@
+efficient technique relatingto computational duration thatensures remarkable stability characteristicsupon resolving nonlinear wave equations
+nonlinear wave equations
+technique requires minimum stages
+etd runge-kutta 4 technique
+general analytical method
+exponential time differencing
+short matlab programs
+technique
+investigate mathematically
+solutions exists

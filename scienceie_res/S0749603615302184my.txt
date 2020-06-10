@@ -1,0 +1,10 @@
+layer
+stack
+reflectivity
+measured
+thickness
+DBR
+thicknesses
+STEM
+model
+reduced

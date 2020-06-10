@@ -1,0 +1,10 @@
+strategies
+dominance
+dominated
+dominating
+dominate
+dominances
+games
+game
+given strategy
+strictly dominates

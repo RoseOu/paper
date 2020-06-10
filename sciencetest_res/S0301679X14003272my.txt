@@ -1,0 +1,10 @@
+load
+test
+cycle
+used
+loops
+coefficient
+friction
+suggested
+lateral
+force

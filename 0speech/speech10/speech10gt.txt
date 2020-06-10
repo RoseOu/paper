@@ -1,0 +1,8 @@
+map
+campus
+needle
+North
+Magnet
+earth
+magnetic
+pole

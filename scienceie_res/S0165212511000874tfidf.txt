@@ -1,0 +1,10 @@
+aeroengine
+multiple-scales
+propagation
+frequencies
+scales
+slowly-varying
+computational
+eigenmodes
+finite-element
+configurations

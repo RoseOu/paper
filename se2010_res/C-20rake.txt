@@ -1,0 +1,35 @@
+wide area network presents unique challenges
+involve
+extremely short downtimes ranging
+proposed supporting data-type specific selections
+network
+appliance technical report tr3043
+checkpointing 
+application state involves storing application state
+elsevier future generations computer
+systems
+ongoing network
+connections remain intact
+requiring heavy weight
+replication techniques
+geographically
+distributed virtual private network
+2001 high performance
+transaction processing symposium
+final server migration step triggers
+veritas volume replicator
+administrator
+jacobus van der merwe
+kobus van der
+merwe
+fairly sophisticated remote 
+replication mechanisms
+distributed 
+systems
+general terms
+design
+exist numerous commercial 
+products
+current virtual machine software support
+robust cooperative context aware approach
+ensure optimal data flow directly

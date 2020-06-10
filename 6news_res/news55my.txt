@@ -1,0 +1,10 @@
+city
+people
+go
+Food
+food
+left
+next
+month
+long
+come

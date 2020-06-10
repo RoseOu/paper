@@ -1,0 +1,10 @@
+direct simulation monte carlo
+extremely low mach numbers
+conventional continuum fluid dynamics
+involve rarefied gas flows
+simulating low-speed microfluidic devices
+weak temperature gradients
+complex micro geometries
+high-aspect-ratio micro geometries
+microfluidic devices
+rarefied gas

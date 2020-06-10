@@ -1,0 +1,10 @@
+multiple stage stochastic programming approach
+louveaux [26] propose modified l-shaped decomposition
+sample average approximation approach
+standard two-stage stochastic programs
+[1] alternately generate optimal cuts
+stage stochastic program
+shift surgery durations
+adjusted optimal cuts
+three-stage recourse model [5
+l-shaped method

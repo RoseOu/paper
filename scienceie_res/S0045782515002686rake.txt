@@ -1,0 +1,10 @@
+problems including arterial blood flow  [4]
+flows involving suspended particles  [7]
+red blood cells
+studying flow patterns
+structure interaction problems
+suitable jump conditions
+immersed boundary method
+structure interaction problem
+underlying fluid mesh
+poiseuille flow  [6]

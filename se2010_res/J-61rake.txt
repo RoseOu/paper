@@ -1,0 +1,32 @@
+´ebastien lahaie†
+benjamin lubin†
+loizos michael†
+jeffrey shneidman†
+hassan sultan†
+abstract
+html
+249
+truth agent act rule wd acc
+fair
+balclosing rulevickreythreshold
+parkes∗ †
+ruggiero cavallo†
+nick elprin†
+adam juda†
+sell ab
+12 < pa+pb < 16
+pa+pb=14
+pa=pb=7
+pbuyer = 16
+valuation details 998
+exchange driver & communication controls exchange
+coordinates remote agent behavior 585
+bidding language implements
+tree-based bidding language 1119
+activity rule engine implements
+pricing-related logic 460
+mip builders translates logic
+range support 203
+closing rule engine checks
+threshold payment rule [24] determines 
+budgetbalanced payments

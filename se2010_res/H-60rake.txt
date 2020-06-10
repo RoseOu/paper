@@ -1,0 +1,55 @@
+conjunction
+w7 d1 ∧ d2 ∧ d3
+w6 d1 ∧ d2 ∧ ¬d3
+w5 d1 ∧ ¬d2 ∧ d3
+w4 d1 ∧ ¬d2 ∧ ¬d3
+w3 ¬d1 ∧ d2 ∧ d3
+w2 ¬d1 ∧ d2 ∧ ¬d3
+w1 ¬d1 ∧ ¬d2 ∧ d3
+w0 ¬d1 ∧ ¬d2 ∧ ¬d3
+15th annual international acm
+sigir conference
+17th annual international acm sigir conference
+poisson function showed significant 
+improvement compared
+d1 ∨
+¬d1 ∧
+informativeness
+probability function noise informativeness
+frequency pfreq def
+computer science
+queen mary university
+w7
+ λ
+¡0
+w6
+ λ
+¡1
+w5
+ λ
+¡1
+w4
+ λ
+¡2
+w3
+ λ
+¡1
+w2
+ λ
+¡2
+w1
+ λ
+¡2
+w0
+ λ
+24th
+bcs-irsg european colloquium
+retrieval
+models
+general terms
+theory
+1
+intuitive idf -based probability function
+informative
+thomas roelleke
+department

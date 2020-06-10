@@ -1,0 +1,10 @@
+intron
+MHC
+chimpanzees
+lineages
+chimpanzee
+alleles
+locus
+humans
+sequences
+molecules

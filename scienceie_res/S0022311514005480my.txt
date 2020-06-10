@@ -1,0 +1,10 @@
+tensile
+stress
+cracks
+fracture
+manufactured
+zirconia
+stresses
+considered
+form
+interface

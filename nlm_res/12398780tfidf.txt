@@ -1,0 +1,10 @@
+ICU
+patients
+survivors
+follow-up
+|
+ARDS
+intensive
+SF-36
+PTSD
+illness

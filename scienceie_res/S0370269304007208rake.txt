@@ -1,0 +1,10 @@
+fμνa=∂μaνa−∂νaμa+gfabcaμbaνc
+leff=−14fμνafaμν+m2−fμνafaμν
+square root part describes string
+=14w2−12w−fμνafaμν
+∇μfaμν+mfaμν−fαβbfbαβ=0
+εμναβ∂βw−−fγδafaγδ=0
+=−fμνafaμν+
+long standing problems
+develop analytical approaches
+provide valuable insight

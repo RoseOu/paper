@@ -1,0 +1,10 @@
+non-uniform rational b-spline
+advanced solver design
+exact geometry representation
+iterative linear solver
+finite element tearing
+numerical simulation problem
+based isogeometric analysis
+complex geometries requires
+simple model problems
+proposed ieti method

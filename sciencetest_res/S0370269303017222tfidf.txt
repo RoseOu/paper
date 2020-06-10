@@ -1,0 +1,10 @@
+flavor-spin
+interactions
+N∗
+symmetric
+S-state
+P-state
+quark
+1535
+function
+interaction

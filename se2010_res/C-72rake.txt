@@ -1,0 +1,57 @@
+requires prior specific
+d1
+d2
+d5
+d3
+d4
+primary user
+shadowed
+secondary users
+secondary users detect
+primary
+local update occurs
+recovered
+susceptible
+time-stamp expires
+initial state
+additional
+update
+received
+infectious
+clean
+accurately assessing 
+spectrum usage requires exchanging potentially large amounts
+rf spectrum bands 
+continually experience small-scale
+multi-path interference 
+heavily impact sensing abilities
+efficient spectrum sensing
+nabeel ahmed
+university
+time spent 
+communicating sensory information takes
+immediately propagate updated rf sensory
+data
+specific rf band affects
+performing accurate
+radio parameter tuning
+signal
+shadowed
+secondary user
+figure 1
+data size
+grows rapidly due
+distributed
+network combine data received
+perform complex rf signal processing
+incremental protocols
+cal time stamp
+distributed applications
+general terms
+algorithms
+low-cost sensors collect approximate data
+computer science
+n3ahmed@uwaterloo
+computer science
+dthadaller@uwaterloo
+incremental random walk random walk

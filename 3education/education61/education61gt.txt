@@ -1,0 +1,7 @@
+shell
+sea
+snow
+oxygen
+water
+ice
+temperature

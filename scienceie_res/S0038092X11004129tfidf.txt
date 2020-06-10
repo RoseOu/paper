@@ -1,0 +1,10 @@
+solar
+dissipated
+radiation
+efficiency
+intensity
+50°C
+convection
+insolation
+Iact=I×0.850.85+dηwhere
+Iact

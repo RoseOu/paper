@@ -1,0 +1,8 @@
+island
+computer
+place
+data
+election
+zero
+mistake
+voters

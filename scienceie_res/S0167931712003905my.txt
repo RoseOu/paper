@@ -1,0 +1,10 @@
+thinning
+high
+resolution
+thinned
+width
+wire
+size
+reduction
+nanowire
+summary

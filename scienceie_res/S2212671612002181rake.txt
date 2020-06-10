@@ -1,0 +1,10 @@
+structural risk minimization principle
+guarantee good generalization
+hidden node number
+hidden nodes
+critical factor
+time consumption
+optimal number
+optimization process
+simulation results
+benchmark problemsx

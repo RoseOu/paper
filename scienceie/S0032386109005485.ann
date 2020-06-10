@@ -1,0 +1,10 @@
+T1	Process 0 35	Inverse miniemulsion polymerization
+T2	Process 41 53	water-in-oil
+T3	Process 55 58	W/O
+T4	Process 60 96	heterogeneous polymerization process
+T5	Material 108 141	kinetically stable macroemulsions
+T6	Material 167 198	critical micellar concentration
+T7	Material 200 203	CMC
+T8	Material 228 244	aqueous droplets
+T9	Material 256 278	water-soluble monomers
+T10	Material 314 337	oil-soluble surfactants

@@ -1,0 +1,20 @@
+hyarm
+resource
+resources
+applications
+application
+controller
+distributes video
+utilization
+utilizations
+utilized
+c
+systems
+qos requirements
+j
+adaptive
+adapting
+adaptively
+adaptation
+adapters
+adapter

@@ -1,0 +1,10 @@
+protein
+66K
+replication
+TYMV
+chloroplast
+140K
+viral
+protoplasts
+proteins
+RNA

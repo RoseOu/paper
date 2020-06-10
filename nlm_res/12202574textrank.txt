@@ -1,0 +1,10 @@
+plasmid
+plasmids
+resistance
+resistances
+resistant
+strains
+strain
+isolates
+isolated
+isolation

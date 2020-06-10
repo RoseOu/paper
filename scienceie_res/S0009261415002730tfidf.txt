@@ -1,0 +1,10 @@
+octyl
+conformation
+chains
+molecule
+terthiophene
+Figure
+rotated
+DOTT
+rotation
+crystal

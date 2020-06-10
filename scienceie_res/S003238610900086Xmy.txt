@@ -1,0 +1,10 @@
+scattering
+centres
+stems
+distance
+atoms
+PE
+stem
+axes
+q
+<

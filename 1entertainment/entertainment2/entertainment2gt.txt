@@ -1,0 +1,6 @@
+actors
+movie
+character
+audience
+working hard
+draw

@@ -1,0 +1,10 @@
+force classical random walks
+classical random walk search
+show quantum walk search
+phase damping noise
+quantum search
+quantum walks
+glued trees
+make exponentially
+polynomial number
+detrimental effects

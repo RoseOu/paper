@@ -1,0 +1,10 @@
+parameters
+reliability
+power
+networks
+also
+databases
+paper
+computation
+data
+retrieve

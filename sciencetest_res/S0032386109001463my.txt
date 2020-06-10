@@ -1,0 +1,10 @@
+three
+junction
+regular
+points
+molecules
+chain
+incompatible
+component
+polymer
+chains

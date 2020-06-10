@@ -1,0 +1,13 @@
+4 /300 mm nacl /5 mm edta /1% triton x-100 /10 mm iodoacetamide /1 mm pmsf /2 mug/ml leupeptin /0
+4 /5 mm edta /1% sds /10 mm dtt /1 mm pmsf /2 mug/ml leupeptin /15 units/ml dnase
+chf  = congestive heart failure
+fluoromethyl ketone
+ventricular essential myosin light chain
+ventricular regulatory myosin light chain
+trp- /leu- /his- /ura- /lys- /ade+ synthetic dropout medium plates
+2 mm cacl2 /5 mm dtt /1
+tnt t7 quick coupled transcription /translation system
+5 mm mgcl2 /1 mm kcl
+actin /myosin tether regulating cross-bridge cycling events
+mata trp1 lue2 his3 ade2 lys2
+essential myosin light chain isoforms exist

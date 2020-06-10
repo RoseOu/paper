@@ -1,0 +1,10 @@
+produce spurious results
+schweitz virial relation [25]
+complicated computational cell
+cell employed
+framed cell
+edwards cell
+simple cell
+simpler ‘framed
+shear stress
+average stress

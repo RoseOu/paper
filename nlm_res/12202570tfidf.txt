@@ -1,0 +1,10 @@
+PFGE
+isolates
+BOX-PCR
+RAPD
+cepacia
+typing
+fingerprinting
+MLRT
+cutoff
+dendrogram

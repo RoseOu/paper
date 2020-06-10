@@ -1,0 +1,125 @@
+criteria color connectivity time space
+duration 0 ntb ntd 0
+overhead εd εd +nεb nεd εd
+scale
+68
+0
+500
+1000
+1500
+2000
+2500
+3000
+color connectivity time space 
+colorconenctivity
+color-time
+localization technique
+localizationtime[sec]
+50 nodes
+100 nodes
+150 nodes
+200 nodes
+figure 25
+colors
+%correctlocalized[x100]
+0 anchors
+2 anchors
+4 anchors
+6 anchors
+8 anchors
+figure 21
+colors
+localizationerror[feet]
+0 anchors
+2 anchors
+4 anchors
+6 anchors
+8 anchors
+figure 20
+nodes correctly localized
+0
+2
+4
+6
+8
+10
+12
+14
+0 4 8 12 16
+% false negatives [x100]
+localizationerror[feet]
+4 colors
+8 colors
+12 colors
+figure 24
+colors
+%correctlocalized[x100]
+low connectivity
+high connectivity
+figure 23
+sparse connectivity experiment
+0
+10
+20
+30
+40
+50
+60
+70
+0 10 20 30 40 50 60 70 80 90 10 11 12
+distance [feet]
+count
+connected
+colors
+localizationerror[feet]
+low connectivity
+high connectivity
+figure 22
+figure 12
+0
+1
+2
+3
+1 2 3 4 5 6 7 8 9 10 11
+experiment number
+count
+false positives
+false negatives
+figure 14
+image processing module 
+acquires high resolution images
+extremely obstructing environments pose significant 
+challenges
+3node
+label-1
+label-2
+label-3
+label-4
+0
+= na +
+iρte−2σr
+πr2
+employing
+finely polished plastic surfaces
+param0
+10
+20
+30
+40
+50
+60
+0 10 20 30 40 50 60 70 80 90
+distance [feet]
+count
+connected
+highaccuracy 3d machine vision metrology
+night time warning
+signs commonly
+multi-path environments pose significant challenges
+image
+processing
+node id matching
+radio model
+recording additional 
+imlight emitter
+sensor node

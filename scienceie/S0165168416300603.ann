@@ -1,0 +1,10 @@
+T1	Process 211 256	generalised cross correlation phase transform
+T2	Process 258 266	GCC-PHAT
+T3	Process 641 648	speaker
+T4	Process 791 814	voice activity detector
+T5	Process 816 819	VAD
+T6	Process 870 883	GCC-PHAT step
+T7	Process 1081 1101	m-th microphone pair
+T8	Process 1211 1224	Kalman filter
+T9	Process 1226 1229	EKF
+T10	Task 1253 1278	audio position estimation

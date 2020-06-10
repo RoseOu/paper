@@ -1,0 +1,10 @@
+games
+game
+player
+queries
+query
+information
+informative
+j
+computation
+compute

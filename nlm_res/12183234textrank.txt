@@ -1,0 +1,10 @@
+strains
+strain
+genes
+gene
+resistance
+resistant
+dna
+st
+integrons
+integron

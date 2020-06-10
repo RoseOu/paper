@@ -1,0 +1,10 @@
+proteins
+yeast
+Gga2p
+Gga1p
+Golgi
+GGA
+Gga
+domain
+interaction
+VHS

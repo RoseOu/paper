@@ -1,0 +1,10 @@
+switch
+thermal
+conductivity
+heat
+mKCC
+calculated
+miniature
+ADR
+performance
+MSSL

@@ -1,0 +1,10 @@
+MGIT
+BACTEC
+assay
+hybridization
+cross-blot
+PCR-reverse
+mycobacterial
+specimens
+M.
+mycobacteria

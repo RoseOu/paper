@@ -1,0 +1,73 @@
+composite web service workloads
+thomas phan wen-syan li
+ibm almaden research center
+650 harry
+workflows
+service providers utilised
+genetic algorithm
+round robin
+random proportional
+greedy
+figure 9
+workflows
+service providers saturated
+genetic algorithm
+round robin
+random proportional
+greedy
+figure 10
+scheduling algorithms
+genetic algorithm
+round robin
+random proportional
+greedy
+figure 3
+scheduling algorithms
+genetic algorithm
+round robin
+random proportional
+greedy
+figure 4
+workflows
+genetic algorithm
+round robin
+random proportional
+greedy
+figure 8
+round robin algorithm spreads requests evenly
+job
+scheduling community measuring elapsed time
+round robin
+algorithm
+10-30 seconds
+service provider completion time
+shared dynamic content
+server clusters
+workflows comprise multiple
+related business processes
+quality driven web services composition
+genetic algorithm
+ga running time
+figure 11
+business
+process
+business
+process
+business
+process
+business
+33
+experimental parameter comment
+workflows 5
+web service composition
+current solutions
+providers make service level
+agreements
+advertised qos
+service agreement
+carrentalservice
+business
+process
+service
+provider
+skyhighairlines

@@ -1,0 +1,10 @@
+reinteractions
+spectra
+charm-quark
+D-mesons
+elliptic
+QGP
+charmed
+scenarios
+slope
+coalescence

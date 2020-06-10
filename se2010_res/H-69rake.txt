@@ -1,0 +1,58 @@
+25th annual
+international acm sigir conference
+building vertical search engines includes data
+crawling
+web 
+communities actively providing valuable ratings
+newly proposed
+vertical image search engine
+formula
+eski = αk ·
+„
+nk · ¯ski
+nk +
+ch
+lei zhang
+leizhang@
+microsoft
+eighth acm
+sigkdd international conference
+photo forums generally require rich 
+metadata
+current commercial image search engines 
+provide
+large-scale
+hypertextual web search engine
+multiple communities
+le chen
+∗
+le
+web-based services
+general terms
+algorithms
+vertical high-quality photo search
+engine
+enjoyable high-quality
+photo search engine
+ke-feng deng
+kefengdeng@hotmail
+zhichun road
+haidian district
+maxmin normalization
+0 5 10 15
+0
+200
+400
+600
+800
+1000
+1200
+1400
+normalized score
+totalnumber
+china
+abstract
+vertical search
+1
+digital cameras save jpeg
+[7] scientific literature digital library

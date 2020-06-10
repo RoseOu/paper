@@ -1,0 +1,12 @@
+access lines
+ecmo = extracorporeal membrane oxygenation
+continuous renal replacement therapy
+abstract
+retrospective chart review evaluated ecmo
+patients experienced inadvertent cannula removal
+crrt = continuous renal replacement therapy
+patients receiving extracorporeal membrane oxygenation
+patients underwent simultaneous prone positioning
+positive end expiratory pressure
+continuous renal replacement therapy
+special mechanical assist devices

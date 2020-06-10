@@ -1,0 +1,25 @@
+distributed information market∗
+joan feigenbaum
+†
+yale university
+department
+lance fortnow
+nec laboratories america
+4 independence
+computer-communication networks-distributed systems
+general terms
+economics
+rahul sami
+§
+yale university
+department
+7th acm sigkdd
+international conference
+technical report social science
+working paper 986
+online
+in-game sports betting markets
+market price satisfies monotonicity properties
+fourth annual acm conference
+euro
+2000 soccer championships experiment

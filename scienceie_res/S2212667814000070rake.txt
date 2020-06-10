@@ -1,0 +1,10 @@
+high quality real-time rotation face detection architecture
+high performance rotated face detection
+suggested face detection device
+creating optimized learning data
+conduct real-time processing
+adaboost learning algorithm
+modified census transform
+proposed hardware structure
+color space converter
+memory controller interface

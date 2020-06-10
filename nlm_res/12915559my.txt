@@ -1,0 +1,10 @@
+cells
+vector
+MLV
+containing
+PBS
+expression
+cell
+using
+RBS
+eGFP

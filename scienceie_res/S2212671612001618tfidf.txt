@@ -1,0 +1,10 @@
+non-fragile
+controller
+feedback
+quadratic
+optimization
+simplifies
+simulation
+LMI
+additive
+variations

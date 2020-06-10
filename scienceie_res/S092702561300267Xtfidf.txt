@@ -1,0 +1,10 @@
+thermodynamic
+solidification
+ternary
+diffusion-governed
+kinetics
+diffusion
+data
+alloys
+online
+ISAT

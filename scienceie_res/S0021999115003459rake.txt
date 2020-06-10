@@ -1,0 +1,10 @@
+electrostatic field analysis
+boundary element method
+analysis-suitable volume discretisation
+fast multipole method [12
+bernoulli-type free-boundary problems
+shape optimisation process
+gradient-based shape optimisation
+shape optimisation
+surface discretisation
+adjoint boundary

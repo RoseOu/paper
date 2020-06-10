@@ -1,0 +1,30 @@
+distributed artificial 
+intelligence-multiagent systems
+general terms
+theory
+topological
+communication constraints ∗
+gauvain bourgne
+shortest path
+lengths connecting
+intermediary restricted hypotheses
+exchange protocol
+longer term issues concern
+imagine evolving topological constraints
+eventual mutual logical consistency
+communication 
+concretely takes place
+exhibited conditions allowing convergence
+argument exchange 
+crucially depends
+intuitively yield interesting results
+comparative effectiveness ratio gain
+previous result essentially shows
+temporaly connex system guarantees
+argumentation process gains efficiency
+requirements concern request sending
+single prefered theory
+arbitrary fixed ranking
+• environmental topology- performances
+aforementionned topological 
+constraints

@@ -1,0 +1,46 @@
+75775 paris cedex 16
+amal el fallah
+segrouchni
+lip6
+distributed artificial
+intelligence-multiagent system
+general terms
+experimentation
+m11 11 0 8 200
+m11 9 20 9 8 200
+m20 20 0 16 450
+xor3 25 28 25 4 200
+xor5 5 10 5 16 180
+xor5 15 20 15 16 600
+simple4-9 19 28 19 4 200
+pb jrip id3 sm 1 sm 10
+m11 88
+incremental multi agent
+concept learner applying
+irrelevant
+3
+disjunctive normal forms
+attributes
+s-1 s-10
+ttt 862/574 // 76
+du
+pr´esident kennedy
+a0 ∧a1 ∧¬a2 ∧d6
+a0 ∧¬a1 ∧
+a2 ∧d5
+a0 ∧¬a1 ∧¬a2 ∧d4
+¬a0 ∧a1 ∧a2 ∧d3
+¬a0 ∧
+a1 ∧¬a2 ∧d2
+¬a0 ∧¬a1 ∧a2 ∧d1
+¬a0 ∧¬a1 ∧¬a2 ∧d0
+concerns 3 address boolean attributes a0
+75116
+paris
+henry soldano
+lipn
+a0 ∧a1 ∧a2 ∧d7
+mutual online concept 
+learning [14]
+mutual online concept
+learning

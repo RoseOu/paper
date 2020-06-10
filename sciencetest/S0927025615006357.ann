@@ -1,0 +1,10 @@
+T2	Process 61 65	XFEM
+T3	Task 87 136	study cyclic deformation and fatigue crack growth
+T4	Material 142 170	nickel-based superalloy LSHR
+T5	Process 288 318	RVE-based finite element model
+T6	Process 453 490	crystal plasticity constitutive model
+T7	Material 563 595	user-defined material subroutine
+T8	Material 597 601	UMAT
+T9	Material 646 652	ABAQUS
+T10	Process 706 729	finite element analyses
+T13	Process 880 914	calibrated crystal plasticity UMAT

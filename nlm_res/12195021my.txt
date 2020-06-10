@@ -1,0 +1,10 @@
+gene
+SAGE
+expression
+different
+tags
+sequences
+Genie
+known
+many
+data

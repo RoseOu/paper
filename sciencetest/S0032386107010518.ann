@@ -1,0 +1,10 @@
+T1	Material 120 139	functional polymers
+T2	Task 260 286	macromolecular engineering
+T3	Process 295 309	polymerization
+T4	Material 420 439	telechelic polymers
+T5	Material 446 478	polymers with defined chain-ends
+T6	Process 531 567	atom transfer radical polymerization
+T7	Process 579 584	CuAAC
+T8	Material 0 39	Copper-catalyzed Huisgen cycloadditions
+T9	Process 569 573	ATRP
+T10	Process 1255 1280	nucleophilic substitution

@@ -1,0 +1,10 @@
+fretting
+LSMB
+coefficient
+displacement
+loops
+load
+friction
+piezoelectric
+quasi-stationary
+flexures

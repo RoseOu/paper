@@ -1,0 +1,10 @@
+cell
+fusion
+nectin-2
+receptor
+CHO
+HSV-1
+gD1
+HSV-2
+cells
+glycoproteins

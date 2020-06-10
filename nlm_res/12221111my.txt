@@ -1,0 +1,10 @@
+cells
+growth
+budding
+bud
+haploid
+mutant
+|
+cell
+using
+distal

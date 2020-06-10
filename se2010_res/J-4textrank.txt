@@ -1,0 +1,10 @@
+q
+revenue
+bids
+auctions
+auctioning
+auctioneer
+advertisers bid
+ranking
+ranks
+rank

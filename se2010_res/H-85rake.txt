@@ -1,0 +1,65 @@
+predicting web search result preferences
+eugene agichtein
+microsoft research
+eugeneag@microsoft
+9
+1
+1 2 3 5 10
+result position
+relativeclickfrequency
+ptr=1
+ptr=2
+ptr=3
+ptr=5
+ptr=10
+background
+figure 3
+16
+1 2 3 5 10
+result position
+correctedrelativeclickfrequency
+ptr=1
+ptr=2
+ptr=3
+ptr=5
+ptr=10
+figure 3
+query
+browsing features
+timeonpage page dwell time
+cumulativetimeonpage cumulative time
+robert ragno
+microsoft research
+rragno@microsoft
+susan dumais
+microsoft research
+sdumais@microsoft
+eric brill
+microsoft research
+brill@microsoft
+previous section generate
+orderings based solely
+user interaction data harvested
+recall
+cd+cdiff
+userbehavior
+figure 6
+current web search engine rankings
+provide
+users
+spent reading usenet news articles
+develop robust user behavior interpretation
+models
+potential applications including click spam detection
+unreliable user search session traces
+previously
+published implicit feedback interpretation techniques
+large-scale hypertextual web
+search engine
+making large-scale svm learning practical
+corrected click distribution correlates closely
+search
+timeondomain cumulative dwell time
+short url
+clickthrough features
+position position

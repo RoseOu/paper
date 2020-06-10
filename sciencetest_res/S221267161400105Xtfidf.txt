@@ -1,0 +1,10 @@
+SVM
+maps
+Scale-invariant
+SIFT
+Speeded
+Kinect
+SURF
+Microsoft
+vector
+images

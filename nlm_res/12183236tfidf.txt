@@ -1,0 +1,10 @@
+IDU
+mg/kg/day
+mice
+postinfection
+SCID
+HPMPC
+VV
+smallpox
+|
+mortality

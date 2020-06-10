@@ -1,0 +1,10 @@
+inversion
+CBP
+loxP
+lox71
+Neo
+lox66
+recombinase
+CBPTyr658Ala
+mutant
+plasmid

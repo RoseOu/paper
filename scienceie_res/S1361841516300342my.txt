@@ -1,0 +1,10 @@
+local
+global
+cost
+function
+genetic
+Jomier
+2006
+Probabilistic
+stochastic
+approaches

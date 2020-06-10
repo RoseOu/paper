@@ -1,0 +1,10 @@
+maximum-norm
+loosest
+Inequality
+p-norms
+||y||∞
+2-norm
+1-norm
+optimized
+coefficients
+approximated

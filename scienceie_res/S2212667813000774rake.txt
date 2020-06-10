@@ -1,0 +1,10 @@
+basically population based search procedures efficiently dealing
+complex search spaces
+powerful search mechanism
+stochastic optimization methods
+multiobjective optimization problem
+natural evolution
+highly applicable
+conflicting objectives
+paper reviews
+work carried

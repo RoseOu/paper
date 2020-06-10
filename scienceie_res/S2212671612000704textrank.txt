@@ -1,0 +1,10 @@
+load
+light
+reducing
+overall
+constant
+current
+beam pumping unit
+trigger
+voltage
+changeable

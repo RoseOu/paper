@@ -1,0 +1,10 @@
+3TC
+HTLV-1
+muM
+PBMC
+cultures
+PB-1/MT
+DNA
+concentrations
+proviral
+6.25

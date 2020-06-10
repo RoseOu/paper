@@ -1,0 +1,10 @@
+contigs
+chromosome
+Nipponbare
+genome
+Guangluai
+BAC
+BACs
+sequenced
+clones
+markers

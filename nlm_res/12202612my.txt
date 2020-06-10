@@ -1,0 +1,10 @@
+serotype
+Salmonella
+Brandenburg
+thigh
+organism
+10
+infection
+right
+patient
+found

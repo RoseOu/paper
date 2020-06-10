@@ -1,0 +1,10 @@
+glass
+cullet
+content
+samples
+waste
+bitumen
+include
+stiffness
+modulus
+particles

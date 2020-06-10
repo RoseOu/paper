@@ -1,0 +1,49 @@
+defense advanced
+research projects agency
+[signal processing 
+systems]
+general terms
+algorithms
+air force 
+research laboratory
+wisconsin-madison
+1415 engineering drive
+madison
+air force material command
+land mobile radio services
+sensors
+probability
+ed
+=95%
+ed
+=90%
+ed
+=85%
+ed
+=80%
+figure 5
+sensor
+networks performing target detection
+4
+minimum exposure
+density
+5 sensors
+10 sensors
+15 sensors
+figure 4
+multiple variables problem requires
+wireless ad-hoc sensor
+networks
+collaboration requires
+local processing
+minimum exposure level ed increases
+additive white gaussian
+noise
+constant false alarm rate
+higher order grids change
+[6] sensor information technology website
+suitably fine rectangular grid
+de44
+fictitious fictitious
+threshold = 3
+perform collaborative target detection

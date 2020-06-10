@@ -1,0 +1,102 @@
+1
+103
+cooperate
+defect
+cooperate defectclient
+server
+sc rr /
+sc st / sc pp /
+sc ts /
+figure 2
+request
+7 / -1
+0 / 0
+0 / 0
+0 / 0
+provide
+service
+ignore
+request
+client
+server
+figure 3
+shared
+0
+20
+40
+60
+80
+100
+1k 2k
+short-termhistory
+time
+population
+0
+20
+40
+60
+80
+100
+1k 2k
+time
+figure 13
+106
+0
+1
+2
+3
+4
+5
+6
+0
+50
+100
+150
+200
+250
+300
+350
+400
+meanoverallscore/round
+numplayers
+shared non-sel
+private non-sel
+private selective
+figure 6
+1
+meanoverallscore/round
+turnover
+shared non-sel
+private non-sel
+private selective
+figure 7
+traitors
+population
+0
+20
+40
+60
+80
+100
+1k 2k
+traitors
+defector
+cooperator
+recip
+rs + rc > sc + ts
+1 1
+meanoverallscore/round
+turnover
+stranger cooperate
+stranger defect
+stranger adaptive
+figure 11
+1 1
+meanoverallscore/round
+turnover
+stranger cooperate
+stranger defect
+stranger adaptive
+figure 12
+twelfth international world wide
+web conference

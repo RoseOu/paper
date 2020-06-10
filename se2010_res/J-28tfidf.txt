@@ -1,0 +1,10 @@
+−
+=
+approximation
+knapsack
+≤
++
+VCG
+optimal
+ε
+generalized

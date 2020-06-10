@@ -1,0 +1,14 @@
+photobleaching
+fluorescence resonance energy transfer
+green fluorescent protein
+published literature generally lacks rigorous colocalization analysis
+physiological plc-activating agonists modulate cortical actin dynamics
+potent pip2-binding activity inhibited cell migration
+bisphosphate
+pointspread function
+yellow fluorescent protein
+distinct fluorescent gfp-tagged pleckstrin homology domains
+normalized curves consistently show small offsets
+agonist-induced pip2 hydrolysis inhibits cortical actin dynamics
+--capping protein family including gelsolin
+bright gfp-ph patches reflect local increases

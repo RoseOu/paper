@@ -1,0 +1,10 @@
+robot
+surveillance
+user
+autonomous
+mode
+utilizes
+monitor
+patient
+environment
+paper

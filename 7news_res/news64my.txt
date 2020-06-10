@@ -1,0 +1,10 @@
+million
+3
+show
+expected
+news
+get
+losses
+total
+since
+ABC

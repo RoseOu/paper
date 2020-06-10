@@ -1,0 +1,74 @@
+jp
+abstract
+distributed partially observable markov decision problems
+introduction
+distributed partially observable markov decision problems
+solving transition independent decentralized markov
+decision processes
+pη−1
+l2
+= oη−1
+l2
+ˆpη−1
+l2
+≥ˆrη−1
+distributed artificial 
+intelligencemulti-agent systems
+general terms
+algorithms
+≥ ωl2
+oη−1
+l2
+ˆpη−1
+l2
+ˆvη
+pη−1
+l1
+max
+al2
+ˆpη−1
+l2
+ˆvη
+sη pη−1
+l1
+pη−1
+l2
+pη−1
+pη−1
+l1
+ωl2
+pη−1
+l2
+ˆvη
+pη−1
+l1
+ωl2
+pη−1
+l2
+vη
+defense advanced research projects agency
+defense advanced research projects
+agency
+generating quality guaranteed policies
+pradeep varakantham
+ˆpη−1
+l1
+ˆpη−1
+l2
+pη−1
+pη−1
+l1
+ˆpη−1
+l2
+ˆvη
+pη−1
+l1
+pη−1
+l2
+vη
+distributed sensor nets
+distributed sensor networks
+search tree represent partial/complete joint 
+policies
+global optimal dcop algorithm called dpop[12]
+existing global optimal approach called goa [10]

@@ -1,0 +1,90 @@
+#bids
+min revenue 100 250 500 1000 2000
+arbitrary-npv
+repair ≥ 90% 21 5 3 37 93
+repair ≥ 85% 26 15 40 87 100
+mbb & repair ≥ 90% 41 35 60 94 ≥ 93
+regions-npv
+repair ≥ 90% 30 33 61 91 98
+repair ≥ 85% 50 71 95 100 100
+mbb & repair ≥ 90% 60 78 96 99 ≥ 98
+table 3
+#bids
+min revenue 100 250 500 1000
+arbitrary-npv
+repair ≥ 90% 58 39 51 98
+repair ≥ 85% 86 88 94 99
+mbb & repair ≥ 90% 78 86 98 100
+regions-npv
+repair ≥ 90% 61 70 97 100
+repair ≥ 85% 89 99 99 100
+mbb & repair ≥ 90% 83 96 100 100
+0
+0
+0
+0
+0 0 0
+1
+1 1
+1 1 1 1
+insufficient
+revenue
+insufficient
+revenue
+bid 1
+bid 2
+bid 3
+inertia=0
+inertia=0
+inertia=0
+4
+combinatorial auctions
+∗
+alan holland
+cork constraint computation centre
+department
+187
+0
+0
+0
+1
+1
+bid 1
+bid 2
+bid 3
+insufficient revenue
+inertia=5
+=5
+inertia=0
+=5
+inertia=5
+=5
+1
+6
+0
+0
+0
+1
+1
+bid 1
+bid 2
+bid 3
+insufficient revenue
+inertia=10
+=10
+inertia=10
+=10
+inertia=10
+=10
+1
+8
+sullivan
+cork constraint computation centre
+department
+bids
+average repair solution revenue
+worst-case repair solution revenue
+quantity-discount procurement
+auctions benefit mars incorporated
+computer science
+university college cork

@@ -1,0 +1,110 @@
+dispositions/emotions
+dispositions/emotions
+red
+perspective
+blue
+perspective
+green
+perspective
+pheromone
+irritability
+/anger
+cowardice
+/fear
+irritability
+/anger
+cowardice
+/fear
+irritability
+/anger
+cowardice
+/fearredalive
+avatar
+insertion horizon
+measure ghost fitness
+prediction horizon
+observe ghost prediction
+ghosts
+readpersonality
+readprediction
+entity
+ghost time
+=
+avatar
+insertion horizon
+measure ghost fitness
+prediction horizon
+observe ghost prediction
+ghosts
+readpersonality
+readprediction
+entity
+figure 3
+bee
+pheromone
+flavor
+description
+redalive
+redcasualty
+bluealive
+bluecasualty
+greenalive
+greencasualty
+emitted
+environment
+beliefs
+desires
+goal emotion
+disposition
+state process
+analysis
+action
+perception
+appraisal
+rational emotive
+figure 2
+raid h0 staff h0 raid h15 staff h15
+100
+200
+300
+400
+500
+figure
+la simulation de systèmes multi-agents
+steve brophy
+newvectors llc
+3520 green court
+evolving adaptive pheromone path planning 
+mechanisms
+outils pour la 
+modélisation
+prob50 100 150 200 250 300
+bee median error
+50
+100
+150
+200
+250
+300
+glnaidemrorre
+figure 7
+enhance agent mobility
+redthreat
+bluethreat
+determined
+defense
+advanced research projects agency
+elevated
+level anger increases movement likelihood
+system successfully detects 
+deliberately played emotions
+emotive personality model
+ghost time
+=
+section 2 reviews relevant previous work
+ai
+agent theory commonly describes
+distributed artificial 
+intelligence- multiagent systems
+multiple
+interacting agents based solely

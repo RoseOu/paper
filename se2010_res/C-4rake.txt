@@ -1,0 +1,58 @@
+volp
+henning sanneck
+gmd fokus
+nguyen tuong long le
+gmd fokus
+kaiserin-augusta-allee 31 kaiserin-augusta-allee 31
+d-
+packet
+marking scheme called speech property-based selective 
+differential packet marking
+packet marking scheme called speech
+property-based selective differential packet marking
+pi
+pi
+[31
+pi
+[51
+pi
+[71
+pi
+pi
+wi
+wi
+conjugate structure algebraic code
+excited linear prediction
+p31
+pi
+p51
+wi
+p71
+p31
+linear prediction synthesis filter memo
+ries
+perfo rmed informal listening tests
+gmd fokus / telecommunication networks group
+mbsd
+scaling noise masking threshold
+include related inter-flow loss protection schemes
+selective marking
+scheme performs
+combined intra-flow end-to-end / hopby-hop schemes
+de
+adam wolisz
+technical university berlin
+conventional
+red average queue size avg
+approximately geometrically decreasing
+burst loss probability
+systems--modeling
+techniques
+general terms
+design
+includes loss
+run-length occurences larger
+code excited
+linear prediction
+successful packet arrivals
+occur rarely

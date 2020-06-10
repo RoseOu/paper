@@ -1,0 +1,10 @@
+T1	Material 0 16	Thin MIEC layers
+T2	Material 20 23	GDC
+T3	Material 28 32	STFO
+T4	Material 36 69	single-crystalline YSZ substrates
+T5	Material 86 105	H2/H218O atmosphere
+T6	Task 149 176	tracer exchange experiments
+T7	Process 75 105	exposed to H2/H218O atmosphere
+T8	Material 178 230	Rectangular noble metal thin film current collectors
+T9	Process 236 279	deposited on top and beneath the MIEC layer
+T10	Material 269 279	MIEC layer

@@ -1,0 +1,44 @@
+1 word concepts 2 word concepts 3 word concepts
+telescope hubble telescope hubble space telescope
+hubble space telescope hubble telescope space
+space hubble space space telescope hubble
+mirror telescope mirror space telescope nasa
+nasa telescope hubble hubble telescope astronomy
+launch mirror telescope nasa hubble space
+astronomy telescope nasa space telescope mirror
+shuttle telescope space telescope space nasa
+test hubble mirror hubble telescope mission
+nasa hubble mirror mirror mirror
+discovery telescope astronomy space telescope launch
+time telescope optical space telescope discovery
+universe hubble optical shuttle space telescope
+optical telescope discovery hubble telescope flaw
+light telescope shuttle
+concept
+telescope space nasa
+concept hubble telescope flaw
+mirror mirror mirror
+query hubble telescope achievements
+query hubble telescope
+achievements
+hubble space
+table 4
+pseudoname description # docs train
+topics
+test
+topics
+wsj wall st
+hubble telescope
+vector space model
+parameter space
+telescope flaws
+term mirror appearing
+word concepts chosen
+word concepts constructed
+word concepts
+word
+concepts
+markov random fields
+donald metzler
+metzler@cs
+highly accurate query performance prediction system

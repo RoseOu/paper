@@ -1,0 +1,11 @@
+genes encoding intermediate filament proteins
+multiparameter cellular localization predictive tool
+mesh terms havesimilar predictive capabilities
+manual check involved homology searches
+single-linkage clustering efficiently grouped proteins
+combines rigorous sequence homology comparison
+chi-square test results
+data collection
+current annotation identified 1443 transcriptional factors
+gene ontology consortium web site
+nuclear localization signal affects

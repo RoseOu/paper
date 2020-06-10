@@ -1,0 +1,24 @@
+three-cycle properties
+imply triangle equality ρab +ρbc = ρac
+computer science
+rutgers university
+110 frelinghuysen road
+piscataway
+mathematics
+rutgers university
+110 frelinghuysen road
+piscataway
+ρab + ρbc + ρca = −ρba − ρcb − ρac = 0
+electronic 
+commerce-payment schemes
+general terms
+theory
+incentive
+compatible multi unit combinatorial auctions
+δab = −δba = δbc =
+−δcb = δca = −δac = −1
+negative cycle δab +
+δbc + δca = −3
+truthful social choice functions called affine maximizers
+=1
+ρaiai+1 + ρaka1 = ρa1ak + ρaka1 = 0

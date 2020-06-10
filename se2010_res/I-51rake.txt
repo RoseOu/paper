@@ -1,0 +1,79 @@
+d1
+sponge
+spikulate
+skeleton
+external
+features
+external features
+gemmules
+979
+sponge
+spikulate
+skeleton
+external
+features
+external features
+gemmules
+sponge
+75
+77
+79
+81
+83
+85
+87
+89
+91
+2 3 4 5
+amal
+voting
+individual
+soybean
+55
+60
+65
+70
+75
+80
+85
+90
+2 3 4 5
+amal
+voting
+individual
+figure 5
+977
++ +
++
++
++
++
+cognitive computing lab
+georgia institute
+multi-agent systems
+santi ontañón
+ccl
+spikulate skeleton
+megascleres
+uniform length
+avoid
+giving excessively high confidences
+incorporating eager 
+inductive learning inside
+argumentation-based joint deliberation involves discussion
+logic-based argumentation
+frameworks assume agents
+artificial intelligence research institute
+csic
+ga 303322/0280
+santi@cc
+5 10-fold cross validation runs
+support argumentation include defeasible
+logic [4]
+umass computer science department
+scientific research
+campus uab
+single solution class lid terminates
+deductive logic
+formalism specifically designed
+external features

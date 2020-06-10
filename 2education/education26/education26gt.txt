@@ -1,0 +1,6 @@
+crop
+plants
+seeds
+diet
+field
+short lived

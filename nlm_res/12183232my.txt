@@ -1,0 +1,10 @@
+INH
+resistance
+strains
+tuberculosis
+M.
+susceptibility
+medium
+antibiotic
+induced
+mg/liter

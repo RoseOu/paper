@@ -1,0 +1,29 @@
+∗
+vincent conitzer
+carnegie mellon university
+computer science department
+5000 forbes avenue
+pittsburgh
+tuomas sandholm
+carnegie mellon university
+computer science department
+5000 forbes avenue
+pittsburgh
+recherches sur les principes
+math´ematiques de la
+x1 + x2 = 1
+5x1 + 2x2 ≤ 3
+7x1 − 2x2 ≤ 2
+maximize 2x1 + x2
+subject
+np-hard
+1-type follower follower action
+bayesian
+zur theorie der gesellschaftsspiele
+np-hard np-hard
+1-type follower
+bayesian
+two-player zero-sum imperfect information games
+np-hard np-hard
+1-type leader
+bayesian

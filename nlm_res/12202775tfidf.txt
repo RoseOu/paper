@@ -1,0 +1,10 @@
+nsSNPs
+SNPs
+PolyPhen
+protein
+amino
+database
+parameters
+proteins
+deleterious
+SNP

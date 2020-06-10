@@ -1,0 +1,10 @@
+bid
+1
+clicks
+budget
+problem
+queries
+strategy
+keywords
+set
+search

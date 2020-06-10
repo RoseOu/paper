@@ -1,0 +1,39 @@
+static local bidders
+variance
+ng = 5
+ng = 10
+ng = 15
+figure 3
+approach yields provably optimal bidding strategies
+10 global bidders
+takes roughly 30 seconds
+optimal bidding 
+strategies remains unchanged
+concurrent auctions running worldwide selling
+three-object two-bidder
+simultaeous auctions
+theoretical analysis proves 
+difficult
+global
+bidder potentially leads
+arbitrarily small bid
+compared
+symmetric mixed equilibrium
+strategies
+perfectly substitutable goods
+enrico
+mixed strategy nash equilibrium
+economics
+general terms
+economics
+1
+market maximises social welfare
+obtained social welfare proportional
+pure 
+symmetric nash equilibrium
+significantly
+increase computation speed
+optimal
+global bid consist
+single global bidder carry
+arbitrarily small strictly positive

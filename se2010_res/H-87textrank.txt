@@ -1,0 +1,20 @@
+topic
+tdt
+non topics
+document
+parameter optimization
+optimizing
+optimize
+optimized
+optimal
+rocchio
+threshold
+thresholds
+trec
+evaluation
+evaluated
+evaluating
+performed
+perform
+ctrk
+test documents

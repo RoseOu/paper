@@ -1,0 +1,10 @@
+yeast
+DHFR
+carinii
+P.
+assay
+enzyme
+drug
+human-derived
+drugs
+strain

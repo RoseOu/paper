@@ -1,0 +1,10 @@
+T1	Process 0 50	Three-dimensional digital subtraction angiographic
+T2	Process 52 58	3D-DSA
+T3	Process 83 103	cerebral angiography
+T4	Process 144 156	embolization
+T5	Task 227 275	creating a 3D model of the target vessel segment
+T6	Process 306 337	standard triangulation language
+T7	Process 339 342	STL
+T8	Material 383 400	triangular meshes
+T9	Material 202 212	DICOM file
+T10	Process 407 423	3D visualization

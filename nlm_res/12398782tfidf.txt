@@ -1,0 +1,10 @@
+t-test
+haemoglobin
+=
+unpaired
+data
+arterial
+hypothesized
+g/dl
+venous
+goal-directed

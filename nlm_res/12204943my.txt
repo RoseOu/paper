@@ -1,0 +1,10 @@
+patients
+test
+VL
+used
+diagnosis
+parasite
+antigen
+blood
+sensitivity
+culture

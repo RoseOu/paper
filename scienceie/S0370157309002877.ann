@@ -1,0 +1,10 @@
+T1	Process 103 125	cardiovascular signals
+T2	Process 146 168	oscillatory components
+T3	Process 229 236	periods
+T4	Process 238 249	frequencies
+T5	Process 285 307	heart rate variability
+T6	Process 309 312	HRV
+T7	Process 390 412	statistical approaches
+T8	Task 369 419	introduce one of the statistical approaches to HRV
+T9	Task 455 510	understand the variability of the cardiovascular system
+T10	Material 622 646	physiological components

@@ -1,0 +1,78 @@
+_
+_
+dsba
+dsba
+drelpdr
+ccc
+ccc
+++
++
+==
+22110
+22110
+^
+1
+iciicii
+iciicii
+ic
+dssdss
+dssdss
+ds
+ααα
+ααα
++++
+++
+=
+min avg max min avg max
+trec123 3
+trec
+topic set
+trec
+topic field
+average length
+compute science
+carnegie mellon university
+pittsburgh
+doc rank
+cori redde uum/hr uum/hp-fl uum/hp-vl
+5 docs 0
+resource
+selection
+luo si
+language technology inst
+25th annual international
+acm sigir conference
+23rd annual
+international acm sigir conference
+25th annual international acm sigir conference
+26th annual international acm sigir conference
+jamie callan
+language technology inst
+early distributed
+information retrieval research focused
+heterogeneous multimedia federated digital
+libraries
+maxarg
+*10
+^
+*
+yktosubject
+drzkyiselk
+kj
+ij
+conclusion
+distributed information retrieval solves
+finer non-parametric linear
+interpolation method
+sampled centralized document score list
+{sc
+*
+*10
+^
+*
+zyiseldrzkyiselif
+kj
+ij −>+−−−
+≤
+20th acm-sigmod
+international conference

@@ -1,0 +1,10 @@
+T1	Process 271 295	laser-driven plasma wave
+T2	Process 317 344	high-intensity laser pulses
+T5	Task 869 901	Stern–Gerlach-type contributions
+T3	Material 202 210	electron
+T7	Material 737 782	high electric field gradient of a plasma wave
+T9	Process 25 44	Stern–Gerlach force
+T10	Process 85 115	electromagnetic field gradient
+T12	Material 513 529	plasma electrons
+T13	Material 420 433	density waves
+T14	Material 354 372	longitudinal waves

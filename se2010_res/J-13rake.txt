@@ -1,0 +1,44 @@
+hypertree decompositions
+[extended abstract]
+georg gottlob
+computing laboratory
+oxford university
+ox1 3qd oxford
+uk
+gianluigi greco
+dipartimento di matematica
+university
+royal society 
+wolfson research merit award
+set v2
+{h1} = v2
+{h2} = v2
+{h3} =
+v2
+{h4} = 1
+solving concisely expressed
+combinatorial auction problems
+recognizing bounded-width structured item graphs
+computing structured item
+graphs efficiently
+contract net
+protocol based
+-width strict hypertree decomposition2
+set v4
+{h2} = v4
+{h4} = 1
+approximately efficient
+160
+combinatorial auctions
+study structured item graphs
+constructing structured item graphs
+k-width
+strict hypertree decompositions
+called structured item graphs
+design practically efficient algorithms
+called winner determination problem
+k-width
+strict hypertree decomposition
+complete k-width
+hypertree decomposition
+structure [3]-formally bounded treewidth [16]

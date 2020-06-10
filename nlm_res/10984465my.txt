@@ -1,0 +1,10 @@
+software
+recognition
+speech
+dictation
+medical
+study
+|
+IBM
+packages
+products

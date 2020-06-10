@@ -1,0 +1,45 @@
+idf idf idf
+idf idf idf idf
+α
+α
+=
+=
+word similarity
+term-based model
+run passage aspect document
+map imprvd qs #
+domain-specific knowledge
+run passage aspect document
+map imprvd qs #
+genome
+inform ser workshop genome inform
+pseudo-feedback
+run passage aspect document
+map imprvd qs #
+bmc
+med inform decis mak
+basic conceptual
+ir model significantly outperforms
+conceptual ir model yields
+significant improvements
+proc amia annu fall symp
+passage map aspect map document map
+implicitly related concepts provided
+similar degrees
+semantic types represent general biomedical knowledge
+mad cow disease[text word]
+gene
+selected top ranked implicitly related concepts
+term pubmed translation
+mad cow
+disease
+proposed conceptual retrieval model
+yields
+baseline
+= basic conceptual ir model
+0
+nist
+special publication 500-246
+purely term-based retrieval model
+basic
+conceptual ir model

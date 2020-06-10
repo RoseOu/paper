@@ -1,0 +1,89 @@
+mgmt
+editorworker
+databasemessageworker
+sessionmanager
+messagehandler
+connectionlistener
+serviceclass
+messagequeue
+tdb
+indexupdate
+nextupdatein
+hasindexed
+isrunningbyos
+lastupdate
+enabled
+timestamp
+time
+accessmatrix
+read option
+grand option
+write option
+read option
+grand option
+write option
+ends
+authors
+arehas
+description
+password
+picture
+usercolors
+userlistsecurity
+/ inserted
+regularchar
+startchar endchar
+file
+externalfile
+unknown source
+show intra document
+lineage information
+optionssettings
+show information show warningsshow exceptions
+document creation process enables
+sophisticated document management
+text editing creation time meta data model
+present collaborative database-based real-time
+word processing
+elementpath
+createdat
+timestamp
+<< describes
+spiderbuild
+text
+editing creation time meta data
+ad-hoc
+automatic real-time bidirectional communication
+tests
+1
+*
+1
+*
+1 *
+1
+*
+1*
+1
+*
+editors datenbanksystem 1
+2
+1
+*
+1
+*
+1
+*
+tcp/ip
+figure 4
+distributed applications
+general terms
+management
+supports
+pervasive collaborative text editing
+managing system
+stefania leone thomas
+offers sophisticated document
+management facility
+embedded 
+real46
+time server component

@@ -1,0 +1,10 @@
+micro
+fit
+velocity
+macro
+using
+16
+order
+polynomial
+least-squares
+data

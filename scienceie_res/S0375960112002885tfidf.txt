@@ -1,0 +1,10 @@
+O2
+cluster
+Si12
+molecule
+adsorption
+dissociate
+First-principles
+W-encapsulated
+prism
+oxidation

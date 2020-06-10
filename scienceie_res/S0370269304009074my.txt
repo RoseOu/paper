@@ -1,0 +1,10 @@
+metric
+universe
+black
+Schwarzschild
+McVittie
+expanding
+exactly
+study
+derive
+solution

@@ -1,0 +1,10 @@
+patients
+readmission
+discharge
+general
+medical
+consultant
+study
+Dr
+outpatient
+patient

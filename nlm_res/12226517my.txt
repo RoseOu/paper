@@ -1,0 +1,10 @@
+kinase
+STY
+protein
+|
+peanut
+using
+antibodies
+1
+kinases
+expression

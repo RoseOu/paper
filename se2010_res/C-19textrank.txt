@@ -1,0 +1,20 @@
+protocols
+modules
+module
+protocol frameworks
+events
+event
+stacks
+stack
+framework
+p
+service
+services
+communication
+communicate
+communicates
+communicating
+implementing
+implementation
+implemented
+implementations

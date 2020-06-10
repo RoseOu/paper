@@ -1,0 +1,10 @@
+strain
+approach
+element
+crack
+used
+crack-band
+damage
+stress–inelastic
+law
+mesh

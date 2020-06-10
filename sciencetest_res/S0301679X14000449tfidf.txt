@@ -1,0 +1,10 @@
+ceramics
+RH
+wear-mode
+plowing
+powder
+SiC
+Si3N4
+parameter
+Fig
+friction

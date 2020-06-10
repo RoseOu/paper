@@ -1,0 +1,10 @@
+T1	Process 205 238	model of the smallest thicknesses
+T3	Material 268 274	sample
+T4	Process 317 349	partitioning the inspection data
+T5	Material 334 349	inspection data
+T6	Material 367 387	equally sized blocks
+T7	Material 397 402	block
+T10	Process 622 644	Extreme value analysis
+T11	Process 646 649	EVA
+T12	Process 883 921	generalized extreme value distribution
+T13	Process 923 927	GEVD

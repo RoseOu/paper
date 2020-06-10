@@ -1,0 +1,10 @@
++-
+sleep
+retention
+daytime
+<
+=
+intervals
+wakefulness
+retrieval
+>

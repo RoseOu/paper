@@ -1,0 +1,10 @@
+enlarged critical time step compensates
+slightly increased numerical cost
+non-physical penalty energy functions
+assumed continuous deformation gradients
+spurious low-energy modes
+w2 variants including
+nodally integrated tetrahedron
+restoring force assembly
+additional bubble mode
+element types c3d_8n_27c

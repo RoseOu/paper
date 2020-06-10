@@ -1,0 +1,10 @@
+HPC
+Cloud
+applications
+environments
+Performance
+Computing
+heterogeneous
+scalability
+efﬁciency
+EC2

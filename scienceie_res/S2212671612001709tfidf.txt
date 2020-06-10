@@ -1,0 +1,10 @@
+subdivision
+algorithm
+surface
+multi-axis
+tool-path
+deformed
+deformation
+inversely
+machining
+computational

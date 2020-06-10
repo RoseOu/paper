@@ -1,0 +1,10 @@
+-ata aac aat gag aca ata-3
+-tat ttg tta ctc tgt tat-5
+-32p labeled 30-mer synthetic u5-pbs rna template annealed
+human immunodeficiency virus type-1 reverse transcriptase
+complementary pre-kinased 18-mer synthetic dna oligos
+heteropolymeric synthetic u5-pbs hiv-1 dna templates primed
+p66ins/p51ins mutant exhibited residual primer extension capability
+synthetic 49-mer u5-pbs dna templates primed
+reaction mixture contained labeled rna-dna hybrid
+p66ins/p51wt mutant revealed major polymerase activity peaks

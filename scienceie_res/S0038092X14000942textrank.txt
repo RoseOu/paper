@@ -1,0 +1,10 @@
+simulated
+simulations
+window
+simulation physical conditions
+direct solar
+temperatures
+temperature water
+ambient
+incident
+segment

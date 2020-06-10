@@ -1,0 +1,10 @@
+T1	Material 19 34	noble gas atoms
+T2	Process 62 73	fuel matrix
+T3	Process 10 17	fission
+T4	Process 100 124	point defects trap sites
+T5	Process 150 177	Schottky trivacancy defects
+T6	Process 188 197	Diffusion
+T7	Material 208 215	bubbles
+T8	Material 219 235	grain boundaries
+T9	Material 281 288	uranium
+T10	Material 312 320	gas atom

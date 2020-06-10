@@ -1,0 +1,74 @@
+40%
+50%
+60%
+70%
+st
+qlt
+qlu
+st
+qlt
+qlu
+st
+qlt
+qlu
+st
+qlt
+qlu
+st
+qlt
+qlu
+relativedifferencetonaturalorder
+documents size
+ranking
+engine
+crawling engine
+indexing engine
+engine
+lexicon meta data
+engine
+engine
+snippet
+term&doc#
+web search
+andrew turpin &
+yohannes tsegay
+rmit university
+melbourne
+early web search engines presented query-independent
+snippets consisting
+au
+david hawking
+csiro ict centre
+canberra
+snippetperdoc
+web
+query engine
+query results page
+term#
+sun
+fire v210 server running solaris 10
+document meta data
+terms
+querystring
+term#
+doc processed seek read score & decode
+100% 45 4 21
+50% 45 4 11
+table 3
+lexicon engine maps query terms
+ranking engine retrieves inverted lists
+web search
+engines employ ranking methods
+large-scale
+hypertextual web search engine
+meta data engine fetches
+model realistic query arrival sequences
+generate single snippet excluding seek time
+caching documents avoids seek costs
+document
+wt10g wt50g wt100g
+baseline 75 157 183
+cts 38 70 77
+reduction
+infer snippet generation time comparable
+semistatic approach involves mapping words

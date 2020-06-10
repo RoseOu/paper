@@ -1,0 +1,10 @@
+mug/ml
+strains
+erythromycin
+rRNA
+gonorrhoeae
+mutations
+azithromycin
+alleles
+23S
+mtrR

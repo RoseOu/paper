@@ -1,0 +1,10 @@
+30% total sentence alignment error rate decreasing
+kernel extensional matrix matching
+sentence alignment model based
+bilingual sentences calculated
+experimental results illustrated
+sentence aligning
+sentence alignments
+similarity matrix
+select matrix
+model outperforms

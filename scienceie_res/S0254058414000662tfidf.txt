@@ -1,0 +1,10 @@
+ylides
+favorable
+adducts
+ylidepyrene
+HOMO–LUMO
+pyrene
+1,3-DC
+pyridinium
+HOMOylide–LUMOylide–pyrene
+coefficients

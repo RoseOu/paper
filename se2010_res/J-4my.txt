@@ -1,0 +1,10 @@
+revenue
+q
+1
+equilibrium
+=
+''
+bidders
+relevance
+0
+bids

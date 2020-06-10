@@ -1,0 +1,10 @@
+SNPs
+PolyPhen
+nsSNPs
+database
+protein
+human
+sequence
+structural
+amino
+acid

@@ -1,0 +1,10 @@
+discretisation
+spatial
+angular
+phase-space
+discretised
+Sprinkler
+48,49,20
+Boltzmann
+4000km×4000km
+monochromatic

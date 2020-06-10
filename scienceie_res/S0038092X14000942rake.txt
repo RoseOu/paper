@@ -1,0 +1,10 @@
+performed assuming direct solar radiation intensities
+direct solar radiation intensity
+increasing direct solar radiation
+direct incident solar radiation
+simulation physical conditions listed
+horizontal window segment based
+water flow rate
+water inlet temperature
+set ambient temperature
+solar cells

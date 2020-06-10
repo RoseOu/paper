@@ -1,0 +1,20 @@
+resources
+coordinate resource
+services
+service
+distributed
+distribution
+class
+classes
+grids
+grid
+level
+levels
+didsog
+integrating
+integration
+integrated
+integrates
+integrate
+idss
+data

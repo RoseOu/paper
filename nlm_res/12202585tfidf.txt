@@ -1,0 +1,10 @@
+AFLP
+phage
+fragments
+serovar
+Typhimurium
+isolates
+DNA
+typing
+plasmid
+phages

@@ -1,0 +1,10 @@
+CYP76B1
+P450
+reductase
+herbicide
+yeast
+chlortoluron
+isoproturon
+tolerance
+|
+HTR1

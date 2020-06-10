@@ -1,0 +1,10 @@
+producing mesh independent load
+mesh size independent load
+element length dependent zone [5]
+produce mesh independent load
+inelastic strain law shown
+maximum tensile principal strain
+mesh size dependent
+inelastic strain law
+finite element analysis
+inelastic displacement law

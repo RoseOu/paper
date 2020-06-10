@@ -1,0 +1,10 @@
+objectives
+fitness
+optimization
+procedure
+SPEA
+different
+minimum
+function
+local
+models

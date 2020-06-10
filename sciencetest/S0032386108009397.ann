@@ -1,0 +1,10 @@
+T2	Process 4 25	viscoelastic behavior
+T3	Material 29 39	elastomers
+T1	Task 111 158	characterize the dynamics of the polymer chains
+T5	Process 483 501	constraint release
+T4	Material 344 357	polymer melts
+T6	Task 659 683	control of the mesh size
+T8	Material 893 909	precursor chains
+T11	Material 284 297	polymer chain
+T12	Material 596 618	crosslinked elastomers
+T13	Material 969 984	PDMS elastomers

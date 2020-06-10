@@ -1,0 +1,79 @@
+289
+topology 
+classification
+client-stub stub-stub transit-stub transit-transit
+low bandwidth 300-600 500-1000 1000-2000 2000-4000
+medium bandwidth 800-2800 1000-4000 1000-4000 5000-10000
+high bandwidth 1600-5600 2000-8000 2000-8000 10000-20000
+table 1
+12 10 2
+27
+7
+2
+18
+19
+40
+1
+workingset
+14
+42
+17
+33
+38
+15
+12
+p1
+33
+29
+28
+44
+57
+15
+p2
+22
+28
+45
+61
+14
+51
+pn…
+…
+summary ticket
+minminmin
+10
+2
+figure 3
+oﬄine greedy bottleneck bandwidth tree algorithm
+high bandwidth overlay data streaming takes
+place
+simple bandwidth optimizing overlay
+tree construction based
+oﬄine algorithm overlay delivers approximately
+400 kbps
+greedy oﬄine bottleneck bandwidth
+tree
+treebased algorithms perform considerably worse
+platform supports approximately 2-3 gbps
+degree-constrained online bandwidth overlay tree algorithm
+1 finding overlay peers
+ransub periodically delivers subsets
+simple greedy oﬄine 
+algorithm
+senders = 7mod = 2
+low
+high
+time
+00000000000000000000000000000000001111111111111111111111111111111111
+figure 4
+random
+trees exhibit qualitatively similar behavior
+compact takes multiple 
+fixedsize subsets
+comparisons qualitatively show algorithmic
+differences
+popular peer-to-peer file 
+swapping network
+oﬄine bottleneck bandwidth algorithm
+ransub collects descendant counts di
+table 1 
+describes representative bandwidth settings

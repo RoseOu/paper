@@ -1,0 +1,10 @@
+wafers
+HfO2
+measurements
+deposited
+Al2O3
+Keithley
+samples
+oxide
+frequency
+p-type

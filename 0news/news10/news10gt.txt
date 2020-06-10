@@ -1,0 +1,9 @@
+country nation
+families
+young
+democratic
+hard
+law
+fight
+justice
+immigrate

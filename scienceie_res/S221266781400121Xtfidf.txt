@@ -1,0 +1,10 @@
+algorithm
+graph-based
+Sense
+Disambiguation
+wordnet
+WordNet
+plWordNet
+corpus-derived
+Semantic
+Relatedness

@@ -1,0 +1,10 @@
+solved large deformation contact problems
+conserving scheme improves numerical stability
+momentum-conserving temporal discretization scheme  [46]
+momentum conserving algorithm
+normal contact constraint
+adhesive contact problems
+finite element method
+remove penalty sensitivity
+node-to-segment contact method
+determine penalty parameters

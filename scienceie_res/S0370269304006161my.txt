@@ -1,0 +1,10 @@
+Fermi
+absorption
+cross
+section
+energies
+model
+Coulomb
+calculation
+nuclear
+use

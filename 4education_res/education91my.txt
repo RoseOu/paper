@@ -1,0 +1,10 @@
+trees
+colour
+change
+light
+use
+new
+pigment
+purple
+avoid
+leaves

@@ -1,0 +1,10 @@
+thresholding
+Otsu
+gray
+algorithm
+histogram
+Robust
+recognizing
+segmenting
+modal
+non-bimodal

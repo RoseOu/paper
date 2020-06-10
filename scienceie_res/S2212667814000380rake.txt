@@ -1,0 +1,10 @@
+parametric study involving finite element analysis
+web post element
+plastic analysis
+elastic analysis
+cellular beam
+tee sections
+software ansys
+beam section
+ultimate loads
+serviceability loads

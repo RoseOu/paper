@@ -1,0 +1,10 @@
+Hfq
+protein
+residues
+proteins
+amino
+beta4
+structure
+motif
+conserved
+E.coli

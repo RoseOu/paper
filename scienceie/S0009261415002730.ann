@@ -1,0 +1,9 @@
+T2	Process 44 61	bent conformation
+T4	Process 359 395	defined rotation of the octyl chains
+T6	Process 531 564	twist of the first CC single bond
+T8	Process 939 952	dense packing
+T9	Process 16 34	structure solution
+T1	Material 306 330	linearly extended chains
+T11	Process 837 870	combined MD and VASP calculations
+T12	Material 733 752	rotated side chains
+T13	Material 103 116	DOTT molecule

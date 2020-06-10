@@ -1,0 +1,122 @@
+dead-reckoning based distributed
+multi-player games
+sudhir aggarwal hemant banavar
+department
+seconds
+1/3 base case
+deterministic algorithm
+probabilistic algorithm
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+15950 16000 16050 16100 16150 16200 16250 16300
+standarddeviationofaccumulatederror
+time
+seconds
+1/3 base case
+deterministic algorithm
+probabilistic algorithm
+0
+50
+100
+150
+200
+250
+300
+16960 16980 17000 17020 17040 17060 17080 17100 17120 17140 17160 17180
+standarddeviationofaccumulatederror
+time
+seconds
+1/3 base case
+deterministic algorithm
+probabilistic algorithm
+figure 5
+seconds
+1/3 base case
+deterministic algorithm
+probabilistic algorithm
+figure 6
+seconds
+base case
+scheduling algorithm #1
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+15950 16000 16050 16100 16150 16200 16250 16300
+standarddeviationofaccumulatederror
+time
+equality
+ei +
+t1+dti+δi
+t1+dti
+dist
+equation
+e1 = e2 +
+t1+dt2+δ2
+t1+dt2
+dist
+dt = r0
+2 +
+t1+δ2+dt2
+t1
+dist
+dt = e2 +
+t1+dt2+δ2
+t1+dt2
+dist
+r0
+1 +
+t1+δ1+dt1
+t1
+dist
+seconds
+base case
+scheduling algorithm #1
+figure 4
+computer science
+florida state university
+dr vectors include quadratic dr vectors
+denote r0
+2 +
+t1+dt2
+t1
+dist
+dt =
+r0
+2 +
+t1+dt2
+t1
+dist
+denote r0
+1 +
+t1+dt1
+t1
+dist
+dt +
+t1+dt2+δ2
+t1+dt2
+dist
+e1 +
+t1+dt1+δ1
+t1+dt1
+dist
+distributed 
+systems-distributed applications
+general terms
+algorithms

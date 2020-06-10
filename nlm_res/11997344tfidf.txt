@@ -1,0 +1,10 @@
+Fugu
+genes
+zebrafish
+contig
+20q
+contigs
+mapping
+synteny
+duplicated
+orthologs

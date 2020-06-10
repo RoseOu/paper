@@ -1,0 +1,10 @@
+viscosity
+PEDOT
+shear
+frequencies
+PSS
+measured
+:
+Equilibrium
+21°C
+SITA

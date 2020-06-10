@@ -1,0 +1,10 @@
+LSTAT
+patient
+equipment
+care
+patients
+transport
+clinicians
+room
+recovery
+physiologic

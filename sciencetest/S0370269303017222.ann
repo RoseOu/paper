@@ -1,0 +1,10 @@
+T1	Process 7 16	bag model
+T2	Process 43 74	oscillator confining potentials
+T3	Process 220 256	Pairwise spin-dependent interactions
+T4	Process 274 288	level ordering
+T5	Process 312 335	color-spin interactions
+T6	Process 368 392	flavor-spin interactions
+T7	Process 431 453	q3 color wave function
+T8	Process 476 509	flavor-spin-orbital wave function
+T9	Material 540 546	quarks
+T10	Process 566 591	flavor-spin wave function

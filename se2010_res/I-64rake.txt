@@ -1,0 +1,46 @@
+criteria/heuristic bet tf mr rand bet+tf bet+rand mr+rand tf+mr bet+tf+mr
+586 499 13 11
+resource-cost 346 418 337 66
+tasks-completed 427 560 154 166
+average-quality 367 492 298 339
+average-response-time 356 321 370 283
+average-runtime 543 323 74 116
+average-turnaround-time 560 314 74 126
+table 1
+170 85 0 2 399 1 0 0 7 5
+resource-cost 26 100 170 42 167 0 7 6 128 15
+tasks-completed 77 197 4 28 184 1 3 9 36 99
+average-quality 38 147 26 104 76 0 11 11 34 208
+average-response-time 104 74 162 43 31 20 16 8 7 169
+average-runtime 322 110 0 12 121 13 1 1 1 69
+average-turnaround-time 318 94 1 11 125 26 1 0 7 64
+table 2
+problemsolving environments including distributed sensor networks
+criteria/heuristic bet tf mr rand
+number
+gpgp/tæms
+domain-independent coordination framework
+multiagent systems
+general terms
+algorithms
+environmental features including problem characteristics
+domain-independent fault handling services
+exptduration ← exptduration +
+[exptoutcomeduration × outcomeprob]
+8
+versus 14 contract net agents3
+random tæms task
+structure
+wilcoxon matched-pair
+signed-rank tests
+underlying tæms task
+structure
+positive natural numbers excluding
+cooperative distributive problem solving
+tæms 
+subtree rooted
+osd organization requires fewer agents
+distributed problem solving network
+semi-dynamic environments
+sachin kamboj
+∗

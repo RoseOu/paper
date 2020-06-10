@@ -1,0 +1,8 @@
+memory
+sleep
+sound
+picture
+nap
+cue
+
+

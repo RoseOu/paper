@@ -1,0 +1,10 @@
+porosity
+parts
+microCT
+average
+reported
+build
+work
+direction
+demonstrate
+structure

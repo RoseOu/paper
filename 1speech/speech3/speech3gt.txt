@@ -1,0 +1,7 @@
+books
+record
+audience
+cover
+story
+paper
+

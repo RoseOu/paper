@@ -1,0 +1,10 @@
+cells
+alpha4beta1
+fanning
+lamellipodia
+CHO-alpha4/GFP
+puncta
+CHO-alpha4
+alpha4
+adhesions
+focal

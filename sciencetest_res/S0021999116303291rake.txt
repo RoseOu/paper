@@ -1,0 +1,10 @@
+so-called lattice-gas automata method [5]
+allowing larger integration timesteps
+correct dynamic fluctuations
+nonequilibrium molecular dynamics
+correct hydrodynamics
+langevin dynamics
+galilean invariance
+particles interact
+simultaneously decreasing
+freedom required

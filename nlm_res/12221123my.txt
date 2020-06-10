@@ -1,0 +1,10 @@
+cells
+drs2Delta
+membrane
+proteins
+protein
+strains
+Figure
+Drs2p
+mutant
+dnf1,2,3Delta

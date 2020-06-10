@@ -1,0 +1,10 @@
+gerbils
+gerbil
+injection
+injected
+sessions
+session
+training
+trained
+learning
+learned

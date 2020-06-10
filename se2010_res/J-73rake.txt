@@ -1,0 +1,24 @@
+yishay mansour
+computer science
+tel aviv university
+mansour@post
+depict 
+swashbuckling traders boldly making large gambles
+previous theoretical online trading models
+incorporating market volume information
+189
+price volume model order book model macroscopic distribution model
+owt θ
+preliminary experimental results
+show significant improvements
+shares achieving buy vwap 
+competitive ratio rbuy
+vwap
+online trading model 
+incorporating limit order books
+shares achieving sell vwap 
+competitive ratio rvwap
+shares achieving sell owt competitive
+ratio rowt
+empirical total
+daily volume distributions computed

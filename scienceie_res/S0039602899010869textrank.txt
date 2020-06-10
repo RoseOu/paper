@@ -1,0 +1,10 @@
+force
+forces
+macroscopic
+radius
+contribution
+contributions
+constant
+waals
+sample treated
+substrate

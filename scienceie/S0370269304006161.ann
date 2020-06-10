@@ -1,0 +1,10 @@
+T1	Task 0 55	Absorption events through the charged current reactions
+T2	Process 265 300	treatment of the Coulomb distortion
+T3	Process 585 608	isobaric analogue state
+T4	Process 610 613	IAS
+T5	Process 618 633	4.38 MeV in 40K
+T6	Process 668 679	shell model
+T7	Task 693 731	the Fermi and Gamow–Teller transitions
+T8	Task 125 154	predicting e−(e+) event rates
+T9	Process 812 827	Coulomb effects
+T10	Process 879 916	calculation by Martinez-Pinedo et al.

@@ -1,0 +1,10 @@
+conventional pile groups subjected
+pile group-related problem
+general pile group
+finite element method [
+boundary element method [
+finite difference method [
+settlement ratio method [
+finite element method
+generally computationally expensive
+expedient parametric studies

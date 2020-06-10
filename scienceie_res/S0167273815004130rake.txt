@@ -1,0 +1,10 @@
+jeol jsm-6700 field emission 74 scanning electron microscope
+netzsch sta 449c instrument equipped
+room temperature powder x-ray diffraction
+stoe win xpow software
+low oxygen partial pressure
+proteus thermal analysis software
+panalytical empyrean diffractometer
+conventional four-terminal method
+gold wire contacts
+obtained xrd patterns

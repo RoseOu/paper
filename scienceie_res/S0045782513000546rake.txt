@@ -1,0 +1,10 @@
+non-lagged backward euler time stepping method applied
+galerkin finite element spatial discretization
+slightly compressible single phase fluid
+assembly engines remain intact
+nonlinearly viscoelastic diffusion problems
+fully discrete numerical schemes
+viscoelastic relaxation effects
+viscoelastic internal variables
+priori error bound
+required additional coding

@@ -1,0 +1,10 @@
+linear temporal first-order logic
+verify web service specifications
+modeling data-centric web services
+data-centric web services
+reducing web services
+data-centric web applications
+existing verifier designed
+web applications
+relational databases
+input constraints

@@ -1,0 +1,10 @@
+T1	Material 0 18	Immunopotentiators
+T2	Process 19 43	activate innate immunity
+T3	Process 89 118	pattern-recognition receptors
+T4	Process 120 124	PRRs
+T5	Process 171 190	Toll-like receptors
+T6	Process 192 196	TLRs
+T8	Material 313 324	TLR ligands
+T9	Material 522 546	antigen-presenting cells
+T11	Task 560 576	clinical studies
+T12	Process 596 606	stimulated

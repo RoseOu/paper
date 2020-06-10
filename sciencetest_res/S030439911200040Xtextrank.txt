@@ -1,0 +1,10 @@
+canny edge detection
+circular averaging
+applying
+averages
+arcs
+d
+elliptical
+determining
+shape
+methods use

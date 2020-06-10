@@ -1,0 +1,10 @@
+EPEC
+EAEC
+strains
+O125
+markers
+virulence
+O111
+H6
+adherence
+phenotype

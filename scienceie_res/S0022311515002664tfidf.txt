@@ -1,0 +1,10 @@
+anisotropic
+basal
+simulations
+elastic
+zirconium
+Table
+lattice
+direction
+simulated
+oxide

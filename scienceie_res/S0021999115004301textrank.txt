@@ -1,0 +1,10 @@
+popular choice
+equal number
+integrals
+quadrature points
+exactly integrated
+diagonal mass
+galerkin
+leading
+matrix
+formulations

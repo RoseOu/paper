@@ -1,0 +1,10 @@
+one
+query
+protein
+'
+seqlets
+database
+sequence
+annotation
+sequences
+method

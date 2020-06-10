@@ -1,0 +1,10 @@
+T2	Material 12 29	beam pumping unit
+T3	Process 74 84	light load
+T5	Process 117 181	improve the power factor and efficiency of the beam pumping unit
+T9	Process 209 227	change the voltage
+T10	Process 231 267	changing the thyristor trigger angle
+T11	Process 303 355	analyze the change of the cycles of the load overall
+T12	Process 367 382	divide the load
+T13	Material 415 426	equal parts
+T14	Process 456 469	constant load
+T15	Process 480 495	optimal voltage

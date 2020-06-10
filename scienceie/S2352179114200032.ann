@@ -1,0 +1,10 @@
+T1	Material 58 70	a-C:H layers
+T2	Process 154 172	chemical reactions
+T3	Material 185 188	gas
+T4	Material 197 220	solid forming volatiles
+T6	Process 310 320	gas influx
+T7	Process 370 379	reactions
+T8	Material 326 346	single outer surface
+T9	Material 426 441	gas inventories
+T10	Material 469 475	carbon
+T11	Material 500 521	beryllium co-deposits

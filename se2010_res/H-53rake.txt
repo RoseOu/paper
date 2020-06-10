@@ -1,0 +1,40 @@
+web search
+fuchun peng nawaaz ahmed xin li yumao lu
+yahoo
+rank candidate score rank candidate score
+0 develop 1 10 berts 0
+naive stemming
+short query results
+affected queries dcg improvement p-
+directly immediately
+creates sparse data problems
+001
+long query results
+affected queries dcg improvement p-
+text retrieval experiments 
+including pluralization handing
+affected queries dcg dcg improvement p-
+general 
+stemming yield additional significant improvements
+real
+commercial web search engines
+reducing 
+unnecessary word expansion leads
+major web search engine data show
+context sensitive document matching
+input query
+dcg dcg improvement
+naive model 408/408 7
+bigram language model improves dcg gain
+retrieval-query formulation
+general terms
+algorithms
+] [san francisco]
+[hotel] [price comparison]
+table 2
+query bar code reader software
+perform context sensitive document matching
+query variations entropy
+hotel price comparison 6
+22
+document context sensitive model 408/408 7

@@ -1,0 +1,10 @@
+states
+state
+people
+political
+governor
+testing
+tested
+tests
+right
+sub

@@ -1,0 +1,41 @@
+computer engineering
+bo˘gaziçi university
+bebek
+semantic
+similarity ∗
+reyhan aydo˘gan
+reyhan
+interactions
+run tversky lin wu palmer rp
+scenario 1
+information europe continent covers 
+western country
+interactions
+run dcea scr ro cea id3
+scenario 1
+=
+2 × n0
+n1 + n2 + 2 × n0
+semantic similarity metric named rp similarity
+western country covers french region
+trade-offs including fuzzy similarity estimation
+pınar yolum
+pinar
+1303
+algorithm 1 disjunctive candidate elimination algorithm
+1
+multiagent negotiation approaches typically assume
+arbitrary selected object belongs
+europe
+continent covers bordeaux
+iteratively build decision trees
+consumers
+represent individual wine products
+proceedings 21st international
+conference
+investigating previous multi-attribute
+negotiations [1]
+multiagent systems
+general terms
+algorithms
+web ontology language guide

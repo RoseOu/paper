@@ -1,0 +1,49 @@
+computer science department
+stanford university
+stanford
+sealed-bid auctions
+ryan porter
+rwporter@stanford
+θ4
+1 + 3θ3
+1 +
+17
+4
+θ2
+1 + 3θ1 + 1 > θ4
+1 + 3θ3
+1 + 4θ2
+1 + 3θ1 + 1
+1
+4
+θ2
+1 > 0
+84
+behavioral 
+sciences-economics
+general terms
+economics
+2
+3
+θ2
+1 + 1
+2
+θ1
+θ1 + 1
+>
+θ1 − 1 + θ2
+1 + θ1 + 1
+3
+θ2
+1 +
+3
+2
+θ1 + 1 >
+related work
+existing work covers
+yoav shoham
+shoham@stanford
+honest seller
+agents second-price auction first-price auction
+cancelling terms yields equation 12
+honest seller suffers due

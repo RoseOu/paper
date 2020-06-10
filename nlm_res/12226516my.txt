@@ -1,0 +1,10 @@
+enzyme
+PA-OGA
+activity
+mm
+DP
+pollen
+PA-OGAs
+PGA-GalUAT
+GalUA
+tube

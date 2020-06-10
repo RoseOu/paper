@@ -1,0 +1,10 @@
+chromosome
+Bub1p
+checkpoint
+overexpression
+protein
+BUB1
+alleles
+spindle
+kinetochore
+bub1

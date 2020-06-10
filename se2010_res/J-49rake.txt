@@ -1,0 +1,42 @@
+expert opinions
+meanabsoluteerror
+unweighted linear
+weighted linear
+unweighted logarithmic
+weighted logarithmic
+lin−
+expert opinions
+meanquadraticscore
+unweighted linear
+weighted linear
+unweighted logarithmic
+weighted logarithmic
+lin−
+expert opinions
+meanlogarithmicscore
+unweighted linear
+weighted linear
+unweighted logarithmic
+weighted logarithmic
+lin−
+empirical comparison
+yiling chen
+chao-hsien chu
+tracy mullen
+school
+prediction accuracy measures
+absolute error quadratic score logarithmic score
+nf
+0
+prediction accuracy measures
+absolute error quadratic score logarithmic score
+nf 0
+7th acm sigkdd
+international conference
+pooled expert predictions
+# symbol description
+1 lin-all-
+penn state
+ebusiness research center
+pennsylvania state university
+university park

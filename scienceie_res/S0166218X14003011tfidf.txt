@@ -1,0 +1,10 @@
+digraphs
+optimal
+periodicity
+sequences
+equivalently
+max-algebraic
+matrix
+exponents
+transient
+digraph

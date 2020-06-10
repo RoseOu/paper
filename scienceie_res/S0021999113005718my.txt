@@ -1,0 +1,10 @@
+geometry
+gas
+characteristic
+scale
+e.g
+simulation
+height
+DSMC
+smallest
+extremely

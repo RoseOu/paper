@@ -1,0 +1,58 @@
+host l1
+1a 6a5
+t1 t2 t3 t4 t5 t6
+figure 1
+predictor6
+predictor7
+predictor 8
+predictor9
+predictor10
+predictor2
+predictor 4
+predictor 3
+predictor5
+predictor1
+75
+sysytem
+resources
+host l4host l3host l2
+2a 3a 4a
+total resource load 
+versus total shared resource 
+capacity
+0 250 500 750 1
+total resource load 
+versus total shared resource 
+capacity
+0 500 1
+au
+abstract
+distributed applications require distributed techniques
+mobile agent systems
+designing efficient intranet applications
+called el farol bar
+problem
+total resource load
+development cumulated
+shared resources requires older historical
+information
+history data
+decayrate
+0
+1
+older
+figure 3
+analyzing market-based resource allocation
+strategies
+ryszard kowalczyk2
+swinburne university
+allocation decisions influence 
+indirectly decisions
+self-organising distributed resource 
+allocation technique
+distributed resource allocation techniques based
+previously favoured server reduce
+model represent real metrics
+self-organising agent-based resource allocation
+autonomous agents & multi
+agent systems

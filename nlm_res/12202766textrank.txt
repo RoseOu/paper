@@ -1,0 +1,10 @@
+binds
+bind
+transcription factor binding sites
+dimeric site
+matrix
+hnf
+base
+based
+bases
+values

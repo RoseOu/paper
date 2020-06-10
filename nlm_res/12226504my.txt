@@ -1,0 +1,10 @@
+GroPCho
+cells
+GPC-PDE
+medium
+cell
+phosphate
+choline
+different
+31P-NMR
+mm

@@ -1,0 +1,6 @@
+stairs stair
+elevation
+tread
+staircase
+safty
+move

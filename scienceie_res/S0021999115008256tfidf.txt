@@ -1,0 +1,10 @@
+eigencurves
+advection–diffusion
+diffusion
+discretization
+dispersion
+polynomial
+spectral/hp
+Galerkin
+formulation
+derivation

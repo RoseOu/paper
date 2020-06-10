@@ -1,0 +1,10 @@
+high dimensional model representation
+approximating high dimensional
+computationally-expensive problems faces
+exponentially increasing difficulty
+support vector regression
+reveal explicit correlations
+exponential increasing difficulty
+gain satisfying accuracy
+proposed model
+paper proposes

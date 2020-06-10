@@ -1,0 +1,10 @@
+genes
+gene
+nisin
+lisr
+mug
+growth
+lo
+pcr
+plasmid
+sensitivity

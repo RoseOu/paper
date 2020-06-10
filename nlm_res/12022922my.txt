@@ -1,0 +1,10 @@
+kinase
+124-v-Mos
+protein
+using
+phosphorylation
+c-Mos
+Mos
+PTP-1B
+assays
+acid

@@ -1,0 +1,10 @@
+106 bsr-t7/5 cells stably expressing phage t7 rna polymerase
+second-site compensatory mutation c-u2278 partially restores p-gene mrna editing frequency
+second-site compensatory mutation c-u2278 modulates p-gene mrna editing
+embryonated chicken eggs enabled editing-defective ndv mutants
+support plasmids expressing ndv np
+editing-defective ndvs restore p-gene mrna editing
+avian myeloblastosis virus reverse transcriptase
+cooperatively regulate p-gene mrna editing
+defective newcastle disease virus recombinants
+modulates p-gene mrna editing

@@ -1,0 +1,10 @@
+averaging
+PSD
+astigmatism
+circular
+elliptical
+Thon
+parameters
+1D
+2D
+radial

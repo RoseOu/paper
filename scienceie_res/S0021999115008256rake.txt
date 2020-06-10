@@ -1,0 +1,10 @@
+spectral/hp continuous galerkin method considered closely resembles
+feature irregular oscillations
+problems strongly dominated
+subsequently considered
+polynomial orders
+formulation presented
+inviscid case
+perspective introduced
+viscous case
+diffusion equation

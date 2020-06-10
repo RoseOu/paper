@@ -1,0 +1,42 @@
+cy
+pavlos moraitis
+paris-descartes university
+45 rue des saints-pères
+75270 paris cedex 06
+intelligent
+agents
+general terms
+human factors
+fr
+yannis dimopoulos
+university
+argumentation-based negotiation
+leila amgoud
+irit
+acyclic preference relations 
+sanction extensions
+acyclic preference relation
+disallows indifference
+france
+
+pavlos@math-info
+4th
+international joint conference
+5th
+international joint conference
+1 negotiating agents theories
+agents involved
+argumentation-based 
+negotiation di terminates
+decision making mechanism
+proposed
+generates argumentation-based negotiation dialogues
+proposed protocol avoids loops
+study acyclic preference relations
+cyprus
+yannis@cs
+avoids wishful thinking
+oi oj iff oi ∈ ox
+specific argumentation-based 
+negotiation frameworks
+argumentation-based negotiation approaches present

@@ -1,0 +1,10 @@
+cell
+efficiency
+15
+temperature
+assumed
+would
+solar
+radiation
+incident
+intensity

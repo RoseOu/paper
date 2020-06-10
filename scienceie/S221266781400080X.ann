@@ -1,0 +1,10 @@
+T1	Material 49 54	FeSO4
+T2	Material 8 37	inorganic flocculating agents
+T3	Material 56 66	Al2(SO4)3,
+T4	Material 67 72	FeCl3
+T5	Material 80 101	organic coagulant aid
+T6	Material 102 105	PAM
+T7	Process 120 140	treat the wastewater
+T8	Task 245 269	single factor experiment
+T9	Task 274 302	orthogonal design experiment
+T12	Process 464 476	removal rate

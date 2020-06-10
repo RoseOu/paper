@@ -1,0 +1,49 @@
+previous query = travel indonesia previous query = hashtable
+expanded user query = java map indonesia expanded user query = java map class
+1 java map projections
+query
+modification
+result
+re-ranking
+user
+modeling
+result buffer
+ucair
+userquery
+results
+clickthrough…
+figure 1
+java map collection classes indonesia city street map
+9
+recall
+precision
+precision−recall curves
+google result
+ucair result
+figure 6
+ranking method prec@5 prec@10 prec@20 prec@30
+google 0
+716
+<title> spammer arrest sue
+<desc> description
+large topically
+categorized web query log
+query modification module selectively 
+improves
+result re-ranking module immediately re-ranks
+peter loud class scope
+www
+peter loud class printsafehashmap
+www
+java map collection classes
+java
+map java 2 platform se v1
+2 java map projections
+national science foundation
+grants iis-0347933
+pivoted normalization tf-idf weighting formula [24]
+4 java technology concept map indostreets
+trec 2003 web track [4] topic distillation task
+dynamic
+web log session identification
+ieee computer society technical committee

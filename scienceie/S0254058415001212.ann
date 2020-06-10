@@ -1,0 +1,9 @@
+T1	Material 0 25	Gamma titanium aluminides
+T2	Material 72 78	alloys
+T3	Material 117 136	Ni-base superalloys
+T4	Material 163 185	aero-engine components
+T5	Task 149 185	production of aero-engine components
+T6	Process 187 205	Investment casting
+T7	Task 247 301	produce titanium and titanium aluminide alloy products
+T9	Material 268 292	titanium aluminide alloy
+T10	Material 314 328	the components

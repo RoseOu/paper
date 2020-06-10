@@ -1,0 +1,7 @@
+reporter reporters
+story stories
+India
+local
+national
+mainstream media
+nuclear power plant

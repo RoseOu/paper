@@ -1,0 +1,7 @@
+actors
+movie
+history
+screen
+planet
+friend
+unbelievable

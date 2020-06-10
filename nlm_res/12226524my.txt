@@ -1,0 +1,10 @@
+phyA
+PHYA
+mutant
+light
+wild-type
+seedlings
+phyA-300D
+protein
+|
+PHYA-V631M

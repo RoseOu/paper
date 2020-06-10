@@ -1,0 +1,10 @@
+transforms
+aCMLLR
+adaptive
+GMM–HMM
+aNAT
+show-based
+speaker
+model
+adaptively
+factorisation

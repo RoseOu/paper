@@ -1,0 +1,10 @@
+T1	Task 1232 1286	biaxial compressive and triaxial tensile stress states
+T2	Task 4 23	second stress state
+T3	Task 29 53	tri-axial tensile stress
+T4	Process 259 282	Finite element analysis
+T5	Task 875 935	simulated by applying tensile stress in direction 1, 2 and 3
+T6	Material 97 116	advancing crack tip
+T7	Material 171 182	oxide layer
+T8	Material 227 248	metal–oxide interface
+T9	Material 321 327	cracks
+T10	Material 348 374	localised tensile stresses

@@ -1,0 +1,76 @@
+stephen robertson
+microsoft research
+7 jj thomson avenue
+cambridge cb3 0fb
+5
+-3e-1
+-2e-1
+-1e-1
+0e+0
+1e-1
+2e-1
+3e-1
+4e-1
+5e-1
+0
+0e+0
+2e-2
+4e-2
+6e-2
+8e-2
+1e-1
+1e-1
+1e-1
+0
+con-8e-5
+-6e-5
+-4e-5
+-2e-5
+0e+0
+2e-5
+4e-5
+6e-5
+0
+5
+0e+0
+1e-5
+2e-5
+3e-5
+4e-5
+5e-5
+6e-5
+7e-5
+0
+weighted complete
+bidirectional directed bipartite graph
+good unhub links positively good 
+unauthorities
+trec organizers
+employ human assessors
+network analysis
+stefano mizzaro
+dept
+visiting microsoft research cambridge
+hits hits 
+trecexploring ir evaluation results
+apply 
+analysis methods originally developed
+apa
+sm
+s1 · · · sm t1 · · · tn
+s1
+systems-topics complete weighted
+bipartite graph
+tn
+=
+s1 · · · sm t1 · · · tn
+s1
+good hub links good unauthorities
+reveals phenomena previously
+hidden
+complete
+weighted bipartite graph
+weighted undirected complete graph
+normalized
+t1 · · · tn map
+s1 apa

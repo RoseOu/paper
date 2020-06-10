@@ -1,0 +1,10 @@
+caev tat proteins lack trans-activation function activity
+horseradish peroxidase-conjugated goat anti-mouse immunoglobulin
+plasmid encoding native mvv tat fused
+caprine arthritis encephalitis virus genomes encode
+vectors expressing srlv tat proteins fused
+relevant plasmids encoding flag-tat-tagged proteins
+mutant mvv tat-gfp fusion proteins
+mvv tat-gfp fusion protein accumulate
+conserved open reading frames found
+open reading frames identified

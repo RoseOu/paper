@@ -1,0 +1,10 @@
+isolates
+genes
+qac
+qacA/B
+blaZ
+plasmids
+resistance
+DNA
+Tn552
+PCR

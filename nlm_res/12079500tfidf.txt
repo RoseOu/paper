@@ -1,0 +1,10 @@
+binding
+granisetron
+5-HT
+receptors
+5-HT3R
+Y152A
+receptor
+ligands
+d-tc
+amino

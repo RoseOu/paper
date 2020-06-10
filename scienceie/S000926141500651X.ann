@@ -1,0 +1,10 @@
+T1	Process 71 108	development of radiation-induced DSBs
+T3	Process 122 137	γ-ray radiation
+T4	Material 289 304	photon of γ-ray
+T5	Process 314 329	photo-radiation
+T7	Process 139 150	single step
+T8	Process 229 256	generation of number of ROS
+T11	Process 350 368	two step mechanism
+T12	Material 412 418	photon
+T14	Process 466 485	single strand break
+T15	Material 473 479	strand

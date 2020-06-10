@@ -1,0 +1,10 @@
+users
+1
+user
+utility
+2
+equilibrium
+allocation
+=
+resource
+system

@@ -1,0 +1,10 @@
+MHC
+chimpanzees
+2
+intron
+class
+chimpanzee
+sequences
+humans
+locus
+lineages

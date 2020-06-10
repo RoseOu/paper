@@ -1,0 +1,11 @@
+satellite
+Earth
+planet
+image
+imagery
+searchable
+database
+mission
+plane
+airport
+ship

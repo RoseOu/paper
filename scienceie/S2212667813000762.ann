@@ -1,0 +1,10 @@
+T1	Material 159 173	Yinchuan Plain
+T2	Process 231 267	remote sensing images interpretation
+T3	Material 274 310	multi-temporal remote sensing images
+T4	Process 328 373	interactive interpretation of change patterns
+T5	Material 74 91	construction land
+T6	Task 425 439	Interpretation
+T8	Material 577 596	remote sensing data
+T9	Process 657 699	identifies new increased construction land
+T10	Process 795 806	recognition
+T12	Process 407 423	field validation

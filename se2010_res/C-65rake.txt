@@ -1,0 +1,80 @@
+zc
+2
+found
+5
+amplitude
+threshold
+long
+positive zc
+long
+negative zc
+valid
+full period
+max
+garbage
+wrong sign
+garbage
+collect
+mb
+det
+sw
+det
+rec
+bluetooth link
+user
+interface
+sensor
+fusion
+location
+engine gps
+message
+distance m16 ak47 m240 m107 m4 m249 m4-m249
+50m 100% 100% 100% 100% 11% 25% 94%
+100m 100% 100% 100% 100% 22% 33% 100%
+200m 100% 100% 100% 100% 50% 22% 100%
+300m 67% 100% 83% 100% 33% 0% 57%
+4 ghz wireless link
+radio control
+message routing
+acoustic event encoder
+sensor time synch
+vvt ′
+4t
+5t
+6t
+bullet trajectory
+shooter position
+figure 8
+remote control
+time
+stamping
+interrupts
+virtual
+register
+interface
+reconfigurable fpga fabric-closely resemble hardware 
+building blocks
+army research lab adelphi md
+20783-1197
+signal processing paths exhibit
+clear symmetry
+muzzle blasts includes short-time fourier
+transform
+integrated honeywell hmr3300 digital compass 
+module
+ram driver
+implements data read/write cycles
+sufficiently
+long negative segment
+texas
+instruments cc-1000 radio enabling
+outstanding issues include
+weatherproof packaging
+interval arithmetic
+based bisection search algorithm [8]
+soft
+processor cores-execute true software programs
+xx1 + yy1 + zz1 =
+xx2 + yy2 + zz2 =
+uc berkeley/crossbow
+mica product line [11]

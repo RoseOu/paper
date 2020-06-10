@@ -1,0 +1,10 @@
+trajectories
+transitions
+tested
+running
+state
+vibrational
+energy
+impact
+adiabatic
+lowest

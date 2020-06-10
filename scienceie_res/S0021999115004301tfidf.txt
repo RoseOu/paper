@@ -1,0 +1,10 @@
+collocation
+quadrature
+Galerkin
+numerical
+nodal
+Lagrange
+polynomials
+discontinuous
+formulations
+Huynh

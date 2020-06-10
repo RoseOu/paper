@@ -1,0 +1,10 @@
+DVT
+prophylaxis
+=
+vignettes
+|
+<
+postoperative
+CPG
+0.001
+physicians

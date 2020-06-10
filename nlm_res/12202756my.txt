@@ -1,0 +1,10 @@
+cells
+PNA
+PNAs
+antisense
+10
+KYO-1
+5
+cell
+using
+RNA

@@ -1,0 +1,10 @@
+predicted cell electrical conversion efficiency
+final calculated cell efficiency based
+constant cell electrical conversion efficiency
+actual incident solar radiation intensity
+solar cell efficiency difference
+solar radiation intensity level
+incident solar radiation
+apparent insolation level
+measured cell temperature
+85+dηwhere iact

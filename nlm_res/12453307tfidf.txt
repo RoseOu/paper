@@ -1,0 +1,10 @@
+calmodulin
+Myo1c
+IQ
+Alexa-calmodulin
+peptides
+muM
+Ca2+
+T701-Myo1c
+fluorescence
+binding

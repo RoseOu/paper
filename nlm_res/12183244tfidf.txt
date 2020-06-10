@@ -1,0 +1,10 @@
+ertapenem
+ceftriaxone
+evaluable
+patients
+>
+therapy
+microbiologically
+parenteral
+|
+i.v

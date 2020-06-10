@@ -1,0 +1,49 @@
+dynamic document databases</atl>
+<au>alistair moffat</au>
+<au>justin zobel</au>
+<au>neil sharman</au>
+<abs><
+></abs>
+</fm>
+<bdy>
+<sec><st>introduction</st>
+<ip1>modern document databases
+abs app article bb bdy bm fig fm ip1
+li
+child nodes
+sec
+bdyfm
+atl au au au
+abs
+st ip1
+sec
+st
+ss1
+st
+article
+>
+</sec>
+<sec><st>reducing memory requirements</st>
+26th annual
+international acm sigir conference
+24th annual international acm
+sigir conference
+27th annual international acm sigir conference
+27th annual international acm
+sigir conference
+<article>
+<fm>
+<atl>text compression
+keyword query
+text index compression algorithms
+inex-2003 
+metric exhibits undesirable anomalies [11]
+sog quantization functions
+give partial credit
+sec ss1 ss2 vt
+2002 acm sigmod international conference
+2003 acm sigmod international conference
+ranking techniques
+require global statistics
+dynamic interval encoding
+xcg metric rewards retrieval runs

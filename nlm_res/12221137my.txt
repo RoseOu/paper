@@ -1,0 +1,10 @@
+TRAPP
+Ypt1p
+Ypt32p
+exchange
+beads
+purified
+1
+GDP
+proteins
+mM

@@ -1,0 +1,10 @@
+Tsg101
+Gag
+protein
+P100
+VLP
+Gag-GFP
+p6
+Tsg101-FLAG
+cells
+membrane

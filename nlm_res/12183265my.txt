@@ -1,0 +1,10 @@
+mutations
+cefotaxime
+substitutions
+mutation
+MIC
+resistance
+TEM-1
+mutant
+allele
+used

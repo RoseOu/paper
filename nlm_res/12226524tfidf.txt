@@ -1,0 +1,10 @@
+phyA
+mutant
+wild-type
+PHYA
+phyA-300D
+seedlings
+PHYA-V631M
+protein
+FRc
+phenotype

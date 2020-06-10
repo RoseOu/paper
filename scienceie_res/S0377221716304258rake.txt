@@ -1,0 +1,10 @@
+methods employ composition operators
+composing multiple small-sized mmpps
+matrix geometric methods
+single class setting
+state space explosion
+modeling real systems
+fitting methods based
+fit complex traces
+statistical descriptors due
+fitting accuracy compared

@@ -1,0 +1,10 @@
+method
+subdivision
+surface
+generation
+obtain
+model
+building
+addition
+algorithm
+tool

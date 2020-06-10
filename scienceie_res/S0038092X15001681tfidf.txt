@@ -1,0 +1,10 @@
+modules
+silicon
+VDC
+string
+Voc
+strings
+system
+composed
+efficiency
+50kWp

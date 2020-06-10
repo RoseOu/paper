@@ -1,0 +1,10 @@
+patient
+time
+patients perceptions
+consultation
+consult
+consulting
+doctors
+doctor
+respondents
+respond

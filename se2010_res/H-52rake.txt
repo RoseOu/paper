@@ -1,0 +1,41 @@
+vocabulary independent spoken term detection
+jonathan mamou
+ibm haifa research labs
+haifa 31905
+references
+[1] nist spoken term detection 2006 evaluation
+website
+quantile 0-33 33-66 66-100
+bnews atwv 0
+29th annual
+international acm sigir conference
+22nd annual international acm sigir conference
+23rd annual international acm
+sigir conference
+large vocabulary 
+continuous speech recognition tools
+word lattice called word 
+confusion network
+watson research center
+yorktown heights
+7th acm
+sigmm international workshop
+phonetic
+precision recall precision recall precision recall
+iv queries 0
+recent nist spoken term
+detection evaluation [1]
+speech recognizer generates word confusion networks
+large vocabulary continuous speech
+recognition
+nist
+trec spoken document retrieval tracks
+vocabulary independent spoken
+term detection
+accommodate high error rate
+conditions
+2nd signal processing education workshop
+joint maximum
+entropy n-gram model [10]
+trec spoken document retrieval
+evaluations

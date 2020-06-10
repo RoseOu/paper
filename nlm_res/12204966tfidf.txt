@@ -1,0 +1,10 @@
+IRF-1
+ATRA
+STAT1
+SiHa
+10-4
+high-dose
+10-6
+|
+cells
+NF-kappaB

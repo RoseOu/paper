@@ -1,0 +1,10 @@
+non-fragile
+controller
+method
+paper
+presents
+design
+based
+system
+quadratic
+performance

@@ -1,0 +1,10 @@
+fuzzy
+classification
+Obstacle
+homography
+detection
+obstacle
+neural
+estimation
+attribution
+modifies

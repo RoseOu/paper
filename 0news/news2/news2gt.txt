@@ -1,0 +1,6 @@
+Queen
+nation
+country
+spirit
+virus
+

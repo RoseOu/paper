@@ -1,0 +1,10 @@
+automatic pressure control mode
+o2 flow rate
+sf6 flow rate
+gas density stable
+substrate chuck temperature
+full factorial screening
+pronounced effect
+continuously adjusts
+throttle valve
+coil power

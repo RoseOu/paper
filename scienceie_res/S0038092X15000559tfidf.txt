@@ -1,0 +1,10 @@
+photon
+density
+radius
+Hachisuka
+photons
+mapping
+nearest
+2008
+iterative
+Radiance

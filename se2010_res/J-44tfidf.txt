@@ -1,0 +1,10 @@
+ratings
+''
+scouts
+neighborhood
+recommender
+−
+=
+algorithm
+user
+scout

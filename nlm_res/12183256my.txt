@@ -1,0 +1,10 @@
+plasmid
+resistance
+genes
+isolates
+Typhimurium
+virulence
+serotype
+strains
+phage
+plasmids

@@ -1,0 +1,10 @@
+direct simulation monte carlo method
+conventional continuum fluid dynamics
+non-trivial internal geometries
+smallest characteristic scale
+flexible modelling alternative
+formidable multiscale problem
+largest characteristic scale
+channelʼs height
+long channel network
+high-aspect ratio creates

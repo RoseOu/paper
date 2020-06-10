@@ -1,0 +1,10 @@
+gleum
+CGB-1
+beta-lactamase
+C.
+E.
+103039
+DH10B
+pCGB-1
+amino
+|

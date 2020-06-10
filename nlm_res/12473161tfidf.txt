@@ -1,0 +1,10 @@
+documentation
+internists
+pediatricians
+physicians
+smoking
+medical
+immunizations
+|
+physician
+``

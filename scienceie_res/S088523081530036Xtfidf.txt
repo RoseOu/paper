@@ -1,0 +1,10 @@
+θ
+posterior
+utterance
+Ll|xt​
+frames
+probability
+corresponding
+fed-forward
+DNNs
+i.e

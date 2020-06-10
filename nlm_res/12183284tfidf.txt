@@ -1,0 +1,10 @@
+MRSA
+isolates
+TSN
+Database
+-USA
+outpatients
+aureus
+inpatients
+inpatient
+antimicrobial

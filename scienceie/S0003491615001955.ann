@@ -1,0 +1,10 @@
+T1	Material 2 20	fluctuating vacuum
+T2	Process 45 59	quantum fields
+T3	Task 45 59	quantum fields
+T4	Process 74 92	free Maxwell field
+T5	Process 135 151	Fermionic fields
+T6	Process 195 222	undergo vacuum fluctuations
+T7	Process 257 272	Casimir effects
+T8	Task 396 411	nuclear physics
+T9	Task 434 464	“MIT bag model” of the nucleon
+T10	Task 518 577	a collection of fermionic fields describing confined quarks

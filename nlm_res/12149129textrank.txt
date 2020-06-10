@@ -1,0 +1,10 @@
+protein
+proteins
+denaturing
+denaturation
+denatures
+denatured
+stabilization
+stabilized
+stabilize
+stabilizing

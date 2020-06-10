@@ -1,0 +1,10 @@
+T1	Material 39 60	agricultural products
+T2	Process 79 95	stochastic yield
+T3	Process 116 144	prices compensation strategy
+T4	Process 222 227	yield
+T5	Process 150 172	agricultural producing
+T6	Material 248 269	agricultural products
+T7	Process 297 318	fluctuations of yield
+T8	Process 359 384	two- echelon supply chain
+T9	Task 440 473	mathematical model is constructed
+T10	Process 497 525	prices compensation strategy

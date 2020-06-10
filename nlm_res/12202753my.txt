@@ -1,0 +1,10 @@
+chromosome
+region
+1
+switch
+gene
+genes
+chromosomes
+sequence
+DNA
+clones

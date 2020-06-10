@@ -1,0 +1,10 @@
+job
+cost
+axioms
+axiom
+n
+j
+jobs need
+σ
+waiting costs
+order

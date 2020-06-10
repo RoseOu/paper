@@ -1,0 +1,10 @@
+T1	Material 59 78	enthalpy increments
+T2	Material 0 12	Solid pieces
+T3	Process 87 138	Setaram Multi-detector High Temperature Calorimeter
+T4	Process 140 148	MDHTC-96
+T5	Process 158 171	drop detector
+T6	Material 554 581	2–4 drops of Bi2UO6 samples
+T7	Material 357 372	platinum ingots
+T8	Material 411 429	reference material
+T10	Process 795 838	Background subtraction and peak integration
+T11	Process 944 953	corrected

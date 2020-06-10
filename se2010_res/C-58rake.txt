@@ -1,0 +1,106 @@
+385
+reconfig
+reconfig
+notices
+dht
+partial
+dht
+complete
+dht
+ends
+lazy
+time
+data
+3 7 81 2 4 5 6starts
+lazy
+data
+starts
+lazy
+data
+starts
+lazy
+data
+repairrepair
+reaggr reaggr reaggr reaggr
+110xx
+010xx
+011xx
+100xx
+101xx
+univ
+dep1 dep2
+key = 111xx
+011xx 100xx 101xx 110xx 010xx
+l1
+l0
+l2
+figure 3
+110xx
+010xx
+011xx
+100xx
+101xx
+univ
+dep1 dep2
+key = 111xx
+011xx 100xx 101xx 110xx 010xx
+l0
+l1
+l2
+figure 4
+state 
+associ382
+001 010100
+000
+011 101
+111
+110
+011 111 001 101 000 100 110010
+l0
+l1
+l2
+l3
+figure 2
+parameter description optional
+attrtype attribute type
+aggrfunc aggregation function
+flexible api
+parameter description optional
+attrtype attribute type
+attrname attribute
+scalable distributed information management system∗
+praveen yalagandula
+ypraveen@cs
+attributes installed
+gossip 256
+gossip 4096
+gossip 65536
+dht 256
+dht 4096
+dht 65536
+figure 9
+nodes
+adht bf=4
+adht bf=16
+adht bf=64
+pastry bf=4
+l2
+l1
+l0
+multiple trees incurs lower
+maximum node stress
+default lazy data re-aggregation time line
+nodes
+bf=4
+bf=16
+bf=64
+figure 11
+default lazy aggregation
+scheme lazily propagates
+initial study discusses key aspects
+outstanding probes table maintains temporary information
+machines ran multiple node instances
+maintain 
+perinterest-set network-topology-sensitive spanning trees
+closely related projects include 
+willow [39]

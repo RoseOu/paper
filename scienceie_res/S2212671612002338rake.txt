@@ -1,0 +1,10 @@
+improved median-based otsu image thresholding algorithm
+original otsu thresholding algorithm
+image thresholding technique
+gray level image
+finally extensive tests
+gray level images
+gray level histogram
+otsu algorithm
+automatic thresholding
+otsu scheme

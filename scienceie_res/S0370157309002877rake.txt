@@ -1,0 +1,10 @@
+group data analyses
+heart rate variability
+cardiovascular signals
+oscillatory components
+major topic
+statistical approaches
+cardiovascular system
+single source
+physiological components
+mutual interaction

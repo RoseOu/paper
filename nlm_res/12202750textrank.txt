@@ -1,0 +1,10 @@
+hfq
+structures
+sequence
+sequences
+conserved residues
+rna protein
+sm
+residue segments
+lsm proteins
+structurally aligned

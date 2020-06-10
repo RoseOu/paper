@@ -1,0 +1,11 @@
+d-arabino 3-hexulose 6-phosphate formaldehyde lyase
+processing required similar45 cpu days worth
+dictionary-driven protein annotation
+computational methods seeking
+single ibm rs64iii processor running
+archaeal /bacterial /eukaryotic /viral sequences
+aldose reductase alcohol dehydrogenase [nadp+]
+exhibit correlated mrna expression levels
+adrenocorticotropic hormone receptor protein actr_bovin
+24 processor ibm s-80 supercomputer
+[ailv][peas] [amv][lmif]

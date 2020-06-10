@@ -1,0 +1,10 @@
+quark
+Θc
+3099
+QCD
+Θ+
+SDO
+lattice
+condensate
+parity
+calculation

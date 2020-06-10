@@ -1,0 +1,10 @@
+thickness
+measurements
+smallest
+sample
+minimum
+partitioning
+Extreme
+distributions
+generalized
+GEVD

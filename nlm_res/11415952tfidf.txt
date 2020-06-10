@@ -1,0 +1,10 @@
+angina
+Q5
+Q1
+ischemic
+infarction
+myocardial
+percent
+questionnaire
+...
+``

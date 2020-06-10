@@ -1,0 +1,10 @@
+analysis
+numerical
+fully
+nonsmooth
+data
+scheme
+smooth
+fractional
+Galerkin
+time

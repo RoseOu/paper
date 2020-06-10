@@ -1,0 +1,9 @@
+T1	Process 107 122	fusion reactors
+T3	Process 464 479	static surfaces
+T4	Material 0 26	Power and particle exhaust
+T5	Process 365 384	neutron irradiation
+T6	Task 615 639	plasma facing components
+T7	Task 641 645	PFCs
+T8	Material 820 831	D-T reactor
+T9	Process 322 349	structural material changes
+T11	Material 520 546	impinging plasma particles

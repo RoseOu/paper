@@ -1,0 +1,10 @@
+temperature
+window
+solar
+direct
+radiation
+simulations
+water
+800W/m2
+incident
+cells

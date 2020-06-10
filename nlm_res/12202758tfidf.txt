@@ -1,0 +1,10 @@
+transcripts
+intergenic
+genome
+probes
+genes
+operon
+transcript
+E.coli
+operons
+|

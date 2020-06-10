@@ -1,0 +1,10 @@
+risk
+DVT
+vignettes
+physicians
+prophylaxis
+clinical
+|
+patient
+patients
+physician

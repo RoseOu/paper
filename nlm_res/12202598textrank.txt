@@ -1,0 +1,10 @@
+sputum
+smears
+smear
+patients
+patient
+specimens
+specimen
+study
+studies
+studied

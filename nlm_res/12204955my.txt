@@ -1,0 +1,10 @@
+antibodies
+PS
+samples
+EIA
+serum
+type
+antibody
+Pnc
+1
+serotype

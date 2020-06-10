@@ -1,0 +1,20 @@
+queries
+user
+users
+result
+results
+features
+clicking
+clicks
+clicked
+query deviations
+clickthrough
+clickthroughs
+search
+searches
+relevance
+resulting distribution
+models
+modeling
+model
+modeled

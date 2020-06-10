@@ -1,0 +1,10 @@
+voltage
+optimal
+load
+changeable
+beam
+pumping
+.We
+thyristor
+analyze
+algorithm

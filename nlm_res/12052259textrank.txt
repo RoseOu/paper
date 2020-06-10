@@ -1,0 +1,10 @@
+dna topoisomerase
+topoisomerases
+domains
+binds
+bind
+enzyme
+enzymes
+strand
+activity
+activities

@@ -1,0 +1,10 @@
+direction
+open
+region
+topological
+operations
+shapes
+closed
+geometry
+objects
+Based

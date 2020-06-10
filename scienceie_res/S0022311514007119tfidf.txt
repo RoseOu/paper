@@ -1,0 +1,9 @@
+helium
+algorithm
+minimised
+energy
+conjugate
+gradient
+vacancy
+voids
+vacancies

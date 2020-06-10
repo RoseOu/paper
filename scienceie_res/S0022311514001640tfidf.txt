@@ -1,0 +1,10 @@
+carbon
+SiC
+vapour
+silicon
+temperature
+2100K
+TRISO
+thermodynamic
+equilibrium
+JANAF

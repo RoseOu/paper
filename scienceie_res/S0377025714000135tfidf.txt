@@ -1,0 +1,10 @@
+jetting
+viscoelastic
+inkjet
+nozzle
+diameters
+viscosity
+molecular
+Weissenberg
+extensibility
+Gans

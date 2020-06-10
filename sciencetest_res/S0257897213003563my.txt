@@ -1,0 +1,10 @@
+model
+energy
+photon
+optical
+film
+spectra
+incident
+dielectric
+A0
+calculated

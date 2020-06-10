@@ -1,0 +1,10 @@
+parameters
+reliability
+computation
+databases
+retrieve
+reliability-centered
+outages
+heterogeneity
+outage
+Slovak

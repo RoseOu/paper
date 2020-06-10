@@ -1,0 +1,42 @@
+analyzed factors impacting 
+intermittently connected networks consisting
+lru_global
+lfu_global
+lru_local
+lfu_local
+random
+figure 1
+popular data
+items provide marginal additional benefits
+high bandwidth connection supports data rates
+carrier-based
+vehicular ad-hoc networks
+shahram
+ghandeharizadeh
+dept
+control plane enables centralized information gathering
+z-relay zebroids provide slightly lower 
+improvements
+real world data set 
+comprising
+intermittently connected mobile networks
+random replacement scheme
+shows competitive performance
+mass storage device 
+offering hundreds
+nsf
+grants numbered cns-0435505
+data item replica 
+distributions enforced
+naive random replacement policy employed
+naive random replacement
+policy employed
+real world 
+simulation traces
+southern california
+los angeles
+references
+[1] federal highway administration
+on-demand automobile information services
+carrier-based vehicular ad-hoc
+networks

@@ -1,0 +1,40 @@
+distributed multi-player
+proxy-based games
+sudhir aggarwal justin christofoli
+department
+selectively maintaining
+relevant regional game state information
+tank 
+collects bonus firing power based
+distributed
+systems-distributed applications
+general terms
+games
+proxy-based game architecture
+massively multi-player online games
+massively multi-player online
+game called rpgquest
+computer science
+florida state university
+dead-reckoning based distributed multi-player
+games
+dead-reckoning
+based distributed multi-player games
+add extra 
+connection setup delay
+client/server in-game protocol design
+massively multi-player on-line games
+massively multi-player 
+online games
+sarit mukherjee sampath rangarajan
+center
+networking research
+bell laboratories
+proposed mixed authority assignment mechanism
+proposed mixed authority 
+assignment mechanism
+terminate persistent transport sessions
+10th ieee
+international conference
+10th international euro-par
+conference

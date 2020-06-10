@@ -1,0 +1,58 @@
+matrix factorization
+shenghuo zhu kai yu yun chi yihong gong
+{zsh
+project staff student total
+cornell 44 1 34 581 18 21 128 827
+texas 36 1 46 561 20 2 148 814
+washington 77 1 30 907 18 10 123 1166
+wisconsin 85 0 38 894 25 12 156 1210
+table 1
+v1
+v2
+v3
+v4
+v5
+v6
+v7
+v8
+figure 1
+v1
+v2
+v3
+v4
+v5
+v6
+v7
+v8
+figure 2
+stanford digital
+library working paper 1997-0072
+mf
+method cornell texas washington wisconsin
+svm
+28th annual
+international acm sigir conference
+23rd annual international acm sigir
+conference
+26th annual international acm sigir
+conference
+28th
+annual international acm sigir conference
+linkcontent supervised matrix factorization outperform significantly
+10080 north wolfe road sw3-350
+cupertino
+references
+[1] cmu world wide knowledge base
+12th acm
+sigkdd international conference
+v7 co-cite
+web page v8
+v5 cite similar web pages v6
+mf
+method ds ha ml pl
+svm
+multi-label informed latent
+semantic indexing
+annual international
+sigir conference
+research article abstract largely determines

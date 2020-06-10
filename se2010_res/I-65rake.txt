@@ -1,0 +1,40 @@
+interactive dynamic influence
+diagrams
+interactive dynamic influence diagrams
+introduction
+interactive partially observable markov decision processes
+computer science
+aalborg university
+dk-9220 aalborg
+interactive partially
+observable markov decision processes
+graphical models called interactive dynamic
+influence diagrams
+gmytrasiewicz introduced interactive 
+dynamic influence diagrams
+finitely nested 
+ipomdps
+interactive pomdps generalize pomdps
+interactive dynamic influence
+diagrams
+making collective contribution pareto optimal
+interactive
+pomdps
+prashant doshi
+dept
+chance node labeled mod[mj] form
+standard expected utility maximization method [18]
+classical pg game formulation 
+permits
+special purpose policy link introduced
+contributing agents 
+punish free riders
+partially observable stochastic domains
+computer science
+national univ
+reciprocal preferences matching expected cooperation
+multiagent systems
+general terms
+theory
+1
+partially observable multiagent environments

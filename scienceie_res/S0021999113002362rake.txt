@@ -1,0 +1,10 @@
+inverse cumulative density function
+strong coupling limit corresponds
+binary collision approximation
+initialise simulation particles
+monte carlo code
+monte carlo techniques
+strong coupling
+numerical interpolation
+dirac distribution
+pauli blocking

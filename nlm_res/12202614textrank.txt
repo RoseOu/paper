@@ -1,0 +1,10 @@
+dna
+mm
+primers
+primer
+sequences
+sequence
+sequenced
+report
+reports
+reported

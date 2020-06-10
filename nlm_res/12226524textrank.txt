@@ -1,0 +1,10 @@
+phya
+protein
+mutant
+mutants
+light
+phyb
+mutation
+mutational
+mutations
+phenotype

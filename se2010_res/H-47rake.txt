@@ -1,0 +1,39 @@
+contextual advertising
+andrei broder marcus fontoura vanja josifovski lance riedel
+yahoo
+nfl player john maytag triggers
+washing machine ads
+famous golfer named
+john maytag
+inter-editor agreement 84%
+unique ads 2680
+unique ads
+semantic-syntactic matching
+contextual advertising systems process
+8 1
+alpha
+precision
+80% recall 60% recall 40% recall 20% recall
+figure 4
+genetic programming finds matching functions
+existing commercial contextual match solutions
+major current web search engines
+major current web search 
+engines
+5
+page classification precision 70%
+ad classification precision 86%
+table 1
+filtering eliminates low content pages
+targeting mechanisms based solely
+employ machine 
+learning algorithms
+machine generate training pages
+introduction
+web advertising supports
+ss market developed quicker
+inverted indexes provide scalable
+intermediary commercial ad-network
+entity
+for-profit non-transactional
+web sites

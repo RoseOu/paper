@@ -1,0 +1,10 @@
+proteins
+protein
+fluorescence
+dsred
+gfp fluorescent
+mutants
+mutant
+chromophore
+chromophores
+ascp

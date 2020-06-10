@@ -1,0 +1,10 @@
+algorithm
+VWAP
+=
+online
+Pbins
+shares
+volume
+≤
+algorithms
+OWT

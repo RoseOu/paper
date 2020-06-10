@@ -1,0 +1,10 @@
+flavor-spin
+S-state
+mass
+one
+P-state
+interactions
+symmetric
+quark
+wave
+function

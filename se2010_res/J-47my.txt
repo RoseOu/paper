@@ -1,0 +1,10 @@
+auctions
+auction
+valuations
+queries
+prices
+1
+ascending
+demand
+bundle
+bidders

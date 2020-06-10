@@ -1,0 +1,48 @@
+main 
+al118
+research track paper
+gorithmic contribution
+original local domain & normalize}
+ˆp ← elf
+elf 1
+nutch open source search engine project [18]
+localized search engines
+localized search engines index
+london based adam smith
+institute
+finely tuned zoology-specific search engine
+[18] nutch open source search engine
+stochastic complement
+pagerank flow
+outlink count
+random
+0 10 20 30 40 50
+0
+0
+stochastic complement
+pagerank flow
+outlink count
+random
+0 5 10 15 20 25
+0
+stochastic complement
+pagerank flow
+outlink count
+random
+top
+100 graduate computer science departments
+page121
+research track paper
+ranks
+node selection strategy chooses global nodes
+graduate computer science departments
+implementation efficiently
+handles dangling links
+large-scale
+hypertextual web search engine
+dmoz
+open directory project[17]
+[17] dmoz open directory project
+computer science 
+sitespecific local domains
+nsf career award aci-0093404

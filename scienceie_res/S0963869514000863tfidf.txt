@@ -1,0 +1,10 @@
+sensor
+sensors
+permeability
+ferromagnetic
+ferrite
+microstructure
+properties
+magnetic
+steel
+EM

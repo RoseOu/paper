@@ -1,0 +1,10 @@
+IDU
+mice
+treatment
+smallpox
+infections
+VV
+virus
+cells
+infection
+days

@@ -1,0 +1,7 @@
+T1	Process 43 68	van der Waals interaction
+T3	Material 211 234	semi-infinite substrate
+T4	Process 245 262	dispersion forces
+T6	Material 392 404	sample atoms
+T7	Material 356 383	macroscopic part of the tip
+T9	Process 611 633	tip–surface separation
+T11	Process 943 954	calculation

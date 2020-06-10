@@ -1,0 +1,10 @@
+SW-SVR
+D-SDC
+data
+parameters
+prediction
+algorithms
+computational
+deteriorates
+extracted
+algorithm

@@ -1,0 +1,10 @@
+thickness
+reflectivity
+DBR
+thicknesses
+stack
+layer
+measured
+STEM
+regions
+∼96

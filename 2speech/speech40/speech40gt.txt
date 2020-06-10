@@ -1,0 +1,7 @@
+bills
+health care
+cost
+hospital
+procedure
+price
+

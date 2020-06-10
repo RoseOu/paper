@@ -1,0 +1,10 @@
+BCC
+PCR
+sputum
+genomovar
+samples
+B.
+recA
+patients
+CF
+DNA

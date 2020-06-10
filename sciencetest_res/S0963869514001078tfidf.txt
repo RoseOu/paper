@@ -1,0 +1,10 @@
+magnetic
+magnetostrictive
+ferromagnetic
+Lorentz
+770°C
+16,17
+rearrangement
+domains
+paramagnetic
+ultrasound

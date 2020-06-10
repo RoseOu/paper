@@ -1,0 +1,10 @@
+T1	Material 14 26	hidden nodes
+T2	Task 56 77	generalization of ELM
+T3	Process 106 122	time consumption
+T5	Process 173 188	trial-and-error
+T6	Task 192 219	novel algorithm is proposed
+T7	Task 223 254	optimize the hidden node number
+T10	Process 318 338	optimization process
+T11	Process 344 382	structural risk minimization principle
+T12	Process 420 429	algorithm
+T15	Process 541 561	accuracy comparisons

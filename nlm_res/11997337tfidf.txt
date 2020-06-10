@@ -1,0 +1,10 @@
+genes
+DNA
+HSAS
+elegans
+HSE
+motifs
+GFP
+C.
+binding
+promoter

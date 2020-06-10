@@ -1,0 +1,10 @@
+fractional
+numerical scheme
+error analysis
+convergence
+regularity
+fully discrete
+galerkin finite
+discretization
+multiple
+rates

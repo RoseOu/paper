@@ -1,0 +1,10 @@
+protein
+product
+|
+Golgi
+14C
+Ara
+using
+arabinoxylan
+addition
+2

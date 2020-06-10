@@ -1,0 +1,10 @@
+closed geometry objects
+object-orientation-based direction relation
+actual direction region
+spatial direction region
+direction predicates
+description model
+two-dimensional space
+description mode
+three-dimensional space
+basic idea

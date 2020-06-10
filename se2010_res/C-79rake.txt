@@ -1,0 +1,42 @@
+mobile ad-hoc networks
+chaiporn jaikaeo
+computer engineering
+kasetsart university
+average query generation rate 2 query/ 10 sec
+max #
+hybrid resource distribution scheme incorporates resource
+relocation algorithms
+proposed scheme effectively facilitates
+concurrent replica updates
+simulation settings
+hop_limit 10
+advertise_hop_limit 1
+keepalive_interval 3
+augments existing manet routing algorithms
+manet applications demand collaborative 
+processing
+hybrid resource distribution
+scheme incorporates
+hybrid resource distribution scheme
+employs
+hybrid resource 
+distribution scheme introduces
+distributed applications
+general terms
+algorithms
+942-8555 ext 1424
+cpj@cpe
+advanced topic workshop
+middleware
+pioneering
+work deploying p2p system
+lightweight content replication scheme
+service provider/querier broadcasts 
+advertisement/query
+ieee sarnoff symposium digest
+adaptively combines proactive resource 
+advertisement
+introduction
+mobile ad-hoc networks
+proposed resource
+replication mechanism

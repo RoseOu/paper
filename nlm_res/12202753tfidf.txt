@@ -1,0 +1,10 @@
+chromosome
+HYG
+homologues
+clone
+genes
+clones
+switch
+region
+transcription
+SpeI

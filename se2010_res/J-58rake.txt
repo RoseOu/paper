@@ -1,0 +1,20 @@
+computer science
+northwestern university
+evanston
+algorithm 2 approximate minimum weighted vertex cover
+input
+general framework
+ming-yang kao
+∗
+dept
+electronic commerce
+general terms
+algorithms
+virtual complete link weighted graph
+link weighted steiner tree problem
+minimum weighted vertex cover
+problem
+computer science
+illinois institute
+minimum weight steiner [18] tree fall
+3 virtual minimal spanning trees

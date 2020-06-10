@@ -1,0 +1,10 @@
+patients
+time
+doctors
+talking
+listening
+start
+consultation
+``
+outpatient
+clinic

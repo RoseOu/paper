@@ -1,0 +1,74 @@
+q1
+q1 r1
+p1
+1p
+1newp
+1
+repl−p1
+repl−p1
+1
+udp1
+fd1
+rp2p1
+ct1
+network
+1gm
+send
+deliver
+figure 6
+flexible protocol kernel supporting multiple
+coordinated channels
+stack 1
+s1
+q1 r1
+p1
+network
+figure 1
+1
+network
+fd1
+gm1
+rp2p
+nt
+udp
+stack 1
+p1
+q1 r1
+s1
+network
+inadequate
+representation representation
+protocol composition clear
+abcast
+consensus
+stack 1
+repl
+ct1
+1abc
+stack 1
+udp1rp2p1
+repl
+ct1
+1abc
+p1
+q1
+p1
+q1
+t1t1
+pcs
+running red hat linux 7
+4th acm/ifip/usenix international middleware
+conference
+simply implement dynamic protocol updates
+constructing fine-grain configurable communication
+services
+integrated ad-hoc solutions
+mechanism
+table 1
+4th ieee international
+symposium
+pentium
+iii 766 mhz processor
+100 base-tx duplex ethernet hub
+1st ieee international symposium
+3rd ieee international symposium

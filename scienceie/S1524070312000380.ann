@@ -1,0 +1,10 @@
+T1	Process 0 21	Isogeometric analysis
+T2	Process 23 26	IGA
+T3	Process 33 60	numerical simulation method
+T4	Process 92 132	NURBS-based representation of CAD models
+T5	Process 259 291	physical domain is parameterized
+T6	Process 490 499	splitting
+T7	Process 1657 1665	sweeping
+T8	Process 568 587	Galerkin projection
+T9	Process 655 700	formulation of partial differential equations
+T10	Process 744 765	isogeometric analysis

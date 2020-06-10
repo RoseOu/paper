@@ -1,0 +1,10 @@
+nanowire
+thinned
+thinning
+width
+site-specific
+FIB
+Transmission
+tungsten
+20nm
+morphology

@@ -1,0 +1,10 @@
+optimal voltage changeable rule
+beam pumping unit
+thyristor trigger angle
+optimal voltage
+power factor
+equal parts
+genetic algorithm
+energy saving
+light load
+constant load

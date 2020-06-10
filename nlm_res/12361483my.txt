@@ -1,0 +1,10 @@
+CFTR
+PEST
+cells
+protein
+sequence
+mutants
+region
+degradation
+|
+number

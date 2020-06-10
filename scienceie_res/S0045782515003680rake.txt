@@ -1,0 +1,10 @@
+combining multiresolution subdivision surfaces
+optimised surrogate geometry model
+immersed finite elements
+iteratively updated based
+finite element computation
+surrogate geometry model  [2
+computer aided design
+geometric design features
+finite element analysis
+true cad model

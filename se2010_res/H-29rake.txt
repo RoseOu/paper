@@ -1,0 +1,50 @@
+abstract
+existing pseudo-relevance feedback methods typically 
+perform averaging
+computer science
+carnegie mellon university
+pittsburgh
+jamie callan
+language technologies institute
+school
+resampling documents helps increase individual feedback model
+precision
+recall 15084/37393 19172/37393 15396/37393
+trec 7
+avgp 0
+recall 2179/4674 2608/4674 2487/4674
+trec 8
+avgp 0
+recall 2144/4728 2642/4728 2485/4728
+wt10g
+avgp 0
+expanded query
+qexp = qorig + φt
+φqorig
+combination method gave modest positive 
+improvements
+feedback model quality measure occurs indirectly
+retrieval 
+system supports structured query languages [12]
+recall 3361/5980 3725/5980 3664/5980
+table 1
++ relevance-score
+weighting weighting
+trec
+1&2
+avgp 0
+observed similar feedback term behavior
+rs-fb method achieved 
+consistent improvements
+arbitrarily complex 
+inference network defined
+collection noexp base-fb rs-fb
+trec
+1&2
+avgp 0
+dot product φt
+qorig
+simulation technique called bootstrap
+sampling
+rs-fb feedback method obtained higher
+robustness

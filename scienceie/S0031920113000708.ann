@@ -1,0 +1,10 @@
+T1	Process 0 17	Geomagnetic jerks
+T2	Material 69 91	Earth’s magnetic field
+T3	Process 176 181	Jerks
+T4	Process 298 327	geomagnetic secular variation
+T5	Process 329 331	SV
+T7	Material 367 386	main magnetic field
+T9	Material 388 390	MF
+T10	Process 410 426	gradient changes
+T12	Process 545 565	secular acceleration
+T13	Process 567 569	SA

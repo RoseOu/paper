@@ -1,0 +1,10 @@
+T1	Process 83 88	SLAMM
+T2	Process 179 182	SLR
+T4	Material 1127 1148	marsh migration model
+T5	Process 1216 1230	spatial inputs
+T6	Process 1232 1235	DEM
+T7	Process 1255 1272	parameter choices
+T8	Process 1274 1289	accretion rates
+T10	Task 44 110	present and discuss the application of SLAMM to the New York coast
+T11	Process 1237 1243	VDATUM
+T12	Process 1291 1302	tide ranges

@@ -1,0 +1,10 @@
+alpha2beta1
+alpha2
+SA11
+RRV
+MAb
+cells
+proteins
+beta1
+binding
+CHO

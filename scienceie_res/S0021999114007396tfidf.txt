@@ -1,0 +1,10 @@
+fractional
+Galerkin
+multi-term
+diffusion
+Caputo
+derivatives
+nonsmooth
+discrete
+numerical
+convergence

@@ -1,0 +1,10 @@
+quark
+2SC
+phase
+CFL
+NJL
+favored
+compact
+parameter
+stars
+neutral

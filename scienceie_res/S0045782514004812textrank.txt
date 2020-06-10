@@ -1,0 +1,10 @@
+time
+problems
+problem
+space domain
+δtn
+sn
+spatial
+step
+order
+notation

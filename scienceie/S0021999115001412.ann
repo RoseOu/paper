@@ -1,0 +1,10 @@
+T1	Task 120 155	theory of active polar viscous gels
+T2	Process 195 238	models the continuum, macroscopic mechanics
+T4	Material 258 280	uniaxial active agents
+T6	Material 296 315	viscous bulk medium
+T7	Material 415 436	uniaxial polar agents
+T10	Material 1099 1149	energy consuming, anisotropic, non-Newtonian fluid
+T13	Process 652 670	polarization field
+T14	Process 689 707	equation of motion
+T15	Process 866 887	constitutive equation
+T16	Process 1023 1057	continuum hydrodynamic description

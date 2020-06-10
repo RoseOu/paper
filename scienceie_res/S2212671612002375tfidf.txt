@@ -1,0 +1,10 @@
+reasoning
+analyze
+ontology
+Grid
+ontology-based
+vocabularies
+semantic
+Jena
+reasoner
+procedure

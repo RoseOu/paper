@@ -1,0 +1,21 @@
+abstract
+internet search companies sell advertisement slots based
+behavioral sciences -economics
+general terms
+algorithms
+complex repeated game involving multiple 
+advertisers
+ieor
+columbia university
+cliff@ieor
+greedy facility location algorithms
+analyzed
+search-based advertising
+auctions
+jon feldman
+google
+interesting bids iq = {costq[1]/αq [1]
+ad scheduling
+tool offered
+black box returning clicks
+search-based advertising services proc

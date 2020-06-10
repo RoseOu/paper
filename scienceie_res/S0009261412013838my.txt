@@ -1,0 +1,10 @@
+graphene
+formation
+AC-TEM
+edge
+self-assembly
+electron
+fullerene
+flake
+process
+vacancies

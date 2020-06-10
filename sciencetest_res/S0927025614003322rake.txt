@@ -1,0 +1,10 @@
+previously calculated alloy phase diagrams [19
+access calculated physical properties
+requires efficient interfaces
+simple web-based api
+higher level work-flows
+previous published works
+high-throughput materials science
+mechanical properties
+runtime properties
+specific application

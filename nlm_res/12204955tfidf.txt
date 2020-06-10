@@ -1,0 +1,10 @@
+Pnc
+antibodies
+EIA
+serum
+samples
+antibody
+serotype
+22F
+homologous
+OPA

@@ -1,0 +1,10 @@
+proton
+conductivity
+PEMs
+IEC
+conduction
+morphology
+segments
+functionalities
+sulfonic
+membrane

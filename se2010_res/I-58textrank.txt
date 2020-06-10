@@ -1,0 +1,20 @@
+strategies
+x
+games
+game
+k
+agents
+agent
+reward
+rewards
+follower
+followers
+follows
+following
+optimal
+optimize
+optimization
+optimality
+optimizing
+integers j
+problem

@@ -1,0 +1,10 @@
+quantum
+classical
+propagator
+equation
+neglected
+WKB
+Bohm
+approximation
+ontology
+Schrödinger

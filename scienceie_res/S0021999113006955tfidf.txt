@@ -1,0 +1,10 @@
+geometric
+convergence
+discretisation
+exponential
+polynomial
+parametrisation
+discontinuities
+smooth
+surface
+geometry

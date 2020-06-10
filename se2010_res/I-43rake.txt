@@ -1,0 +1,52 @@
+design agent
+model
+ideal dynamics
+estimator
+estimator
+dynamics feasibility
+system response data
+figure 1
+emt 
+performance displayed notable efficiency vis-`a-vis
+markovian environment
+level
+approach
+mdp markovian dbc
+environment
+<
+agent faces equally viable versions
+computer
+science
+bar ilan university
+auxiliary bayesian system
+state estimator
+auxiliary bayesian
+system state estimator
+prohibitively
+large off-line time requirements
+[ γt
+rt] π∗
+= arg min
+π
+prob
+partially
+observable markov decision processes
+israel science foundation grant #898/05
+limited-case 
+target system dynamics independent
+partially observable markov decision 
+problems
+security
+guards perform persistent sweeps
+performing greedy action selection based
+emt
+employing greedy action selection
+area
+sweeping problems naturally lends
+recently developed extended markov 
+tracking
+general planning framework 
+dynamics based control
+intelligent agents
+general terms
+algorithms

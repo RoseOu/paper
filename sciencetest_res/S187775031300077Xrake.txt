@@ -1,0 +1,10 @@
+fourteen coupled partial differential equations
+open-source software package petsc [17]
+spatially extended dynamical systems
+ordinary differential equations
+spatially homogeneous solutions
+stable simulation code
+full-grown human cortex
+numerical bifurcation analysis
+liley model [15] considered
+mean-field models

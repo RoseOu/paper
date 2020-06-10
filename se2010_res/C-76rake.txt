@@ -1,0 +1,203 @@
+directs
+substantiates
+usesuses
+manages
+implementsrealizes
+manages
+service
+concludes
+qos
+parameters
+usage
+functionality
+service
+access point
+management
+functionality
+service implementation service management implementation
+service
+agreement
+customersideprovidersidesideindependent
+«role»
+user
+«role»
+customer
+csm
+access point
+service
+client
+csm
+client
+figure 5
+event forward
+resource
+event
+correlation
+service
+event
+correlation
+aggregate
+event
+correlation
+link failure
+report
+event forward
+check www server
+check link
+result display
+link repair
+result display
+result forward
+customer report
+figure 8
+customer
+187
+fault
+detection
+fault
+diagnosis
+resource
+active
+probing
+resource event
+resource
+event
+correlator
+resource
+management
+candidate
+list
+fault
+recovery
+resource
+usage
+service
+active
+probing
+intelligent
+assistant
+service
+event
+correlator
+aggregate
+event
+correlator
+service eventcsm ap
+figure 4
+resources
+usesuses
+service 
+management logic
+sub-service
+management client
+basic 
+management functionality
+«role»
+customer
+«role»
+provider
+«role»
+user
+figure 6
+pages
+content
+caching
+server
+emergency
+server
+webmail
+server dynamic
+web pages
+static
+web pages
+dns proxyip storage
+resources
+concludes accesses
+usesuses
+manages
+side independent
+side independent
+manages
+manages
+concludes
+acts
+improved fault management
+service-oriented event correlation
+andreas hanemann
+munich network management
+team
+leibniz supercomputing
+center
+barer str
+service
+logic
+sub-service
+client
+service
+client
+csm
+client
+de
+david schmitz
+munich network management
+team
+leibniz supercomputing
+center
+barer str
+resource event correlation
+190
+customer csm
+service
+mgmt
+event
+correlator
+resource
+mgmt
+customer reports
+server
+serverserver
+server
+server server
+server
+server
+server
+outgoing
+connection
+hosting
+service implementation service management implementation
+manages
+customer domain
+supplies supplies
+provider domain
+«role»
+provider
+accesses
+de
+martin sailer
+munich network management
+team
+university
+directs
+implementsrealizes
+accesses
+redundant servers
+afs
+nfs
+dbload balancer
+figure 7
+ssh
+dns
+proxy
+ip
+service dependency resource dependency
+user
+aggregate event
+correlator finally performs
+service dependency
+resources
+subservices
+provider
+services
+resource dependency
+figure 2
+aggregate event correlator matches

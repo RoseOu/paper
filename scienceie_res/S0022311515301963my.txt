@@ -1,0 +1,10 @@
+diffusion
+eV
+UO2
+defects
+energies
+potentials
+defect
+Xe
+gas
+trap

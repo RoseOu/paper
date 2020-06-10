@@ -1,0 +1,43 @@
+9
+1
+normalized document entropy
+normalizedsegmententropy
+noisy words
+cue words
+common stop words
+doc−dep stop words
+figure 4
+3-11 3-5 6-8 9-11
+sample size 400 100 100 100
+c99 12% 11% 10% 9%
+u00 10% 9% 7% 5%
+addp03 6
+3-11 3-5 6-8 9-11
+addp03
+pennsylvania state university
+university park
+similarity measures
+general terms
+algorithms
+domain indepedent linear text
+segmentation
+partially remove stop words
+remove stop
+words directly
+term co-clustering
+involves simultaneously finding
+aspect hidden markov model
+additional document-dependent
+stop words
+removing
+common stop words
+addp03using one-sample
+one-sided t-test
+maximum entropy markov model [19]
+probabilistic latent semantic
+analysis
+probabilistic latent semantic analysis
+multiple surface linguistic cues
+natural language processing-text analysis
+hidden markov model approach
+generalized maximum entropy approach

@@ -1,0 +1,10 @@
+cells
+cell
+alpha4beta1
+alpha4
+using
+lamellipodia
+|
+edge
+Figure
+wound

@@ -1,0 +1,10 @@
+T1	Task 1212 1279	multiscale systems comprising an arbitrary number of coupled models
+T2	Process 2 50	multi-physics description of a multiscale system
+T3	Process 77 91	‘hybrid’ model
+T5	Process 140 159	molecular treatment
+T7	Process 185 204	continuum-fluid one
+T9	Process 322 344	micro and macro models
+T10	Process 953 993	time-stepping method for coupled systems
+T11	Process 1057 1080	continuous asynchronous
+T12	Process 1082 1084	CA
+T14	Process 668 683	scale-separated

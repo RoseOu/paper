@@ -1,0 +1,9 @@
+diffusion eigencurves
+case
+polynomial
+irregular
+advection
+galerkin method considered closely
+strongly
+continuous
+discretization

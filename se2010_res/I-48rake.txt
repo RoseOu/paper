@@ -1,0 +1,48 @@
+liverpool
+liverpool l69 7zf
+uk
+mjw@csc
+liverpool
+liverpool l69 7zf
+uk
+wiebe@csc
+branching time versus linear time
+temporal logic
+computer engineering
+bergen university college
+pb
+n-5020 bergen
+norway
+tag@hib
+normative system games
+thomas
+◦
+agotnes
+dept
+wiebe van der hoek
+dept
+s0
+s1
+s2
+s3
+s4
+written k1 k2 iff r1 ⊆ r2
+branching time temporal logic literature
+branching time
+temporal logic intended
+2 pareto efficient normative systems
+pareto efficiency
+uk
+michael wooldridge
+dept
+remaining classical logic connectives
+easily characterise individually rationality
+analysing social contract-style scenarios
+remaining ctl temporal operators
+methods]
+general terms
+theory
+1
+kripke-based
+normative system games
+kripke-based normative system games

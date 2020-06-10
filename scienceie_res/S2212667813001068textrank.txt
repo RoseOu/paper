@@ -1,0 +1,10 @@
+models
+model
+permeability
+core
+field
+tight
+estimation
+estimating
+nmr experimental
+scale method

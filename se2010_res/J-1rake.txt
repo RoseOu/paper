@@ -1,0 +1,39 @@
+generalized trade reduction mechanisms
+mira gonen
+electrical engineering dept
+elan pavlov
+media lab
+mit
+cambridge ma
+generalized trade reduction algorithms presented
+accept problems
+tel aviv university
+ramat aviv 69978
+deterministic trade reduction mechanism17
+reduces
+generalized trade
+reduction algorithms utilize
+double sided combinatorial auction consisting
+agent competition
+double auction mechanism
+il
+rica gonen∗
+yahoo
+payment scheme
+general terms
+algorithms
+generalized trade reduction algorithm gtr-2
+special dividing function appears 
+stringent
+thirteenth annual acm-siam symposium
+algorithm presented
+finds procurement sets
+generalized trade reduction
+algorithms
+generalized trade reduction algorithms
+generalized trade
+reduction algorithms
+dominant strategy double auction
+bid monotonic allocation rule ensures
+procurement class
+based domain mechanism

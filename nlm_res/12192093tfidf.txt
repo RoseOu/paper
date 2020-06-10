@@ -1,0 +1,10 @@
+cells
+CD4
+HA-TCR
+effector
+antigen
+IFN-gamma
+memory
+IL-4
+anti-CD3
+6.5+

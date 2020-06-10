@@ -1,0 +1,10 @@
+resulting boundary phase space coordinate system
+momentum space spherical polar coordinates
+present dea methods rely
+modelling three-dimensional problems
+orthonormal basis approximation
+spatial coordinate
+dea suitable
+easily parametrise
+univariate basis
+fourier basis [8]

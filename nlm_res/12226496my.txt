@@ -1,0 +1,10 @@
+elm1
+seedlings
+phytochrome
+light
+plants
+mutants
+wild-type
+maize
+2
+PPhiB

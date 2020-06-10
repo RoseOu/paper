@@ -1,0 +1,10 @@
+genes
+promoter
+promoted
+bpbf
+aleurone
+aleurones
+ga
+probe
+probes
+expressed

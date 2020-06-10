@@ -1,0 +1,10 @@
+T1	Task 15 46	adaptive beamforming techniques
+T2	Material 51 65	smart antennas
+T3	Process 77 95	Least Mean Squares
+T4	Process 97 100	LMS
+T5	Process 103 126	Sample Matrix Inversion
+T6	Process 128 131	SMI
+T7	Process 134 157	Recursive Least Squares
+T8	Process 159 162	RLS
+T9	Process 168 193	Conjugate Gradient Method
+T10	Process 195 198	CGM

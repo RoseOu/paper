@@ -1,0 +1,6 @@
+T2	Task 68 158	coupling of nonconforming discretized sub-domains in the framework of nonlinear elasticity
+T4	Task 344 365	isogeometric analysis
+T6	Process 482 515	coordinate augmentation technique
+T10	Process 801 829	mortar finite element method
+T13	Material 1165 1205	framework of NURBS based shape functions
+T15	Task 1310 1332	energy–momentum scheme

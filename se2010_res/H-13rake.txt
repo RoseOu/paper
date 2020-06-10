@@ -1,0 +1,35 @@
+waterloo emory university microsoft research
+abstract
+web search engines present lists
+feature tag inv+ inv− %+ con+ con− %+ χ2
+p-
+14th international world
+wide web conference
+13th international world wide web
+conference
+abfeature tag description
+missingsnippet snippet missing
+individual word-level features provide hints
+lower-quality query-dependent fragment 
+selected on-the-fly
+retrieval-search process
+general terms
+experimentation
+number
+attempt natural language generation
+clarke eugene agichtein susan dumais
+users
+perform search tasks faster
+major commercial web search engines
+15th acm
+international conference
+features provide additional indirect support
+web search considerable 
+related research
+commercial web search engines
+predicting web
+search result preferences
+major web search engines
+learning user interaction models
+google desktop search
+system

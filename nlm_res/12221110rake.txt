@@ -1,0 +1,10 @@
+sty1-1 tup11delta tup12delta triple mutant strain induction
+sty1delta tup11delta tup12delta triple mutant strain
+tup11delta tup12delta prr1delta triple mutant strain
+tup11delta tup12delta atf1delta triple mutant strain
+recruiting positive-acting chromatin remodeling complexes
+tup11delta tup12delta double mutant confers
+putative intracellular p-type atpase transporter
+sty1-1 tup11delta tup12delta triple mutant
+tup11delta tup12delta double mutant strain
+atf1delta cells rapidly lose viability

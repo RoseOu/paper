@@ -1,0 +1,10 @@
+strains
+classical
+El
+Tor
+cholerae
+V.
+biotype
+biotypes
+genes
+O1
